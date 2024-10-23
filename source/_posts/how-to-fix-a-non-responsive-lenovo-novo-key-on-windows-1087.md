@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Non-Responsive Lenovo Novo Key on Windows 10/8/7
-date: 2024-10-11T16:02:33.666Z
-updated: 2024-10-17T16:09:25.339Z
+date: 2024-10-20T16:07:32.475Z
+updated: 2024-10-23T12:48:09.239Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f02287ca2d451303bdd76b5dd20.jpg
@@ -70,10 +70,10 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
@@ -94,6 +94,13 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -111,19 +118,6 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -184,16 +178,10 @@ Passo 6\. Testa la Barra di Ricerca:
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
@@ -230,13 +218,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -244,6 +225,19 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -257,6 +251,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -267,6 +268,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -275,21 +283,7 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -306,22 +300,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-entertaining-videoland-audit/"><u>[New] 2024 Approved Entertaining Videoland Audit</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-revolutionize-your-laptop-experience-innovative-methods-for-screen-capture/"><u>[New] 2024 Approved Revolutionize Your Laptop Experience Innovative Methods for Screen Capture</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-propel-your-creativity-mastering-inshot-for-device-edits/"><u>[Updated] In 2024, Propel Your Creativity Mastering Inshot for Device Edits</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-iphone-techniques-crafting-striking-silhouettes/"><u>[Updated] IPhone Techniques Crafting Striking Silhouettes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-perfection-on-ios-and-android-choose-the-top-8-schedulers/"><u>2024 Approved Instagram Perfection on iOS & Android - Choose the Top 8 Schedulers</u></a></li>
-<li><a href="https://win-online.techidaily.com/comparing-aomei-backupper-and-macrium-reflect-which-is-the-superior-data-protection-solution/"><u>Comparing AOMEI Backupper and Macrium Reflect: Which Is the Superior Data Protection Solution?</u></a></li>
-<li><a href="https://win-online.techidaily.com/data-rescue-methods-for-a-formatted-windows-11-hard-disk/"><u>Data Rescue Methods for a Formatted Windows 11 Hard Disk</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-the-advantages-of-using-claude-ai-in-your-projects/"><u>Discovering the Advantages of Using Claude AI in Your Projects</u></a></li>
-<li><a href="https://win-online.techidaily.com/guia-paso-a-paso-para-respaldar-tu-correo-de-windows-10-en-un-disco-externo-usando-tres-tecnicas-sencillas/"><u>Guía Paso a Paso Para Respaldar Tu Correo De Windows 10 en Un Disco Externo Usando Tres Técnicas Sencillas</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-inside-asuss-proart-pa-329q-a-full-review-of-a-top-tier-workstation-monitor/"><u>In 2024, Inside Asus’s ProArt PA 329Q A Full Review of a Top-Tier Workstation Monitor</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/missing-page-error-code-404-on-the-internet/"><u>Missing Page Error Code 404 on the Internet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-openai-api-from-basics-to-advanced-applications/"><u>Navigating Through OpenAI API – From Basics to Advanced Applications</u></a></li>
-<li><a href="https://win-online.techidaily.com/ou-microsoft-office-enregistre-les-fichiers-dautosauvegarde-explication-detaillee/"><u>Où Microsoft Office Enregistre Les Fichiers D'autosauvegarde – Explication Détaillée</u></a></li>
-<li><a href="https://win-online.techidaily.com/preserve-your-data-two-reliable-techniques-for-restoring-your-windows-10-computer/"><u>Preserve Your Data: Two Reliable Techniques for Restoring Your Windows 10 Computer</u></a></li>
-<li><a href="https://win-online.techidaily.com/quick-fix-manual-resurrecting-data-from-your-ps3s-dead-storage/"><u>Quick-Fix Manual: Resurrecting Data From Your PS3's Dead Storage</u></a></li>
-<li><a href="https://win-online.techidaily.com/schritt-fur-schritt-anleitung-zum-erstellen-von-iso-images-unter-windows-10-und-11/"><u>Schritt-Für-Schritt Anleitung Zum Erstellen Von ISO-Images Unter Windows 10 Und 11</u></a></li>
-<li><a href="https://win-online.techidaily.com/stoppt-das-automatische-loschen-von-dateien-tipps-zur-verhinderung-und-wiederherstellung/"><u>Stoppt Das Automatische Löschen Von Dateien: Tipps Zur Verhinderung Und Wiederherstellung</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-going-vertical-post-production-strategies-with-fcpx-and-insta/"><u>[New] Going Vertical Post-Production Strategies with FCPX and Insta</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-multiplatform-iptv-live-streaming-for-2024/"><u>[New] Multiplatform IPTV Live Streaming for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-audio-engineers-guide-switching-from-srt-to-ttml/"><u>[New] The Audio Engineer’s Guide Switching From SRT to TTML</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-leading-the-way-in-efficient-meeting-recording-zooms-finest-tools-reviewed/"><u>[Updated] In 2024, Leading the Way in Efficient Meeting Recording Zoom’s Finest Tools Reviewed</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728487844044-windows-11/"><u>解決方法：在Windows 11上開機時的未顯示應用程序</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728470112131-aomei-backupper/"><u>使用AOMEI Backupper进行简单安装和清除的详细说明</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-hevc-video-transcoder-software-compatible-with-windows-10-and-macos/"><u>Best HEVC Video Transcoder Software Compatible with Windows 10 and MacOS</u></a></li>
+<li><a href="https://win-online.techidaily.com/como-transferir-de-raw-a-ntfs-sin-corromper-tu-informacion-guia-paso-a-paso/"><u>Cómo Transferir De RAW a NTFS Sin Corromper Tu Información: Guía Paso a Paso</u></a></li>
+<li><a href="https://win-online.techidaily.com/efetivamente-expandindo-armazenamento-como-copiar-seu-ssd-para-um-larger-no-windows-10-e-11/"><u>Efetivamente Expandindo Armazenamento: Como Copiar Seu SSD Para Um Larger No Windows 10 E 11</u></a></li>
+<li><a href="https://win-online.techidaily.com/essential-methods-for-secure-and-reliable-outlook-data-preservation/"><u>Essential Methods for Secure and Reliable Outlook Data Preservation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/losung-fur-einen-nicht-funktionierenden-dvd-spieler-schritt-fur-schritt-anleitung-zur-wiederherstellung-der-funktionalitat/"><u>Lösung Für Einen Nicht Funktionierenden DVD-Spieler: Schritt-Für-Schritt-Anleitung Zur Wiederherstellung Der Funktionalität</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/metaverse-insight-discovering-6-realistic-examples/"><u>Metaverse Insight Discovering 6 Realistic Examples</u></a></li>
+<li><a href="https://win-online.techidaily.com/revive-your-apple-health-records-a-comprehensive-tutorial-for-iphone-users/"><u>Revive Your Apple Health Records: A Comprehensive Tutorial for iPhone Users</u></a></li>
+<li><a href="https://win-special.techidaily.com/transitioning-from-windows-home-to-professional-a-step-by-step-guide-and-benefits/"><u>Transitioning From Windows Home to Professional: A Step-by-Step Guide & Benefits</u></a></li>
+<li><a href="https://fox-info.techidaily.com/troubleshooting-frozen-footage-in-photo-booths/"><u>Troubleshooting Frozen Footage in Photo Booths</u></a></li>
+<li><a href="https://win-online.techidaily.com/tutoriel-complet-de-reformatage-sur-lenovo-laptop-avec-les-3-approches-essentielles-pour-la-protection-des-donnees/"><u>Tutoriel Complet De Reformatage Sur Lenovo Laptop Avec Les 3 Approches Essentielles Pour La Protection Des Données</u></a></li>
+<li><a href="https://win-online.techidaily.com/unlock-lost-potential-expert-tips-for-hp-stream-11-system-restore/"><u>Unlock Lost Potential: Expert Tips for HP Stream 11 System Restore</u></a></li>
 </ul></div>
 
