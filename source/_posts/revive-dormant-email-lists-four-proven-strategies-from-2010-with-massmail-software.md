@@ -1,7 +1,7 @@
 ---
 title: "Revive Dormant Email Lists: Four Proven Strategies From 2010 with MassMail Software"
-date: 2024-10-22T01:52:21.043Z
-updated: 2024-10-28T16:34:37.760Z
+date: 2024-11-01T20:11:19.067Z
+updated: 2024-11-04T00:56:07.978Z
 tags:
   - product
 categories:
@@ -22,6 +22,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -31,13 +38,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -51,18 +51,18 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -76,13 +76,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -91,35 +84,49 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -141,13 +148,6 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Emily Bronte
 
  Back to blog
@@ -167,21 +167,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere-for-2024/"><u>[New] Authoritative Picks Top 10 Apps to Watch Football Games Anytime, Anywhere for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-deciphering-fb-mystery-vanishing-youtubefacebook-videos/"><u>[New] In 2024, Deciphering FB Mystery Vanishing YouTube/Facebook Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-sync-up-with-tiktok-live-the-strategy-for-participation/"><u>[Updated] 2024 Approved Sync Up with TikTok Live The Strategy for Participation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-unlocking-every-participants-placement-in-google-meet/"><u>2024 Approved Unlocking Every Participant’s Placement in Google Meet</u></a></li>
-<li><a href="https://win-online.techidaily.com/6-proven-strategies-to-restore-access-to-grayed-out-tracks-in-your-apple-music-library/"><u>6 Proven Strategies to Restore Access to Grayed-Out Tracks in Your Apple Music Library</u></a></li>
-<li><a href="https://win-online.techidaily.com/how-to-restore-deleted-or-corrupted-dll-files-in-windows-11-using-proven-techniques-guide/"><u>How to Restore Deleted or Corrupted DLL Files in Windows 11 Using Proven Techniques (Guide)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-unwind-and-unleash-with-these-premium-yoga-channels/"><u>In 2024, Unwind and Unleash with These Premium Yoga Channels</u></a></li>
-<li><a href="https://win-online.techidaily.com/mastering-data-integrity-expert-strategies-for-fixing-crc-issues/"><u>Mastering Data Integrity: Expert Strategies for Fixing CRC Issues</u></a></li>
-<li><a href="https://win-online.techidaily.com/resolving-windows-10-backup-failure-fast-solutions/"><u>Resolving Windows 10 Backup Failure: Fast Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solutions-quick-guide-on-resolving-steam-disk-write-errors/"><u>Simple Solutions: Quick Guide on Resolving Steam Disk Write Errors</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-performance-verified-chargetechs-mega-27k-mah-power-bank-unleashed-in-our-latest-review/"><u>Top Performance Verified: ChargeTech's Mega 27K mAh Power Bank Unleashed in Our Latest Review</u></a></li>
-<li><a href="https://win-online.techidaily.com/transfert-rapide-des-donnees-de-windows-10-a-un-ssd-sans-utiliser-la-methode-traditionnelle-du-clonage/"><u>Transfert Rapide Des Données De Windows 10 À Un SSD, Sans Utiliser La Méthode Traditionnelle Du Clonage</u></a></li>
-<li><a href="https://win-online.techidaily.com/weitere-automatisierte-onedrive-backuplosung-zu-externen-festplatten-in-den-neuesten-windows-versionen-w11w10w8w7-erklart/"><u>Weitere Automatisierte OneDrive-Backuplösung Zu Externen Festplatten in Den Neuesten Windows-Versionen (W11/W10/W8/W7) Erklärt</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728467981028-windows-pc/"><u>Windows PC保存工具：最適家庭及商業使用</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-maximizing-4k-quality-selecting-between-projection-and-television-screens/"><u>[New] Maximizing 4K Quality Selecting Between Projection and Television Screens</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-proven-pathways-to-promoting-in-vr-lands/"><u>[New] Proven Pathways to Promoting in VR Lands</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-master-the-art-of-editing-your-tiktok-number/"><u>[Updated] Master the Art of Editing Your TikTok Number</u></a></li>
+<li><a href="https://win-online.techidaily.com/1-ultimate-guide-seamless-photo-transfer-from-computer-to-ipad-pro/"><u>1. [Ultimate Guide]: Seamless Photo Transfer From Computer to iPad Pro</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-from-novice-to-pro-using-templates-for-stellar-tiktok-videos/"><u>2024 Approved From Novice to Pro Using Templates for Stellar TikTok Videos</u></a></li>
+<li><a href="https://win-online.techidaily.com/6kej5rg65pa55rov77ya5lplusd5a2y5aw95b6m77ym5a6m5oiq6loh5rqq5zue5ps255qe6ygo56ilic0g5y676zmk6zqo6lqr56k85pyq5yiq6zmk5qqu5qgi/"><u>解決方法：保存好後，完成資源回收的過程 - 去除隨身碼未刪除檔案</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ambient-weather-station-model-ws-1n02-the-ultimate-review-of-its-elite-functionality-and-substantial-cost-implications/"><u>Ambient Weather Station Model WS-1n02 - The Ultimate Review of Its Elite Functionality and Substantial Cost Implications</u></a></li>
+<li><a href="https://win-online.techidaily.com/come-fare-un-backup-totale-su-windows-section-1-the-theme-question/"><u>Come Fare Un Backup Totale Su Windows # Section 1: The Theme Question</u></a></li>
+<li><a href="https://win-online.techidaily.com/easy-upgrade-guide-moving-to-windows-11-from-windows-7881-with-no-data-lost/"><u>Easy Upgrade Guide: Moving to Windows 11 From Windows 7/8/8.1 with No Data Lost</u></a></li>
+<li><a href="https://win-online.techidaily.com/effiziente-systemabbild-rucksetzung-fur-die-wiederherstellung-der-festplatte-unter-windows-7/"><u>Effiziente Systemabbild-Rücksetzung Für Die Wiederherstellung Der Festplatte Unter Windows 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-slow-mobile-internet-connection-key-reasons-and-solutions/"><u>How to Fix a Slow Mobile Internet Connection: Key Reasons & Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/keine-mehr-warum-ihr-iphone-keine-benachrichtigungen-mehr-anzeigt/"><u>Keine Mehr: Warum Ihr iPhone Keine Benachrichtigungen Mehr Anzeigt</u></a></li>
+<li><a href="https://win-online.techidaily.com/losungen-fur-den-verlust-von-dateien-wahrend-der-migration-zum-betriebssystem-windows-11-expertenantworten-und-tipps/"><u>Lösungen Für Den Verlust Von Dateien Während Der Migration Zum Betriebssystem Windows 11: Expertenantworten Und Tipps.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/sonic-layers-in-reels-weaving-audio-into-visuals/"><u>Sonic Layers in Reels Weaving Audio Into Visuals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-strategies-to-anticipate-in-a-full-windows-reinstall/"><u>Top Strategies to Anticipate in a Full Windows Reinstall</u></a></li>
+<li><a href="https://win-online.techidaily.com/troubleshooting-tips-for-ios-downloads-fixing-persistent-time-left-to-complete-errors/"><u>Troubleshooting Tips for iOs Downloads: Fixing Persistent 'Time Left to Complete' Errors</u></a></li>
 </ul></div>
 
