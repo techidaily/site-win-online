@@ -1,7 +1,7 @@
 ---
 title: "Revive Dormant Email Lists: Four Proven Strategies From 2010 with MassMail Software"
-date: 2024-11-09T01:22:34.947Z
-updated: 2024-11-13T00:05:10.757Z
+date: 2024-11-16T18:39:01.231Z
+updated: 2024-11-23T06:23:56.674Z
 tags:
   - product
 categories:
@@ -21,13 +21,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -70,28 +63,12 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -102,21 +79,16 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -130,26 +102,20 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -159,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -179,24 +149,15 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-convincing-audiences-to-join-a-positive-approach-for-2024/"><u>[New] Convincing Audiences to Join A Positive Approach for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-prime-8-android-apps-for-multi-person-video-conferencing-for-2024/"><u>[Updated] Prime 8 Android Apps for Multi-Person Video Conferencing for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/2pc/"><u>「2つの効果的な手法:異なるハードウェアにPCシステムを複製する」</u></a></li>
-<li><a href="https://win-online.techidaily.com/1-3-pasos-sencillos-transferir-tus-datos-del-servidor-de-archivos-synology-a-un-dispositivo-de-almacenamiento-qnap/"><u>1. [3 Pasos Sencillos] Transferir Tus Datos Del Servidor De Archivos Synology a Un Dispositivo De Almacenamiento QNAP</u></a></li>
-<li><a href="https://win-online.techidaily.com/1-resolving-issues-with-non-appearing-iphone-playlist-on-itunes-top-4-solutions/"><u>1. Resolving Issues with Non-Appearing iPhone Playlist on iTunes: Top 4 Solutions</u></a></li>
-<li><a href="https://win-online.techidaily.com/advanced-tools-for-success-in-branding-advertising-and-communication-discover-massmail/"><u>Advanced Tools for Success in Branding, Advertising & Communication - Discover MassMail</u></a></li>
-<li><a href="https://win-online.techidaily.com/backup-del-server-windows-non-visualizzabile-risoluzione-guidata-per-windows-server-backup-2012-r2/"><u>Backup Del Server Windows Non Visualizzabile - Risoluzione Guidata per Windows Server Backup 2012 R2</u></a></li>
-<li><a href="https://win-online.techidaily.com/best-seo-firms-in-munich-2024-ranking-expert-insights-with-seo-powersuites-comparison/"><u>Best SEO Firms in Munich 2024 Ranking - Expert Insights with SEO PowerSuite's Comparison</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-key-to-seamless-workflow-management/"><u>ChatGPT: The Key to Seamless Workflow Management</u></a></li>
-<li><a href="https://win-online.techidaily.com/how-to-convert-mbr-hard-drive-to-gpt-format-across-various-windows-versions-111087/"><u>How to Convert MBR Hard Drive to GPT Format Across Various Windows Versions (11/10/8/7)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-m34-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy M34 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovate-with-windows-10s-newest-apps-and-games/"><u>In 2024, Innovate with Windows 10'S Newest Apps and Games</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/latest-airpower-update-released-could-this-signal-the-return-of-apples-discontinued-wireless-charger/"><u>Latest AirPower Update Released - Could This Signal the Return of Apple's Discontinued Wireless Charger?</u></a></li>
-<li><a href="https://win-online.techidaily.com/mastering-savings-and-efficiency-in-gaming-discover-how-console-tech-saves-resources-powerplay-tutorials/"><u>Mastering Savings & Efficiency in Gaming: Discover How Console Tech Saves Resources | PowerPlay Tutorials</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/optimizing-your-podcasts-itunes-placement-for-2024/"><u>Optimizing Your Podcast's iTunes Placement for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/standard-youtube-license-vs-creative-commons/"><u>Standard YouTube License Vs. Creative Commons</u></a></li>
-<li><a href="https://win-online.techidaily.com/the-top-3-breakthroughs-in-email-campaigning-for-2012-prioritizing-relevant-content-triggered-communications-and-advanced-personalized-touches-crafted-by-ma1/"><u>The Top 3 Breakthroughs in Email Campaigning for 2012: Prioritizing Relevant Content, Triggered Communications & Advanced Personalized Touches | Crafted by Massmail Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-role-of-a-chatgpt-code-interpreter-unveiling-its-significance/"><u>Understanding the Role of a ChatGPT Code Interpreter: Unveiling Its Significance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-down-the-issue-with-msi-z790-boards-cracked-chipsets-and-affected-units-amid-possible-assembly-fault-new-developments/"><u>Breaking Down the Issue with MSI Z790 Boards: Cracked Chipsets & Affected Units Amid Possible Assembly Fault (New Developments)</u></a></li>
+<li><a href="https://win-online.techidaily.com/effective-strategies-overcoming-onedrive-synchronization-problems-in-windows-11-xp/"><u>Effective Strategies: Overcoming OneDrive Synchronization Problems in Windows 11 (XP)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/guia-para-resolver-la-perdida-del-acceso-a-mis-documentos-en-windows-11-solucion-completa/"><u>Guía Para Resolver La Pérdida Del Acceso a 'Mis Documentos' En Windows 11 - Solución Completa</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-to-restore-data-fixing-broken-corrupted-file-systems/"><u>How to Restore Data: Fixing Broken, Corrupted File Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-nokia-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Nokia Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-hot-30i-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027605305-mkv/"><u>MKVファイルを携帯電話画面に表示する方法とトラブルシューティング</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-x8b-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor X8b Device</u></a></li>
+<li><a href="https://win-online.techidaily.com/windows-1110-clonezilla/"><u>Windows 11/10 复制指南：使用 Clonezilla 与其他简单方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 1. Sollten Alte Backups Auf Einer Externen Festplatte Gelöscht Werden?
-date: 2024-11-12T03:32:42.082Z
-updated: 2024-11-12T22:20:41.367Z
+date: 2024-11-17T19:50:59.599Z
+updated: 2024-11-23T01:33:34.114Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120ed3c32dedf0e24f515c80068.png
@@ -50,10 +50,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -76,13 +73,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -101,13 +91,6 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -125,13 +108,6 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -165,6 +141,10 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -191,6 +171,10 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -211,6 +195,10 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -225,6 +213,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -232,6 +224,10 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -255,13 +251,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -270,14 +259,11 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,19 +280,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-fostering-viewer-commitment-in-youtube-videos/"><u>2024 Approved The Ultimate Guide to Fostering Viewer Commitment in YouTube Videos</u></a></li>
-<li><a href="https://win-online.techidaily.com/5-pc/"><u>易行的 5 技巧：達成優秀PC間快速數據交換</u></a></li>
-<li><a href="https://win-online.techidaily.com/comparing-windows-10-version-history-with-aomei-backupper-free-software/"><u>Comparing Windows 10 Version History with AOMEI Backupper Free Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-future-how-forefront-ai-stacks-up-against-chatgpt/"><u>Decoding the Future: How Forefront AI Stacks Up Against ChatGPT</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-address-missing-zlibdll-files-on-your-computer/"><u>Easy Steps to Address Missing zlib.dll Files on Your Computer</u></a></li>
-<li><a href="https://win-online.techidaily.com/expert-tips-on-configuring-wbadmin-target-destinations-for-efficient-system-backups/"><u>Expert Tips on Configuring WBAdmin Target Destinations for Efficient System Backups</u></a></li>
-<li><a href="https://win-online.techidaily.com/how-to-recover-deleted-files-from-a-usb-flash-drive-without-software-free-guide/"><u>How to Recover Deleted Files From a USB Flash Drive Without Software - Free Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-a1x-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on A1x 5G</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-printer-jet-pro-8710-software-installation-guide-windows/"><u>HP Printer Jet Pro 8710 Software Installation Guide (Windows)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/muzik-pathway-tamil-music-to-your-phones-chime/"><u>Muzik Pathway Tamil Music to Your Phone's Chime</u></a></li>
-<li><a href="https://win-online.techidaily.com/real-time-streaming-of-tweets-mentioning-bitcoin-or-ethereum/"><u>Real-Time Streaming of Tweets Mentioning Bitcoin or Ethereum.</u></a></li>
-<li><a href="https://win-online.techidaily.com/sichere-bootverifizierung-effiziente-methoden-zum-klonen-von-windows-8-systemen/"><u>Sichere Bootverifizierung: Effiziente Methoden Zum Klonen Von Windows-8-Systemen</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/simplifying-typeface-addition-for-enhanced-creativity-in-ae/"><u>Simplifying Typeface Addition for Enhanced Creativity in AE</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-top-picks-for-professional-video-opening-tools/"><u>[New] 2024 Approved Top Picks for Professional Video Opening Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-economical-pc-playback-devices-for-2024/"><u>[Updated] Economical PC Playback Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-master-the-art-of-fb-story-downloads-on-every-device/"><u>[Updated] In 2024, Master the Art of FB Story Downloads on Every Device</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728510231522-windows/"><u>「快速复制私人数据：在不启动Windows的情况下进行操作方法（详解）」</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-tunes-apps-win-edition/"><u>2024 Approved Top Tunes Apps Win Edition</u></a></li>
+<li><a href="https://win-online.techidaily.com/iuwkueaenoeahoobquodkeodvoodhuocoplusoctplusodpplusodsplusobqoodnoodquodpeodvoodooobqplusocioociplusodhplusodvoocvplussneittzrjg5djg4pjgqjgqljg4pjg5fmiyvpoi364/"><u>効果的なパーティションとボリュームによるデータ保護:バックアップ手順ガイド</u></a></li>
+<li><a href="https://solve-info.techidaily.com/auf-dem-weg-zur-konsolidierung-von-buchhaltungsprozessen-wie-abbyy-und-sap-rochlings-rechnungswesen-vereinen/"><u>Auf Dem Weg Zur Konsolidierung Von Buchhaltungsprozessen – Wie ABBYY Und SAP Röchlings Rechnungswesen Vereinen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-human-machine-bonds-with-sentiment-analysis/"><u>Bridging Human-Machine Bonds with Sentiment Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-the-apple-watch-ultra-and-apple-watch-series-8-a-comprehensive-guide/"><u>Choosing Between the Apple Watch Ultra and Apple Watch Series 8: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-online.techidaily.com/comment-annuler-avec-ease-la-suppression-de-la-corbeille-sous-windows-un-guide-detaille/"><u>Comment Annuler Avec Ease La Suppression De La Corbeille Sous Windows : Un Guide Détaillé</u></a></li>
+<li><a href="https://win-online.techidaily.com/das-handbuch-fur-die-rekonstruktion-von-csv-datenbankdateien-erfolgreiches-datenwiederherstellungsprotokoll-myrecover/"><u>Das Handbuch Für Die Rekonstruktion Von .CSV-Datenbankdateien: Erfolgreiches Datenwiederherstellungsprotokoll | MyRecover</u></a></li>
+<li><a href="https://win-online.techidaily.com/expert-tips-for-executing-a-dell-factory-reset-through-the-windows-7-terminal/"><u>Expert Tips for Executing a Dell Factory Reset Through the Windows 7 Terminal</u></a></li>
+<li><a href="https://win-online.techidaily.com/guia-detallada-para-copiar-sistema-operativo-windows-11-en-una-unidad-de-estado-solido-nvme-ejemplo-de-acciones/"><u>Guía Detallada Para Copiar Sistema Operativo Windows 11 en Una Unidad De Estado Sólido NVMe - Ejemplo De Acciones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-13t-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on 13T Pro</u></a></li>
+<li><a href="https://win-online.techidaily.com/ripristina-la-tua-scheda-sd-formattata-in-modo-facile-passaggi-dettagliati-sia-da-pc-con-windows-che-dal-tuo-telefono-android/"><u>Ripristina La Tua Scheda SD Formattata in Modo Facile: Passaggi Dettagliati Sia Da PC Con Windows Che Dal Tuo Telefono Android</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-fix-your-logitech-g-pro-x-microphone-malfunctions-easily/"><u>Solved: Fix Your Logitech G Pro X Microphone Malfunctions Easily</u></a></li>
+<li><a href="https://win-online.techidaily.com/step-by-step-guide-upgrading-the-storage-in-your-asus-eeepc-models-901-900-and-ebook/"><u>Step-by-Step Guide: Upgrading the Storage in Your ASUS EeePC Models 901, 900 & eBook</u></a></li>
+<li><a href="https://win-online.techidaily.com/step-by-step-tutorial-for-implementing-norton-ghost-across-various-windows-versions-windows-11-10-8-and/"><u>Step-by-Step Tutorial for Implementing Norton Ghost Across Various Windows Versions (Windows 11, 10, 8 &)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lenovo-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lenovo Device</u></a></li>
 </ul></div>
 
