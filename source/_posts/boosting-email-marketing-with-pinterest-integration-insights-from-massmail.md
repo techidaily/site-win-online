@@ -1,7 +1,7 @@
 ---
 title: Boosting Email Marketing with Pinterest Integration - Insights From MassMail
-date: 2024-11-26T23:39:06.151Z
-updated: 2024-11-30T22:50:40.828Z
+date: 2024-12-05T08:56:05.894Z
+updated: 2024-12-08T18:04:19.608Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -32,13 +36,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -55,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -70,33 +74,17 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -106,9 +94,17 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -130,6 +126,10 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Emily Bronte
 
  Back to blog
@@ -149,18 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-earn-facebooks-trusted-prestigious-symbol/"><u>[New] In 2024, How to Earn Facebook's Trusted, Prestigious Symbol</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-9-premium-wedding-films-online-youtube-and-vimeo/"><u>[Updated] Top 9 Premium Wedding Films Online Youtube & Vimeo</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728483173538-d3/"><u>「ローカルディスクD」ファイルを手軽に消去するための3つのテクニック</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-resolve-issues-with-the-realtek-rtl8eb-wireless-network-adapter-drivers/"><u>How to Resolve Issues with the Realtek RTL8eb Wireless Network Adapter Drivers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-poco-m6-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Poco M6 5G Easily?</u></a></li>
-<li><a href="https://win-online.techidaily.com/optimal-data-safety-mastering-windows-server-2012-with-aomei-backupper/"><u>Optimal Data Safety: Mastering Windows Server 2012 with AOMEI Backupper</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/optimal-echoes-lecture-recording-experts/"><u>Optimal Echoes Lecture Recording Experts</u></a></li>
-<li><a href="https://win-online.techidaily.com/samsung-m2-ssdos-windows-111087/"><u>Samsung M.2 SSDの複製に自由で便利なソフトウェア【対話型OS Windows 11、10、8、7向け】</u></a></li>
-<li><a href="https://games-able.techidaily.com/securely-linking-ps5-to-your-cell-phone-via-bluetooth/"><u>Securely Linking PS5 to Your Cell Phone via Bluetooth</u></a></li>
-<li><a href="https://win-online.techidaily.com/simplify-storage-transfer-and-protect-your-outlook-emails-with-onedrive/"><u>Simplify Storage: Transfer and Protect Your Outlook Emails with OneDrive</u></a></li>
-<li><a href="https://win-online.techidaily.com/strategies-pour-restaurer-une-partition-manquante-sous-windows-10-fonctionne-t-elle-vraiment/"><u>Stratégies Pour Restaurer Une Partition Manquante Sous Windows 10 - Fonctionne-T-Elle Vraiment?</u></a></li>
-<li><a href="https://win-online.techidaily.com/unlimited-cloud-storage-for-free-auto-upload-feature-safeguard-all-your-images-and-videos-to-ms-onedrive/"><u>Unlimited Cloud Storage for FREE!] Auto-Upload Feature: Safeguard All Your Images & Videos to MS OneDrive</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unlocking-the-secrets-of-chatsonic-in-depth-analysis-and-key-takeawutes-for-mastery-over-the-advanced-ai-chatterbot/"><u>Unlocking the Secrets of Chatsonic: In-Depth Analysis and Key Takeawutes for Mastery over the Advanced AI Chatterbot</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-integrating-soundscape-with-video-narrative-in-premiere-pro/"><u>[New] Integrating Soundscape With Video Narrative in Premiere Pro</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/utorial-tracking-down-your-youtube-comments/"><u>[New] Tutorial Tracking Down Your YouTube Comments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-clearing-up-confusion-addressing-youtube-short-concerns/"><u>[Updated] 2024 Approved Clearing Up Confusion Addressing YouTube Short Concerns</u></a></li>
+<li><a href="https://win-online.techidaily.com/exploring-solutions-unraveling-the-reasons-behind-graphical-flaws-in-your-system-insights-by-yl-computing/"><u>Exploring Solutions: Unraveling the Reasons Behind Graphical Flaws in Your System - Insights by YL Computing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/views-to-valuables-the-ultimate-video-income-play-for-2024/"><u>From Views to Valuables The Ultimate Video Income Play for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-to-activate-microsofts-auto-update-system-for-windows-10-operating-systems-by-yourself-tips-from-yl-tech-solutions/"><u>How To Activate Microsoft's Auto-Update System for Windows 10 Operating Systems by Yourself – Tips From YL Tech Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-honor-x9b-easily-by-drfone-android/"><u>How To Unlock a Honor X9b Easily?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-logitech-hd-camera-software-windows-11-edition/"><u>Installing Logitech HD Camera Software – Windows 11 Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-loophole-ideas-for-7-hilarious-youtube-showcases-for-2024/"><u>Laugh Loophole Ideas for 7 Hilarious YouTube Showcases for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/master-windows-display-settings-with-our-step-by-step-walkthrough-digitalwizardry/"><u>Master Windows Display Settings with Our Step-by-Step Walkthrough - DigitalWizardry</u></a></li>
+<li><a href="https://win-online.techidaily.com/navigating-crypto-compliance-a-deep-dive-into-current-laws-by-experts-at-yl-computing-and-yl-software/"><u>Navigating Crypto Compliance: A Deep Dive Into Current Laws by Experts at YL Computing & YL Software</u></a></li>
+<li><a href="https://win-online.techidaily.com/personalizing-your-screen-a-step-by-step-guide-to-tailoring-desktop-backgrounds-yl-computings-comprehensive-strategies/"><u>Personalizing Your Screen: A Step-by-Step Guide to Tailoring Desktop Backgrounds - YL Computing's Comprehensive Strategies</u></a></li>
+<li><a href="https://win-online.techidaily.com/professional-dodge-cummings-series-hd-image-collection-premium-wallpapers-desktop-backgrounds-photos-curated-by-yl-software-solutions/"><u>Professional Dodge Cummings Series HD Image Collection | Premium Wallpapers, Desktop Backgrounds, Photos – Curated by YL Software Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/straightforward-steps-to-freshly-update-your-microsoft-drivers-on-windows-10-8-or-nw-7-systems/"><u>Straightforward Steps to Freshly Update Your Microsoft Drivers on Windows 10, 8 or Nw, 7 Systems</u></a></li>
+<li><a href="https://win-online.techidaily.com/yl-software-tutorial-how-to-set-up-your-own-typefaces-on-windows-and-macos/"><u>YL Software Tutorial: How To Set Up Your Own Typefaces On Windows & MacOS</u></a></li>
 </ul></div>
 

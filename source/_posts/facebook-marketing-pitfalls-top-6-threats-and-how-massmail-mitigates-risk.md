@@ -1,7 +1,7 @@
 ---
 title: "Facebook Marketing Pitfalls: Top 6 Threats and How MassMail Mitigates Risk"
-date: 2024-11-28T18:33:43.118Z
-updated: 2024-11-30T22:27:25.098Z
+date: 2024-12-05T03:57:08.826Z
+updated: 2024-12-09T06:22:18.154Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -40,6 +40,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -47,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -70,6 +70,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -83,7 +87,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -94,21 +98,17 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -118,10 +118,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-prime-visual-cutting-software-for-windows-editors-choice-list/"><u>[New] 2024 Approved Prime Visual Cutting Software for Windows - Editor’s Choice List</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-utilizing-famebit-techniques-for-youtube-sponsorship-success/"><u>[New] Utilizing FameBit Techniques for YouTube Sponsorship Success</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-captivating-spokesperson-appraisal-8th-analysis/"><u>[Updated] Captivating Spokesperson Appraisal 8Th Analysis</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-freevista-landing-on-exquisite-costless-tiktok-screenshots/"><u>[Updated] In 2024, The FREEvista Landing on Exquisite, Costless TikTok Screenshots</u></a></li>
-<li><a href="https://win-online.techidaily.com/1-exclusive-valentines-day-promotional-email-designs-by-atompark-mass-mailing-software/"><u>1. Exclusive Valentine's Day Promotional Email Designs by AtomPark: Mass Mailing Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-official-winxvideo-ai-features-and-tech-specs-detailed-guide/"><u>1. Official WinXVideo AI Features and Tech Specs: Detailed Guide</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728482561594-3/"><u>不小心格式化驱动器时应怎么办?介绍3种轻松解决之道！</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/benefits-and-drawbacks-unveiling-the-pros-and-cons-of-using-webex-as-your-virtual-office/"><u>Benefits and Drawbacks: Unveiling the Pros and Cons of Using Webex as Your Virtual Office</u></a></li>
-<li><a href="https://win-online.techidaily.com/cost-effective-strategies-for-retrieving-lost-microsoft-word-documents/"><u>Cost-Effective Strategies for Retrieving Lost Microsoft Word Documents</u></a></li>
-<li><a href="https://facebook.techidaily.com/dissecting-the-upcoming-us-antitrust-measures-against-major-tech-firms/"><u>Dissecting the Upcoming US Antitrust Measures Against Major Tech Firms</u></a></li>
-<li><a href="https://win-online.techidaily.com/errori-detectati-durante-la-configurazione-della-backup-unit/"><u>Errori Detectati Durante La Configurazione Della Backup Unit</u></a></li>
-<li><a href="https://win-online.techidaily.com/how-to-fix-windows-11-ssd-underreporting-maximum-storage-space-issue/"><u>How to Fix Windows 11 SSD Underreporting Maximum Storage Space Issue</u></a></li>
-<li><a href="https://win-online.techidaily.com/overcome-gameplay-problems-on-windows-11-with-these-6-effective-fixes/"><u>Overcome Gameplay Problems on Windows 11 with These 6 Effective Fixes</u></a></li>
-<li><a href="https://win-online.techidaily.com/sicherung-von-installationsprogrammen-auf-windows-111087-entdecken-sie-die-drei-effizientesten-methoden/"><u>Sicherung Von Installationsprogrammen Auf Windows 11/10/8/7 - Entdecken Sie Die Drei Effizientesten Methoden</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speech-precision-unlock-with-a-set-of-twisters/"><u>Speech Precision: Unlock with a Set of Twisters</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-strategies-for-moving-your-hotmail-correspondence-to-outlook-unveiling-the-best-practices-part-1-of-3/"><u>Step-by-Step Strategies for Moving Your Hotmail Correspondence to Outlook: Unveiling the Best Practices (Part 1 of 3)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/unleashing-the-power-the-desktop-might-of-apples-2021-ipad-pro-with-m1-processor-comprehensive-review/"><u>Unleashing the Power: The Desktop Might of Apple's 2021 iPad Pro with M1 Processor - Comprehensive Review</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-unleash-your-creativity-top-3d-video-makers-with-free-and-paid-versions-for-2024/"><u>Updated Unleash Your Creativity Top 3D Video Makers with Free and Paid Versions for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/effektivnye-opcii-dlya-seo-ispolzovaniya-ubersuggest-i-provedeniya-keyword-issledovanij-kompaktnyj-spisok-optimusseo/"><u>Эффективные Опции Для SEO-Использования Ubersuggest И Проведения Keyword-Исследований: Компактный Список | OptimusSEO</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-comprehensible-guide-to-documenting-live-sports-events/"><u>[New] In 2024, Comprehensible Guide to Documenting Live Sports Events</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-best-virtual-playground-for-ps3-games-on-windows-pcs/"><u>[New] In 2024, The Best Virtual Playground for PS3 Games on Windows PCs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-key-to-a-profitable-yt-channel-accurate-monetization-verification/"><u>[Updated] In 2024, The Key to a Profitable YT Channel Accurate Monetization Verification</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-vintage-visions-post-copyright-era/"><u>[Updated] Vintage Visions Post-Copyright Era</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-step-by-step-guide-exploring-every-nook-and-cranny-of-stardew-valley-particularly-ginger-island/"><u>2024 Approved Step-by-Step Guide Exploring Every Nook and Cranny of Stardew Valley, Particularly Ginger Island</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-video-formats-effortlessly-with-movavi-download-free-tool-for-flv-to-wav-conversion/"><u>Convert Video Formats Effortlessly with Movavi - Download Free Tool for FLV to WAV Conversion!</u></a></li>
+<li><a href="https://win-online.techidaily.com/effective-strategies-to-optimize-your-pcs-memory-utilization-insights-from-yl-computing-and-software-experts/"><u>Effective Strategies to Optimize Your PC's Memory Utilization: Insights From YL Computing & Software Experts</u></a></li>
+<li><a href="https://win-online.techidaily.com/expert-advice-on-windows-defender-deactivation-is-it-a-safe-practice/"><u>Expert Advice on Windows Defender Deactivation - Is It a Safe Practice?</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-to-fix-the-problem-of-audio-settings-not-retaining-changes-on-your-device-tips-from-yl-software-experts/"><u>How to Fix the Problem of Audio Settings Not Retaining Changes on Your Device - Tips From YL Software Experts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/reinstalling-and-updating-your-scanners-firmware-a-step-by-step-guide-tips-from-yl-computing/"><u>Reinstalling and Updating Your Scanner's Firmware: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-online.techidaily.com/transform-your-pcs-aesthetic-customizing-windows-11-themes-and-backgrounds-insights-from-yl-computing/"><u>Transform Your PC's Aesthetic: Customizing Windows 11 Themes & Backgrounds - Insights From YL Computing</u></a></li>
+<li><a href="https://win-online.techidaily.com/travelin-bros-in-harmony-explore-dynamic-background-graphics-for-your-space-with-yl-softwares-boyband-series/"><u>Travelin' Bros in Harmony! Explore Dynamic Background Graphics for Your Space with YL Software’s Boyband Series</u></a></li>
+<li><a href="https://win-online.techidaily.com/troubleshooting-failing-device-drivers-expert-advice-by-yl-software/"><u>Troubleshooting Failing Device Drivers: Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-online.techidaily.com/troubleshooting-visual-glitches-tips-from-yl-software-experts/"><u>Troubleshooting Visual Glitches: Tips From YL Software Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-potential-with-openai-api-a-users-handbook-to-infinite-creativity/"><u>Unlocking Potential with OpenAI API - A User's Handbook to Infinite Creativity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-explores-the-hidden-lifespan-of-apple-watch-batteries-are-you-in-for-a-surprise/"><u>ZDNET Explores the Hidden Lifespan of Apple Watch Batteries - Are You in for a Surprise?</u></a></li>
 </ul></div>
 

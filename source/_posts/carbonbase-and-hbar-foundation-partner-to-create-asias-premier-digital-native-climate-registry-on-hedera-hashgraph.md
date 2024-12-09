@@ -1,7 +1,7 @@
 ---
 title: Carbonbase & HBAR Foundation Partner to Create Asia's Premier Digital Native Climate Registry on Hedera Hashgraph
-date: 2024-11-23T22:38:21.177Z
-updated: 2024-11-30T18:05:48.897Z
+date: 2024-12-02T08:01:05.244Z
+updated: 2024-12-09T01:34:43.317Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,24 +56,20 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-app-reviews-by-az-capture/"><u>[Updated] 2024 Approved Ultimate Guide to App Reviews by AZ Capture</u></a></li>
-<li><a href="https://win-online.techidaily.com/1-seamless-transition-moving-your-art-from-procreate-on-mac-to-new-ipad/"><u>1. Seamless Transition: Moving Your Art From Procreate on Mac to New iPad</u></a></li>
-<li><a href="https://win-online.techidaily.com/5-effective-techniques-to-restore-accidentally-deleted-files-using-file-explorers-recovery-features/"><u>5 Effective Techniques to Restore Accidentally Deleted Files Using File Explorer's Recovery Features</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728498551661-google-chrome/"><u>如何在Google Chrome中恢复失去的书签——四个有效方法</u></a></li>
-<li><a href="https://win-online.techidaily.com/6ieq5yuv55qe44gr5ymk6zmk44gv44km44kl44ov44kh44kk44or44ks5q2i44kb44cb5ywd6yca44kk44gr44gz44kl44gf44kb44gu44og44kv44ol44od44kv6kej6kqs/"><u>自動的に削除されるファイルを止め、元通りにするためのテクニック解説</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/descarga-gratuita-de-conversor-video-para-mac-instalacion-sencilla-y-poderosa/"><u>Descarga Gratuita De Conversor Vídeo Para Mac - Instalación Sencilla Y Poderosa</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/directors-cut-answers-filmo-tips/"><u>Director's Cut Answers Filmo Tips</u></a></li>
-<li><a href="https://win-online.techidaily.com/essential-advice-for-parents-guiding-your-teens-online-writing-journey-with-the-help-of-massmail/"><u>Essential Advice for Parents: Guiding Your Teen's Online Writing Journey with the Help of Massmail</u></a></li>
-<li><a href="https://win-online.techidaily.com/facil-recuperacion-rapida-de-datos-desde-tu-ssd/"><u>Fácil Recuperación Rápida De Datos Desde Tu SSD</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-best-performance-download-hp-printer-drivers-now/"><u>Get the Best Performance: Download HP Printer Drivers Now</u></a></li>
-<li><a href="https://win-online.techidaily.com/guia-definitiva-para-transferir-datos-de-usb-a-ssd-mediante-programas-para-windows/"><u>Guía Definitiva Para Transferir Datos De USB a SSD Mediante Programas Para Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-the-asus-zephyrus-g14-sets-new-standards-in-non-compromising-portable-gaming-systems/"><u>How the Asus Zephyrus G14 Sets New Standards in Non-Compromising Portable Gaming Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-dead-by-daylight-from-crashing-expert-tips-for-gamers/"><u>How to Stop Dead by Daylight From Crashing - Expert Tips for Gamers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-v30-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo V30 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oneplus-12r-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on OnePlus 12R</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-v30-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo V30 Phone without Google Account?</u></a></li>
-<li><a href="https://win-online.techidaily.com/les-meilleurs-outils-de-sauvegarde-disque-sans-frais-decouvrez-les-top-4-solutions/"><u>Les Meilleurs Outils De Sauvegarde Disque Sans Frais: Découvrez Les Top 4 Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-realme-narzo-n53-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Realme Narzo N53 Screen | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/windows-11-dwm-optimization-reduce-memory-usage-for-enhanced-performance/"><u>Windows 11 DWM Optimization: Reduce Memory Usage for Enhanced Performance</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-rapid-clip-maker-with-preloaded-narration-option/"><u>2024 Approved Rapid Clip Maker with Preloaded Narration Option</u></a></li>
+<li><a href="https://win-online.techidaily.com/adjust-your-personal-preferences-using-the-windows-control-panel-a-step-by-step-guide-tips-from-yl-computing/"><u>Adjust Your Personal Preferences Using the Windows Control Panel: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/anweisungen-fur-die-verwendung-von-win3n-disk-imager-mit-windows-10-x64-schritt-fur-schritt-leitfaden/"><u>Anweisungen Für Die Verwendung Von Win3n Disk Imager Mit Windows 10 (X64) - Schritt-Für-Schritt-Leitfaden</u></a></li>
+<li><a href="https://win-online.techidaily.com/can-pushing-your-processors-limits-lead-to-higher-malfunction-risks-insights-from-yl-computing/"><u>Can Pushing Your Processor's Limits Lead to Higher Malfunction Risks? Insights From YL Computing</u></a></li>
+<li><a href="https://win-online.techidaily.com/can-you-remove-windows-defender-from-your-pc-expert-advice-by-yl-computing/"><u>Can You Remove Windows Defender From Your PC? - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-the-key-to-controlling-your-smart-home-system/"><u>ChatGPT: The Key To Controlling Your Smart Home System</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-magic-vs-2-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-problems-with-unplayable-dvds-on-your-pc/"><u>How to Resolve Problems with Unplayable DVDs on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-successfully-diagnose-and-resolve-pc-speaker-issues/"><u>How To Successfully Diagnose and Resolve PC Speaker Issues</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-to-utilize-windows-defender-for-external-hardware-scans-insights-from-yl-computings-expertise/"><u>How to Utilize Windows Defender for External Hardware Scans - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-note-30-vip-racing-edition-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Note 30 VIP Racing Edition Location by Number | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-infinix-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Infinix Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-online.techidaily.com/navigating-the-risks-of-bitcoin-and-altcoins-tips-by-yl-software-professionals/"><u>Navigating the Risks of Bitcoin and Altcoins: Tips by YL Software Professionals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-setting-up-the-perfect-super-bowl-viewing-experience/"><u>Ultimate Guide: Setting Up the Perfect Super Bowl Viewing Experience</u></a></li>
+<li><a href="https://win-online.techidaily.com/yl-softwares-tutorial-tweaking-energy-management-in-windows-control-panel/"><u>YL Software's Tutorial: Tweaking Energy Management in Windows Control Panel</u></a></li>
 </ul></div>
 

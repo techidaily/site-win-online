@@ -1,7 +1,7 @@
 ---
 title: Five Effective Strategies for Dividing Your Email Contacts with MassMail Software
-date: 2024-11-24T00:16:02.792Z
-updated: 2024-11-30T17:53:55.402Z
+date: 2024-12-06T23:38:56.036Z
+updated: 2024-12-08T19:33:32.104Z
 tags:
   - product
 categories:
@@ -19,12 +19,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,10 +44,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -53,7 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -61,10 +61,6 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -99,24 +95,28 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -149,19 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-good-quality-to-great-optimal-hd-fb-streaming/"><u>[New] In 2024, From Good Quality to Great Optimal HD FB Streaming</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-crafting-irresistible-profile-videos-for-2024/"><u>[Updated] Crafting Irresistible Profile Videos for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-restore-lost-details-4-premiere-pro-methods-for-iphone-hdr-footage-for-2024/"><u>[Updated] Restore Lost Details 4 Premiere Pro Methods for iPhone HDR Footage for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-roadmap-for-gaining-hd-footage-from-social-networks-for-2024/"><u>[Updated] The Roadmap for Gaining HD Footage From Social Networks for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/convert-and-save-your-favorite-smh-content-how-to-download-videos-from-smhcomau-as-mp4-files/"><u>Convert and Save Your Favorite SMH Content: How to Download Videos From smh.com.au as MP4 Files</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-7-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 7 Plus</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-beyond-the-hype-facebooks-most-critical-24-trends/"><u>In 2024, Beyond the Hype – Facebook's Most Critical '24 Trends</u></a></li>
-<li><a href="https://win-online.techidaily.com/mejora-la-copia-de-seguridad-con-herramientas-gratuitas-para-sustituir-synology-data-replicator-en-windows-10/"><u>Mejora La Copia De Seguridad Con Herramientas Gratuitas Para Sustituir Synology Data Replicator en Windows 10</u></a></li>
-<li><a href="https://win-online.techidaily.com/quick-save-your-system-easy-steps-to-protect-windows-111087-with-a-compact-external-usb-flash-drive/"><u>Quick Save Your System: Easy Steps to Protect Windows 11/10/8/7 with a Compact External USB Flash Drive</u></a></li>
-<li><a href="https://win-online.techidaily.com/scopri-le-migliori-soluzioni-di-backup-gratuito-disponibili-in-windows/"><u>Scopri Le Migliori Soluzioni Di Backup Gratuito Disponibili in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-verified-app-issues-in-windows/"><u>Strategies for Overcoming Verified App Issues in Windows</u></a></li>
-<li><a href="https://win-online.techidaily.com/top-5-alternatives-to-novabackup-discovering-reliable-windows-data-protection-with-aomei-backupper/"><u>Top 5 Alternatives to NovaBACKUP: Discovering Reliable Windows Data Protection with AOMEI Backupper</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728492687441-windows-server-3/"><u>Windows Server古バックアップ消去手順 - 3種類</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screenshot-mastery-using-ezvid-video-makers-pro-tips-and-tricks/"><u>[Updated] Screenshot Mastery Using Ezvid Video Maker's Pro Tips and Tricks</u></a></li>
+<li><a href="https://win-online.techidaily.com/1-solutions-for-a-frozen-pc-expert-advice-from-yl-computings-guide/"><u>1. Solutions for a Frozen PC: Expert Advice From YL Computing's Guide</u></a></li>
+<li><a href="https://win-online.techidaily.com/easy-guide-establishing-your-home-network-with-yl-computing-the-ultimate-walkthrough/"><u>Easy Guide: Establishing Your Home Network with YL Computing - The Ultimate Walkthrough</u></a></li>
+<li><a href="https://win-online.techidaily.com/exploring-the-various-forms-of-crypto-wallets-an-insight-by-yl-computing/"><u>Exploring the Various Forms of Crypto Wallets: An Insight by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-mini-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 mini to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-itel-s23-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Itel S23?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-essential-image-collections-the-best-macbook-wallpaper-packs/"><u>In 2024, Essential Image Collections The Best MacBook Wallpaper Packs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-iphone-15-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your iPhone 15 Pro and iPad?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-methods-for-enhancing-testimonial-video-authenticity/"><u>In 2024, Innovative Methods for Enhancing Testimonial Video Authenticity</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-iphoneipad-advanced-screen-recording-tips-new-methods-2023/"><u>In 2024, IPhone/iPad Advanced Screen Recording Tips - New Methods 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/insight-into-windows-11s-revolutionary-backup-and-restore-interface/"><u>Insight Into Windows 11’S Revolutionary Backup & Restore Interface</u></a></li>
+<li><a href="https://win-online.techidaily.com/is-your-laptop-overheating-find-out-if-its-time-for-a-cooler/"><u>Is Your Laptop Overheating? Find Out If It's Time for a Cooler!</u></a></li>
+<li><a href="https://win-online.techidaily.com/resolving-scanner-driver-mismatch-issues-a-step-by-step-guide-tips-from-yl-computing/"><u>Resolving Scanner Driver Mismatch Issues: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-online.techidaily.com/resolving-your-printers-connection-problem-expert-tips-from-yl-computing/"><u>Resolving Your Printer's Connection Problem: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-online.techidaily.com/solving-pc-issues-a-guide-to-fixing-hardware-glitches-on-your-windows-machine-yl-technologies/"><u>Solving PC Issues: A Guide to Fixing Hardware Glitches on Your Windows Machine - YL Technologies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-of-affordable-apple-music-education-deals-your-guide-to-student-pricing/"><u>Unlocking the Secrets of Affordable Apple Music Education Deals: Your Guide to Student Pricing!</u></a></li>
+<li><a href="https://win-online.techidaily.com/us-state-dept-plans-senior-diplomat-mark-lambert-for-key-role-on-china-and-taiwan-reuters-exclusive/"><u>US State Dept Plans Senior Diplomat Mark Lambert For Key Role on China & Taiwan - Reuters Exclusive</u></a></li>
 </ul></div>
 

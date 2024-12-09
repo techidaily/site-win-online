@@ -1,7 +1,7 @@
 ---
 title: Excitatory Neurotransmitters, Like Glutamate, Make Postsynaptic Neurons More Likely to Fire an Action Potential; Inhibitory Ones, Like GABA, Do the Opposite.
-date: 2024-11-25T03:47:49.443Z
-updated: 2024-11-30T18:03:13.506Z
+date: 2024-12-04T18:25:11.910Z
+updated: 2024-12-09T06:18:44.791Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,18 +56,15 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-web-integration-adding-youtube-playlists-easily/"><u>[New] 2024 Approved Web Integration Adding YouTube Playlists Easily</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-complete-guide-to-creating-memorable-youtube-outros/"><u>[Updated] The Complete Guide to Creating Memorable YouTube Outros</u></a></li>
-<li><a href="https://win-online.techidaily.com/best-practices-for-safely-taking-down-vsphere-cluster-virtual-machines/"><u>Best Practices for Safely Taking Down vSphere Cluster Virtual Machines</u></a></li>
-<li><a href="https://win-online.techidaily.com/boosting-email-marketing-with-pinterest-integration-insights-from-massmail/"><u>Boosting Email Marketing with Pinterest Integration - Insights From MassMail</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-navigating-filmmaker-fascination-filmoras-essential-traits/"><u>In 2024, Navigating Filmmaker Fascination Filmora's Essential Traits</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-scout-audible-assets-in-gaming-worlds/"><u>In 2024, Scout Audible Assets in Gaming Worlds</u></a></li>
-<li><a href="https://win-online.techidaily.com/liberar-windows-11-de-la-pantalla-de-suspension-6-efectivos-metodos-para-activar-el-sistema/"><u>Liberar Windows 11 De La Pantalla De Suspensión: 6 Efectivos Métodos Para Activar El Sistema</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728489885557-nas/"><u>NASで安全なウインドウズサーバーバックアップ方法:ステップバイステップガイド</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-fixed-tips-and-solutions-to-prevent-elite-dangerous-from-crashing/"><u>PC Gaming Fixed: Tips and Solutions to Prevent Elite Dangerous From Crashing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/seamless-connectivity-overcoming-wireless-hurdles-in-windows/"><u>Seamless Connectivity: Overcoming Wireless Hurdles in Windows</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-guide-transferring-data-from-your-computer-to-a-usb-flash-drive-on-windows-11-10-8-and-7/"><u>Step-by-Step Guide: Transferring Data From Your Computer to a USB Flash Drive on Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://win-online.techidaily.com/windows-how-to-move-the-windows-boot-manager-to-a-different-drive/"><u>Windows 再起動マネージャーを異なるストレージへシフトする手順 - How to Move the Windows Boot Manager to a Different Drive</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/windows-movie-maker-your-path-to-professional-animation/"><u>Windows Movie Maker Your Path to Professional Animation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-best-gear-for-comprehensively-filmed-action-for-2024/"><u>[New] Best Gear for Comprehensively Filmed Action for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-peek-into-the-best-mac-applications-for-sniping-perfectly/"><u>[New] In 2024, A Peek Into the Best Mac Applications for Sniping Perfectly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-10-stellar-tools-that-amplify-your-videos-youtube-presence/"><u>[Updated] 2024 Approved 10 Stellar Tools That Amplify Your Video's YouTube Presence</u></a></li>
+<li><a href="https://win-online.techidaily.com/1-diagnosing-and-fixing-pc-power-supply-problems-tips-from-yl-computings-expert-software-solutions/"><u>1. Diagnosing and Fixing PC Power Supply Problems - Tips From YL Computing's Expert Software Solutions</u></a></li>
+<li><a href="https://win-online.techidaily.com/high-definition-adidas-wallpaper-collection-premium-graphics-and-hd-designs-by-yl-computing/"><u>High-Definition Adidas Wallpaper Collection: Premium Graphics & HD Designs by YL Computing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hisense-40h5590f-smart-tv-review/"><u>Hisense 40H5590F Smart TV Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-buttons-on-a-win-10-or-11-keyboard/"><u>How to Repair Unresponsive Buttons on a Win 10 or 11 Keyboard</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-preserving-sims-4-moments-effective-strategies-for-recording-playthroughs/"><u>In 2024, Preserving Sims 4 Moments Effective Strategies for Recording Playthroughs</u></a></li>
+<li><a href="https://win-online.techidaily.com/uncovering-and-resolving-windows-registry-errors-expert-advice-from-yl-computings-guide-to-software-mastery/"><u>Uncovering & Resolving Windows Registry Errors: Expert Advice From YL Computing's Guide to Software Mastery</u></a></li>
+<li><a href="https://win-online.techidaily.com/understanding-the-distinctions-cryptocurrency-vs-fiat-money-an-in-depth-analysis-by-yl-computing/"><u>Understanding the Distinctions: Cryptocurrency vs Fiat Money - An In-Depth Analysis by YL Computing</u></a></li>
 </ul></div>
 

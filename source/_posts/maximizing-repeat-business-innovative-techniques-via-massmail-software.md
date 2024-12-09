@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Repeat Business: Innovative Techniques via MassMail Software"
-date: 2024-11-30T07:55:42.920Z
-updated: 2024-11-30T21:30:37.631Z
+date: 2024-12-04T18:45:58.166Z
+updated: 2024-12-09T01:45:03.585Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -32,13 +40,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -48,15 +56,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,12 +86,16 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -94,17 +106,9 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -126,10 +130,6 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Emily Bronte
 
  Back to blog
@@ -149,22 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-enhancing-your-feed-with-new-instagram-filters/"><u>[New] Enhancing Your Feed with New Instagram Filters</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-instagram-reels-tips-and-techniques/"><u>[New] In 2024, Mastering Instagram Reels Tips & Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-focused-adventure-getting-up-close-in-roblox-landscapes/"><u>[Updated] Focused Adventure Getting Up Close in Roblox Landscapes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-engineering-echoing-edits/"><u>2024 Approved Engineering Echoing Edits</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-definitive-guide-to-live-discord-broadcasts/"><u>2024 Approved The Definitive Guide to Live Discord Broadcasts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-monitor-guide-transform-your-xbox-series-x-experience-today/"><u>2024 Approved The Ultimate Monitor Guide Transform Your Xbox Series X Experience Today</u></a></li>
-<li><a href="https://win-online.techidaily.com/accelerate-fan-growth-for-your-facebook-business-profile-with-effective-hacks/"><u>Accelerate Fan Growth for Your Facebook Business Profile with Effective Hacks!</u></a></li>
-<li><a href="https://win-online.techidaily.com/automate-your-data-safety-effective-techniques-for-sql-server-database-backups/"><u>Automate Your Data Safety: Effective Techniques for SQL Server Database Backups</u></a></li>
-<li><a href="https://win-online.techidaily.com/effective-strategies-for-crafting-persuasive-sales-emails-with-massmail-tools/"><u>Effective Strategies for Crafting Persuasive Sales Emails with MassMail Tools</u></a></li>
-<li><a href="https://win-online.techidaily.com/effiziente-methoden-zur-datenwiederherstellung-fur-usb-flash-drives-myrecover-anleitungen/"><u>Effiziente Methoden Zur Datenwiederherstellung Für USB Flash Drives - MyRecover Anleitungen</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-10-virtual-reality-headgear-for-smartphones/"><u>In 2024, Best 10 Virtual Reality Headgear for Smartphones</u></a></li>
-<li><a href="https://win-online.techidaily.com/mastering-cta-splits-leveraging-massmail-for-optimized-email-campaigns/"><u>Mastering CTA Splits: Leveraging MassMail for Optimized Email Campaigns</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-maccam-easy-webcam-recordings-for-2024/"><u>Mastering MacCam Easy Webcam Recordings for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/simple-guide-converting-iphones-heic-images-into-compatible-jpeg-format/"><u>Simple Guide: Converting iPhone's HEIC Images Into Compatible JPEG Format</u></a></li>
-<li><a href="https://win-online.techidaily.com/unlock-peak-engagement-master-the-best-pins-time-using-massmail-insights/"><u>Unlock Peak Engagement: Master the Best Pins Time Using MassMail Insights!</u></a></li>
-<li><a href="https://win-online.techidaily.com/unlocking-spooky-success-expert-guidance-on-crafting-your-ultimate-halloween-email-marketing-strategy-with-massmail/"><u>Unlocking Spooky Success: Expert Guidance on Crafting Your Ultimate Halloween Email Marketing Strategy with MassMail</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/viral-beats-cutting-edge-music-for-youtube-short-videos/"><u>Viral Beats Cutting-Edge Music for YouTube Short Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-30-innovative-ideas-to-supercharge-your-fb-promotions-for-2024/"><u>[New] 30 Innovative Ideas to Supercharge Your FB Promotions for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-seconds-life-on-fb/"><u>[New] In Seconds, Life On FB</u></a></li>
+<li><a href="https://win-online.techidaily.com/1-diagnosing-and-fixing-pc-power-supply-problems-tips-from-yl-computings-expert-software-solutions/"><u>1. Diagnosing and Fixing PC Power Supply Problems - Tips From YL Computing's Expert Software Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-rise-above-top-tactics-for-a-standout-youtube-live-without-million-followers/"><u>2024 Approved Rise Above Top Tactics for a Standout Youtube Live without Million Followers</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-ai-companion-debate-assessing-notion-ai-against-chatgpt-in-the-genai-race/"><u>Best AI Companion Debate: Assessing Notion AI Against ChatGPT in the GenAI Race</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-investments-elite-4k-dslr-mounting-solutions-for-2024/"><u>Best Investments Elite 4K DSLR Mounting Solutions for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-art-with-gpt-4-and-dall-e-an-image-generation-guide/"><u>Crafting Art with GPT-4 & DALL-E: An Image Generation Guide</u></a></li>
+<li><a href="https://win-online.techidaily.com/diagnosing-power-issues-in-scanners-expert-advice-by-yl-software-solutions/"><u>Diagnosing Power Issues in Scanners: Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digital-artistry-with-estrella-h-exploring-the-innovation-of-digiarty-software/"><u>Digital Artistry with Estrella H.: Exploring the Innovation of DigiArty Software</u></a></li>
+<li><a href="https://win-online.techidaily.com/high-definition-adidas-wallpaper-collection-premium-graphics-and-hd-designs-by-yl-computing/"><u>High-Definition Adidas Wallpaper Collection: Premium Graphics & HD Designs by YL Computing</u></a></li>
+<li><a href="https://win-online.techidaily.com/premium-tiger-image-gallery-and-hd-picture-walls-for-desktop-laptops-and-mobile-curated-by-yl-software/"><u>Premium Tiger Image Gallery & HD Picture Walls for Desktop, Laptops & Mobile - Curated by YL Software</u></a></li>
+<li><a href="https://win-online.techidaily.com/troubleshooting-guide-solving-your-computers-instability-with-specific-graphic-apps-tips-from-yl-computing/"><u>Troubleshooting Guide: Solving Your Computer's Instability with Specific Graphic Apps - Tips From YL Computing</u></a></li>
+<li><a href="https://win-online.techidaily.com/uncovering-and-resolving-windows-registry-errors-expert-advice-from-yl-computings-guide-to-software-mastery/"><u>Uncovering & Resolving Windows Registry Errors: Expert Advice From YL Computing's Guide to Software Mastery</u></a></li>
+<li><a href="https://win-online.techidaily.com/understanding-the-distinctions-cryptocurrency-vs-fiat-money-an-in-depth-analysis-by-yl-computing/"><u>Understanding the Distinctions: Cryptocurrency vs Fiat Money - An In-Depth Analysis by YL Computing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-3d-video-makers-you-must-know/"><u>Updated Best 3D Video Makers You Must Know</u></a></li>
 </ul></div>
 

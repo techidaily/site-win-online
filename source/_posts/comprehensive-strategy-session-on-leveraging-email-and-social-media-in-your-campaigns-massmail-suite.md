@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Strategy Session on Leveraging Email & Social Media in Your Campaigns (MassMail Suite)
-date: 2024-11-25T03:26:01.772Z
-updated: 2024-12-01T00:46:48.049Z
+date: 2024-12-07T06:53:53.802Z
+updated: 2024-12-09T06:48:35.201Z
 tags:
   - product
 categories:
@@ -17,6 +17,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -62,10 +66,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -78,16 +78,24 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -95,28 +103,24 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,17 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-give-a-makeover-to-existing-images-and-videos-with-ig-filters-for-2024/"><u>[New] How to Give a Makeover to Existing Images and Videos with IG Filters for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capturing-the-beat-top-cameras-for-future-music-videography-4k/"><u>[Updated] Capturing the Beat Top Cameras for Future Music Videography (4K)</u></a></li>
-<li><a href="https://win-online.techidaily.com/effective-strategies-for-accumulating-prospects-2012s-top-techniques-and-comprehensive-guide-to-lead-generation-tools/"><u>Effective Strategies for Accumulating Prospects: 2012'S Top Techniques & Comprehensive Guide to Lead Generation Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/efficient-screenshot-and-video-recorder-choice-guide-for-pc/"><u>Efficient Screenshot & Video Recorder Choice Guide for PC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/exclusive-review-10-best-free-video-meeting-apps-iosandroid-for-2024/"><u>Exclusive Review 10 Best Free Video Meeting Apps iOS/Android for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/high-dynamic-range-the-essential-guide-to-modern-camera-tech-for-2024/"><u>High Dynamic Range The Essential Guide to Modern Camera Tech for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/sicherung-von-installationsprogrammen-auf-windows-111087-entdecken-sie-die-drei-effizientesten-methoden/"><u>Sicherung Von Installationsprogrammen Auf Windows 11/10/8/7 - Entdecken Sie Die Drei Effizientesten Methoden</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-checklist-for-fb-cover-video-excellence/"><u>The Ultimate Checklist for FB Cover Video Excellence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-selection-of-macbook-enhancements-as-verified-by-specialists-cnet/"><u>Ultimate Selection of MacBook Enhancements , as Verified by Specialists | CNET</u></a></li>
-<li><a href="https://win-online.techidaily.com/top-5-seo-agentstv-v-birmingeme-angliya-rukovodstvo-po-vyboram-v-2024-godu-s-pomoshyu-seo-powersuite/"><u>Топ-5 SEO Агентств В Бирмингеме, Англия: Руководство По Выборам В 2024 Году С Помощью SEO PowerSuite</u></a></li>
-<li><a href="https://win-online.techidaily.com/effektivnye-opcii-dlya-seo-ispolzovaniya-ubersuggest-i-provedeniya-keyword-issledovanij-kompaktnyj-spisok-optimusseo/"><u>Эффективные Опции Для SEO-Использования Ubersuggest И Проведения Keyword-Исследований: Компактный Список | OptimusSEO</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-maximizing-youtube-shorts-income-strategies/"><u>[New] In 2024, Maximizing YouTube Shorts Income Strategies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-convenient-technique-winning-the-art-of-fish-dialogue-alteration/"><u>[Updated] Convenient Technique Winning the Art of Fish Dialogue Alteration</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-quick-start-making-your-own-sports-highlight-film-for-2024/"><u>[Updated] Quick Start Making Your Own Sports Highlight Film for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unlock-the-power-of-spotifys-advertising-potential-for-2024/"><u>[Updated] Unlock the Power of Spotify’s Advertising Potential for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/declutter-digital-space-a-guide-to-eliminating-unneeded-files-by-professionals-at-yl-software/"><u>Declutter Digital Space: A Guide to Eliminating Unneeded Files by Professionals at YL Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-the-nintendo-switch-lite-an-evaluation-of-the-economical-compact-gaming-device/"><u>Discovering the Nintendo Switch Lite: An Evaluation of the Economical, Compact Gaming Device</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-often-should-you-refresh-your-antivirus-insights-from-yl-computing-on-microsofts-windows-defender/"><u>How Often Should You Refresh Your Antivirus: Insights From YL Computing on Microsoft's Windows Defender</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-write-an-attractive-vlog-script/"><u>How to Write an Attractive Vlog Script</u></a></li>
+<li><a href="https://win-online.techidaily.com/improve-scan-clarity-essential-troubleshooting-techniques-for-subpar-images-guidance-from-yl-software-professionals/"><u>Improve Scan Clarity: Essential Troubleshooting Techniques for Subpar Images – Guidance From YL Software Professionals</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Motorola PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-visual-excellence-leveraging-enhancer-22/"><u>In 2024, The Art of Visual Excellence - Leveraging Enhancer 2.2</u></a></li>
+<li><a href="https://win-online.techidaily.com/professional-quality-audi-a8-electric-hd-wallpaper-images-and-creative-visual-designs-by-yl-computings-software-collection/"><u>Professional Quality Audi A8 Electric HD Wallpaper Images & Creative Visual Designs by YL Computing's Software Collection</u></a></li>
+<li><a href="https://win-online.techidaily.com/rejuvenate-your-printer-settings-a-comprehensive-reset-instruction-by-yl-software-experts/"><u>Rejuvenate Your Printer Settings: A Comprehensive Reset Instruction by YL Software Experts</u></a></li>
+<li><a href="https://win-online.techidaily.com/resolving-driver-disputes-in-windows-systems-expert-tips-from-yl-computings-guide/"><u>Resolving Driver Disputes in Windows Systems: Expert Tips From YL Computing's Guide</u></a></li>
+<li><a href="https://win-online.techidaily.com/setting-up-your-pcs-power-options-for-optimal-performance-in-windows-11-tips-and-tricks-from-yl-software/"><u>Setting Up Your PC's Power Options for Optimal Performance in Windows 11 - Tips & Tricks From YL Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-secrets-of-pubg-sound-personalization/"><u>Unlocking the Secrets of PUBG Sound Personalization</u></a></li>
+<li><a href="https://win-online.techidaily.com/year-on-uyghur-forced-labor-prevention-act-spares-1-customer-which-of-the-following-would-be-considered-an-environmental-factor-in-a-firms-external-environm9/"><u>Year On, Uyghur Forced Labor Prevention Act Spares $1. # Customer: Which of the Following Would Be Considered an Environmental Factor in a Firm's External Environment?</u></a></li>
 </ul></div>
 
