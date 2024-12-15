@@ -1,7 +1,7 @@
 ---
 title: Excitatory Neurotransmitters, Like Glutamate, Make Postsynaptic Neurons More Likely to Fire an Action Potential; Inhibitory Ones, Like GABA, Do the Opposite.
-date: 2024-12-04T18:25:11.910Z
-updated: 2024-12-09T06:18:44.791Z
+date: 2024-12-10T16:21:54.903Z
+updated: 2024-12-15T16:31:20.441Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,15 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-best-gear-for-comprehensively-filmed-action-for-2024/"><u>[New] Best Gear for Comprehensively Filmed Action for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-peek-into-the-best-mac-applications-for-sniping-perfectly/"><u>[New] In 2024, A Peek Into the Best Mac Applications for Sniping Perfectly</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-10-stellar-tools-that-amplify-your-videos-youtube-presence/"><u>[Updated] 2024 Approved 10 Stellar Tools That Amplify Your Video's YouTube Presence</u></a></li>
-<li><a href="https://win-online.techidaily.com/1-diagnosing-and-fixing-pc-power-supply-problems-tips-from-yl-computings-expert-software-solutions/"><u>1. Diagnosing and Fixing PC Power Supply Problems - Tips From YL Computing's Expert Software Solutions</u></a></li>
-<li><a href="https://win-online.techidaily.com/high-definition-adidas-wallpaper-collection-premium-graphics-and-hd-designs-by-yl-computing/"><u>High-Definition Adidas Wallpaper Collection: Premium Graphics & HD Designs by YL Computing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/hisense-40h5590f-smart-tv-review/"><u>Hisense 40H5590F Smart TV Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-buttons-on-a-win-10-or-11-keyboard/"><u>How to Repair Unresponsive Buttons on a Win 10 or 11 Keyboard</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-preserving-sims-4-moments-effective-strategies-for-recording-playthroughs/"><u>In 2024, Preserving Sims 4 Moments Effective Strategies for Recording Playthroughs</u></a></li>
-<li><a href="https://win-online.techidaily.com/uncovering-and-resolving-windows-registry-errors-expert-advice-from-yl-computings-guide-to-software-mastery/"><u>Uncovering & Resolving Windows Registry Errors: Expert Advice From YL Computing's Guide to Software Mastery</u></a></li>
-<li><a href="https://win-online.techidaily.com/understanding-the-distinctions-cryptocurrency-vs-fiat-money-an-in-depth-analysis-by-yl-computing/"><u>Understanding the Distinctions: Cryptocurrency vs Fiat Money - An In-Depth Analysis by YL Computing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-perfect-your-iphone-photo-craftsmanship-with-top-10-design-tips/"><u>[New] 2024 Approved Perfect Your iPhone Photo Craftsmanship with Top 10 Design Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-film-aesthetics-using-luts/"><u>[New] Transforming Film Aesthetics Using Luts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-master-the-craft-essential-filmmaking-advice-from-youtube-pros/"><u>[Updated] Master the Craft Essential Filmmaking Advice From YouTube Pros</u></a></li>
+<li><a href="https://win-help.techidaily.com/1-access-your-flipbuilder-ebooks-anywhere-compatible-with-ios-ipados-and-android-devices/"><u>1. Access Your FlipBuilder eBooks Anywhere: Compatible with iOS, iPadOS & Android Devices</u></a></li>
+<li><a href="https://win-online.techidaily.com/15yl/"><u>从硬性烟15年到完全清醒，老约定人们如何用YL优化戒烟方式——幸福脱离吸毁</u></a></li>
+<li><a href="https://win-online.techidaily.com/assessing-the-safety-of-your-digital-fortune-a-guide-to-crypto-wallets-security-with-yl-computing/"><u>Assessing the Safety of Your Digital Fortune: A Guide to Crypto Wallets Security with YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crucial-criteria-for-selecting-a-high-quality-activity-monitor-a-comprehensive-guide/"><u>Crucial Criteria for Selecting a High-Quality Activity Monitor: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-lexar-usb-driver-easily-and-quickly/"><u>Download Lexar USB Driver | Easily & Quickly</u></a></li>
+<li><a href="https://win-online.techidaily.com/exploring-the-tech-stack-an-insight-into-the-tools-powering-cryptocurrency-a-guide-by-yl-computing/"><u>Exploring the Tech Stack: An Insight Into the Tools Powering Cryptocurrency - A Guide by YL Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723004970996-monster-hunter-rise-failed-to-open-heres-the-remedy/"><u>Monster Hunter Rise Failed to Open? Here's the Remedy!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reviewing-the-fusion-of-sleek-design-and-dynamic-power-on-the-apple-215-4k-imac/"><u>Reviewing the Fusion of Sleek Design and Dynamic Power on the Apple 21.5 4K iMac</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/seamless-video-production-a-guide-to-snapchat-multisnaps/"><u>Seamless Video Production A Guide to Snapchat Multisnaps</u></a></li>
+<li><a href="https://win-online.techidaily.com/solving-unresponsive-mouse-issues-expert-advice-from-yl-computings-guide/"><u>Solving Unresponsive Mouse Issues: Expert Advice From YL Computing's Guide</u></a></li>
+<li><a href="https://win-online.techidaily.com/step-by-step-guide-modifying-control-panel-languages-with-yl-computing-tools/"><u>Step-by-Step Guide: Modifying Control Panel Languages with YL Computing Tools</u></a></li>
+<li><a href="https://win-online.techidaily.com/step-by-step-guide-removing-directories-on-your-pc-with-windows-tech-solutions-by-yl/"><u>Step-by-Step Guide: Removing Directories on Your PC with Windows - Tech Solutions by YL</u></a></li>
+<li><a href="https://win-online.techidaily.com/trustworthiness-of-cryptocurrency-account-verification-applications-an-analysis-from-yl-computing-perspective/"><u>Trustworthiness of Cryptocurrency Account Verification Applications: An Analysis From YL Computing Perspective</u></a></li>
+<li><a href="https://win-online.techidaily.com/tweak-and-optimize-screen-display-with-windows-control-panel-guidance-by-yl-software-experts/"><u>Tweak and Optimize Screen Display with Windows Control Panel Guidance by YL Software Experts</u></a></li>
 </ul></div>
 
