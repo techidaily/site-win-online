@@ -1,7 +1,7 @@
 ---
 title: Advanced Tools for Success in Branding, Advertising & Communication - Discover MassMail
-date: 2024-12-13T16:28:47.895Z
-updated: 2024-12-15T16:10:07.540Z
+date: 2024-12-20T14:03:59.608Z
+updated: 2024-12-24T10:39:31.068Z
 tags:
   - product
 categories:
@@ -44,15 +44,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -65,6 +65,10 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -83,40 +87,36 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,20 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-how-to-meet-twitters-video-standards-aspect-ratio-matters/"><u>[New] 2024 Approved How to Meet Twitter's Video Standards Aspect Ratio Matters</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-best-compatible-drone-models-with-gopro-cameras/"><u>[New] Best Compatible Drone Models with GoPro Cameras</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-the-experts-blueprint-boosting-income-via-vimeo-advertising/"><u>[Updated] The Expert's Blueprint Boosting Income via Vimeo Advertising</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-utilizing-b-roll-for-enhanced-storytelling/"><u>[Updated] Utilizing B-Roll for Enhanced Storytelling</u></a></li>
-<li><a href="https://win-online.techidaily.com/1-diagnosing-and-fixing-pc-power-supply-problems-tips-from-yl-computings-expert-software-solutions/"><u>1. Diagnosing and Fixing PC Power Supply Problems - Tips From YL Computing's Expert Software Solutions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-bigo-live-intro-video-details-area-px-format-run/"><u>2024 Approved Bigo Live Intro Video Details Area (Px²), Format, Run</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/advancements-in-quantum-hdr-technology-explained/"><u>Advancements in Quantum HDR Technology Explained</u></a></li>
-<li><a href="https://win-online.techidaily.com/high-definition-adidas-wallpaper-collection-premium-graphics-and-hd-designs-by-yl-computing/"><u>High-Definition Adidas Wallpaper Collection: Premium Graphics & HD Designs by YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/incorporating-individual-gpt-models-seamlessly-in-any-chatgpt-exchange/"><u>Incorporating Individual GPT Models Seamlessly in Any ChatGPT Exchange</u></a></li>
-<li><a href="https://win-online.techidaily.com/premium-tiger-image-gallery-and-hd-picture-walls-for-desktop-laptops-and-mobile-curated-by-yl-software/"><u>Premium Tiger Image Gallery & HD Picture Walls for Desktop, Laptops & Mobile - Curated by YL Software</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-a34-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy A34 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1125648-9781609254445-the-cosmic-doctrine/"><u>The Cosmic Doctrine | Free Book</u></a></li>
-<li><a href="https://win-online.techidaily.com/troubleshooting-guide-solving-your-computers-instability-with-specific-graphic-apps-tips-from-yl-computing/"><u>Troubleshooting Guide: Solving Your Computer's Instability with Specific Graphic Apps - Tips From YL Computing</u></a></li>
-<li><a href="https://win-online.techidaily.com/uncovering-and-resolving-windows-registry-errors-expert-advice-from-yl-computings-guide-to-software-mastery/"><u>Uncovering & Resolving Windows Registry Errors: Expert Advice From YL Computing's Guide to Software Mastery</u></a></li>
-<li><a href="https://win-online.techidaily.com/understanding-the-distinctions-cryptocurrency-vs-fiat-money-an-in-depth-analysis-by-yl-computing/"><u>Understanding the Distinctions: Cryptocurrency vs Fiat Money - An In-Depth Analysis by YL Computing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-5-mobile-photo-editing-iphone-x87-background-switch/"><u>[Updated] Ultimate 5 Mobile Photo Editing IPhone X/8/7 Background Switch</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-youtube-for-iphoneandroid-enhancing-browser-performance-for-2024/"><u>[Updated] YouTube for iPhone/Android Enhancing Browser Performance for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-win-10s-best-webcam-recording-software-guide/"><u>2024 Approved Win 10'S Best Webcam Recording Software Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/declutter-digital-space-a-guide-to-eliminating-unneeded-files-by-professionals-at-yl-software/"><u>Declutter Digital Space: A Guide to Eliminating Unneeded Files by Professionals at YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dialogue-dynamics-balancing-verisimilitude-and-style/"><u>Dialogue Dynamics Balancing Verisimilitude and Style</u></a></li>
+<li><a href="https://win-online.techidaily.com/exploring-sun-yat-sens-influence-on-the-xinhai-revolution-a-detailed-analysis/"><u>Exploring Sun Yat-Sen's Influence on the Xinhai Revolution: A Detailed Analysis</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-can-i-fix-a-non-responsive-wi-fi-connection-expert-tips-from-yl-computing/"><u>How Can I Fix a Non-Responsive Wi-Fi Connection? Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-online.techidaily.com/improve-scan-clarity-essential-troubleshooting-techniques-for-subpar-images-guidance-from-yl-software-professionals/"><u>Improve Scan Clarity: Essential Troubleshooting Techniques for Subpar Images – Guidance From YL Software Professionals</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x50i-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X50i</u></a></li>
+<li><a href="https://win-online.techidaily.com/professional-quality-audi-a8-electric-hd-wallpaper-images-and-creative-visual-designs-by-yl-computings-software-collection/"><u>Professional Quality Audi A8 Electric HD Wallpaper Images & Creative Visual Designs by YL Computing's Software Collection</u></a></li>
+<li><a href="https://win-online.techidaily.com/setting-up-your-pcs-power-options-for-optimal-performance-in-windows-11-tips-and-tricks-from-yl-software/"><u>Setting Up Your PC's Power Options for Optimal Performance in Windows 11 - Tips & Tricks From YL Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/simplifying-the-process-sharing-tiktok-content-with-facebook/"><u>Simplifying the Process Sharing TikTok Content with Facebook</u></a></li>
+<li><a href="https://win-online.techidaily.com/solving-the-mystery-why-your-pc-wont-detect-scanners-and-how-to-fix-it-tips-from-yl-computing/"><u>Solving the Mystery: Why Your PC Won't Detect Scanners & How to Fix It - Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-oled-laptop-picks-thoroughly-evaluated-by-tech-pros-zdnet/"><u>Top-Rated OLED Laptop Picks - Thoroughly Evaluated by Tech Pros | ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforma-tus-archivos-avi-a-formatos-vob-de-manera-gratuita-usando-movavi-online/"><u>Transforma Tus Archivos AVI a Formatos VOB De Manera Gratuita Usando Movavi Online</u></a></li>
+<li><a href="https://win-online.techidaily.com/year-on-uyghur-forced-labor-prevention-act-spares-1-customer-which-of-the-following-would-be-considered-an-environmental-factor-in-a-firms-external-environm9/"><u>Year On, Uyghur Forced Labor Prevention Act Spares $1. # Customer: Which of the Following Would Be Considered an Environmental Factor in a Firm's External Environment?</u></a></li>
 </ul></div>
 

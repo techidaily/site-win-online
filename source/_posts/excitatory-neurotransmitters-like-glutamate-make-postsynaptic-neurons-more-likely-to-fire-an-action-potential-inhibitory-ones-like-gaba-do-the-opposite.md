@@ -1,7 +1,7 @@
 ---
 title: Excitatory Neurotransmitters, Like Glutamate, Make Postsynaptic Neurons More Likely to Fire an Action Potential; Inhibitory Ones, Like GABA, Do the Opposite.
-date: 2024-12-10T16:21:54.903Z
-updated: 2024-12-15T16:31:20.441Z
+date: 2024-12-21T08:35:39.811Z
+updated: 2024-12-23T20:06:40.604Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,22 +56,18 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-perfect-your-iphone-photo-craftsmanship-with-top-10-design-tips/"><u>[New] 2024 Approved Perfect Your iPhone Photo Craftsmanship with Top 10 Design Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-film-aesthetics-using-luts/"><u>[New] Transforming Film Aesthetics Using Luts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-master-the-craft-essential-filmmaking-advice-from-youtube-pros/"><u>[Updated] Master the Craft Essential Filmmaking Advice From YouTube Pros</u></a></li>
-<li><a href="https://win-help.techidaily.com/1-access-your-flipbuilder-ebooks-anywhere-compatible-with-ios-ipados-and-android-devices/"><u>1. Access Your FlipBuilder eBooks Anywhere: Compatible with iOS, iPadOS & Android Devices</u></a></li>
-<li><a href="https://win-online.techidaily.com/15yl/"><u>从硬性烟15年到完全清醒，老约定人们如何用YL优化戒烟方式——幸福脱离吸毁</u></a></li>
-<li><a href="https://win-online.techidaily.com/assessing-the-safety-of-your-digital-fortune-a-guide-to-crypto-wallets-security-with-yl-computing/"><u>Assessing the Safety of Your Digital Fortune: A Guide to Crypto Wallets Security with YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/crucial-criteria-for-selecting-a-high-quality-activity-monitor-a-comprehensive-guide/"><u>Crucial Criteria for Selecting a High-Quality Activity Monitor: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-lexar-usb-driver-easily-and-quickly/"><u>Download Lexar USB Driver | Easily & Quickly</u></a></li>
-<li><a href="https://win-online.techidaily.com/exploring-the-tech-stack-an-insight-into-the-tools-powering-cryptocurrency-a-guide-by-yl-computing/"><u>Exploring the Tech Stack: An Insight Into the Tools Powering Cryptocurrency - A Guide by YL Computing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723004970996-monster-hunter-rise-failed-to-open-heres-the-remedy/"><u>Monster Hunter Rise Failed to Open? Here's the Remedy!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/reviewing-the-fusion-of-sleek-design-and-dynamic-power-on-the-apple-215-4k-imac/"><u>Reviewing the Fusion of Sleek Design and Dynamic Power on the Apple 21.5 4K iMac</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/seamless-video-production-a-guide-to-snapchat-multisnaps/"><u>Seamless Video Production A Guide to Snapchat Multisnaps</u></a></li>
-<li><a href="https://win-online.techidaily.com/solving-unresponsive-mouse-issues-expert-advice-from-yl-computings-guide/"><u>Solving Unresponsive Mouse Issues: Expert Advice From YL Computing's Guide</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-guide-modifying-control-panel-languages-with-yl-computing-tools/"><u>Step-by-Step Guide: Modifying Control Panel Languages with YL Computing Tools</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-guide-removing-directories-on-your-pc-with-windows-tech-solutions-by-yl/"><u>Step-by-Step Guide: Removing Directories on Your PC with Windows - Tech Solutions by YL</u></a></li>
-<li><a href="https://win-online.techidaily.com/trustworthiness-of-cryptocurrency-account-verification-applications-an-analysis-from-yl-computing-perspective/"><u>Trustworthiness of Cryptocurrency Account Verification Applications: An Analysis From YL Computing Perspective</u></a></li>
-<li><a href="https://win-online.techidaily.com/tweak-and-optimize-screen-display-with-windows-control-panel-guidance-by-yl-software-experts/"><u>Tweak and Optimize Screen Display with Windows Control Panel Guidance by YL Software Experts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-effortless-edits-streamlining-your-tiktok-archives-excessive-saves/"><u>[New] Effortless Edits Streamlining Your TikTok Archive's Excessive Saves</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-arcade-affordability-bar-reviews/"><u>[New] In 2024, ARCADE AFFORDABILITY BAR Reviews</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-digital-content-showdown-audios-answer-to-visual-media/"><u>[Updated] Digital Content Showdown Audio's Answer to Visual Media?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-enhancing-twitter-video-experience-to-fhd-for-2024/"><u>[Updated] Enhancing Twitter Video Experience to FHD for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-plus-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/discover-how-to-check-for-background-app-processes-in-windows-11-with-tips-from-yl-computing-and-yl-software/"><u>Discover How to Check for Background App Processes in Windows 11 with Tips From YL Computing and YL Software</u></a></li>
+<li><a href="https://win-online.techidaily.com/market-turbulence-chinese-stocks-dip-following-new-policy-launch-despite-strong-start-investor-sentiments-divided-online-as-future-outcomes-remain-unclear-a3/"><u>Market Turbulence: Chinese Stocks Dip Following New Policy Launch Despite Strong Start; Investor Sentiments Divided Online as Future Outcomes Remain Unclear - Analysis by YL Computing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp4-aus-mkv-bequem-konvertieren-schnell-effizient-und-qualitat-bewahrt/"><u>MP4 Aus MKV Bequem Konvertieren – Schnell, Effizient Und Qualität Bewahrt!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-third-party-signs-detected-on-inf-data/"><u>No Third-Party Signs Detected on Inf Data</u></a></li>
+<li><a href="https://win-online.techidaily.com/premium-bmw-7-series-hd-wraps-photos-and-graphics-collection-for-desktops-curated-by-yl-computing/"><u>Premium BMW 7 Series HD Wraps, Photos & Graphics Collection for Desktops - Curated by YL Computing</u></a></li>
+<li><a href="https://win-popular.techidaily.com/resolving-active-partition-missing-errors-on-windows-10-proven-strategies-guaranteed/"><u>Resolving 'Active Partition Missing' Errors on Windows 10: Proven Strategies (Guaranteed)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-performing-battery-booster-in-depth-analysis-of-the-600a-peak-series-with-18k-mah/"><u>Top-Performing Battery Booster: In-Depth Analysis of the 600A Peak Series with 18K mAh</u></a></li>
+<li><a href="https://win-online.techidaily.com/yl-software-unveils-strategies-to-spot-and-dodge-digital-coin-deception-scams/"><u>YL Software Unveils Strategies to Spot and Dodge Digital Coin Deception Scams</u></a></li>
 </ul></div>
 
