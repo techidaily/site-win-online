@@ -1,7 +1,7 @@
 ---
 title: Five Effective Strategies for Dividing Your Email Contacts with MassMail Software
-date: 2024-12-20T08:48:02.012Z
-updated: 2024-12-24T11:44:18.549Z
+date: 2024-12-24T22:04:57.304Z
+updated: 2024-12-29T23:14:12.604Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -37,12 +33,16 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -70,17 +70,21 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -90,20 +94,20 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -117,10 +121,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,22 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-crafting-conversational-slides-with-powerpoints-speech-features/"><u>[New] 2024 Approved Crafting Conversational Slides with PowerPoint's Speech Features</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-bestiary-of-top-ps2-emulators-running-on-iphones/"><u>[New] In 2024, Bestiary of Top PS2 Emulators Running on iPhones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-systems-best-of-the-desk-lineup/"><u>[Updated] Superior Systems Best of the Desk Lineup</u></a></li>
-<li><a href="https://win-online.techidaily.com/1-troubleshooting-installer-issues-why-cant-your-downloaded-programs-install-expert-advice-from-yl-computing/"><u>1. Troubleshooting Installer Issues: Why Can't Your Downloaded Programs Install? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-blueprint-for-captivating-and-professional-looking-live-video-thumbnails/"><u>2024 Approved The Ultimate Blueprint for Captivating and Professional-Looking Live Video Thumbnails</u></a></li>
-<li><a href="https://win-online.techidaily.com/avoid-gradual-performance-degradation-ways-to-maintain-pc-speed-long-term-guidance-from-yl-computing-expertise/"><u>Avoid Gradual Performance Degradation: Ways to Maintain PC Speed Long-Term - Guidance From YL Computing Expertise</u></a></li>
-<li><a href="https://win-online.techidaily.com/evaluating-the-safety-of-non-original-graphics-drivers-insights-by-yl-software/"><u>Evaluating the Safety of Non-Original Graphics Drivers: Insights by YL Software</u></a></li>
-<li><a href="https://win-online.techidaily.com/how-to-effortlessly-rejuvenate-your-printers-performance-with-driver-updates-advice-by-yl-software/"><u>How To Effortlessly Rejuvenate Your Printer's Performance with Driver Updates – Advice by YL Software</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-ultimate-media-creator-win8/"><u>In 2024, Ultimate Media Creator Win8</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/recover-lost-files-after-updating-to-windows-11-learn-5-effective-methods/"><u>Recover Lost Files After Updating to Windows 11 - Learn 5 Effective Methods</u></a></li>
-<li><a href="https://win-online.techidaily.com/reviving-your-printerscanner-functionality-a-complete-driver-reinstallation-manual-from-yl-software-experts/"><u>Reviving Your Printer/Scanner Functionality: A Complete Driver Reinstallation Manual From YL Software Experts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/starter-deutsch-einleitungsband-zu-zahlenschreiben-von-1-100-in-deutsch/"><u>Starter Deutsch: Einleitungsband Zu Zahlenschreiben Von 1-100 in Deutsch</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-guide-configuring-parental-settings-via-windows-control-panel-insights-from-yl-computing/"><u>Step-by-Step Guide: Configuring Parental Settings via Windows Control Panel - Insights From YL Computing</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-guide-switching-your-keyboards-primary-language-on-windows-10-tips-from-yl-computing/"><u>Step-by-Step Guide: Switching Your Keyboard's Primary Language on Windows 10 - Tips From YL Computing</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-14-pro-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone 14 Pro Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-time-lapse-video-editors-free-and-paid-options-for-2024/"><u>Top Time-Lapse Video Editors Free and Paid Options for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/yl-computings-guide-navigating-to-user-profile-settings-via-control-panel/"><u>YL Computing's Guide: Navigating to User Profile Settings via Control Panel</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-engineering-eye-catching-podcast-sizzle-reels-for-2024/"><u>[New] Engineering Eye-Catching Podcast Sizzle Reels for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-top-editors-for-youtube-writers-and-creators-all-free/"><u>[New] In 2024, Top Editors for YouTube' Writers and Creators - All Free!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-historical-wisdom-on-youtube-for-students/"><u>[Updated] 2024 Approved Historical Wisdom on YouTube for Students</u></a></li>
+<li><a href="https://win-online.techidaily.com/1-tecnicas-de-recuperacao-para-dados-aperto-no-modo-gratis-reinsercao-do-comando-controlplusz/"><u>1. Técnicas De Recuperação Para Dados Aperto No Modo Grátis: Reinserção Do Comando Control+Z</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevate-your-creative-content-on-instagram-using-loops/"><u>2024 Approved Elevate Your Creative Content on Instagram Using Loops</u></a></li>
+<li><a href="https://win-online.techidaily.com/chrome6/"><u>如何在Chrome中重新发现丢失的书签？6个轻松的修复技巧</u></a></li>
+<li><a href="https://win-online.techidaily.com/windows-server-202/"><u>瞬间详解：Windows Server 202#重构写给你的数据安全 - 效率与可靠并存</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/before-you-buy-a-checklist-of-5-critical-aspects-for-new-stereo-speakers/"><u>Before You Buy: A Checklist of 5 Critical Aspects for New Stereo Speakers</u></a></li>
+<li><a href="https://win-online.techidaily.com/gardez-vos-informations-en-securite-maitrisez-lhistorique-des-fichiers-sur-windows-11-pour-une-protection-avancee/"><u>Gardez Vos Informations en Sécurité: Maîtrisez L'Historique Des Fichiers Sur Windows 11 Pour Une Protection Avancée</u></a></li>
+<li><a href="https://win-online.techidaily.com/gestion-dun-dysfonctionnement-du-disque-dur-pourquoi-demander-le-formatage/"><u>Gestion D’un Dysfonctionnement Du Disque Dur - Pourquoi Demander Le Formatage?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-y200-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo Y200 Is Unlocked</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transfer-and-revamp-your-videos-from-microsofts-moviemaker-to-apples-imovie/"><u>How to Transfer and Revamp Your Videos From Microsoft's Moviemaker to Apple's iMovie</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-lava-yuva-2-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Lava Yuva 2</u></a></li>
+<li><a href="https://win-online.techidaily.com/lokale-externe-datensicherung-wie-man-seine-daten-erfolgreich-in-die-dropbox-ubertragen-kann-anleitung-fur-nutzer/"><u>Lokale Externe Datensicherung: Wie Man Seine Daten Erfolgreich in Die Dropbox Übertragen Kann - Anleitung Für Nutzer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-acer-nitro-5-graphics-and-system-drivers/"><u>Step-by-Step Guide: Updating Acer Nitro 5 Graphics and System Drivers</u></a></li>
+<li><a href="https://win-online.techidaily.com/tecnicas-efectivas-para-la-reparacion-y-restauracion-del-tabla-de-particiones-mbr/"><u>Técnicas Efectivas Para La Reparación Y Restauración Del Tabla De Particiones MBR</u></a></li>
+<li><a href="https://win-online.techidaily.com/top-9-solutions-for-overcoming-the-preparing-windows-hurdle-in-win-11-8-and-7/"><u>Top 9 Solutions for Overcoming the 'Preparing Windows' Hurdle in Win 11, 8 & 7</u></a></li>
+<li><a href="https://win-online.techidaily.com/tutorial-comment-sauvegarder-et-transferer-votre-profil-utilisateur-windows-7-dun-ordinateur-a-un-autre/"><u>Tutorial : Comment Sauvegarder Et Transférer Votre Profil Utilisateur Windows 7 D'un Ordinateur À Un Autre</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncovering-details-on-the-newest-iphone-model-anticipated-costs-coming-out-dates-and-rumored-innovations-revealed/"><u>Uncovering Details on the Newest iPhone Model: Anticipated Costs, Coming-Out Dates & Rumored Innovations Revealed</u></a></li>
 </ul></div>
 

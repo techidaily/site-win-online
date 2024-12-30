@@ -1,7 +1,7 @@
 ---
 title: Excitatory Neurotransmitters, Like Glutamate, Make Postsynaptic Neurons More Likely to Fire an Action Potential; Inhibitory Ones, Like GABA, Do the Opposite.
-date: 2024-12-21T08:35:39.811Z
-updated: 2024-12-23T20:06:40.604Z
+date: 2024-12-27T02:41:27.634Z
+updated: 2024-12-29T17:14:02.028Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,18 +56,19 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-effortless-edits-streamlining-your-tiktok-archives-excessive-saves/"><u>[New] Effortless Edits Streamlining Your TikTok Archive's Excessive Saves</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-arcade-affordability-bar-reviews/"><u>[New] In 2024, ARCADE AFFORDABILITY BAR Reviews</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-digital-content-showdown-audios-answer-to-visual-media/"><u>[Updated] Digital Content Showdown Audio's Answer to Visual Media?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-enhancing-twitter-video-experience-to-fhd-for-2024/"><u>[Updated] Enhancing Twitter Video Experience to FHD for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-plus-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Plus Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/discover-how-to-check-for-background-app-processes-in-windows-11-with-tips-from-yl-computing-and-yl-software/"><u>Discover How to Check for Background App Processes in Windows 11 with Tips From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-online.techidaily.com/market-turbulence-chinese-stocks-dip-following-new-policy-launch-despite-strong-start-investor-sentiments-divided-online-as-future-outcomes-remain-unclear-a3/"><u>Market Turbulence: Chinese Stocks Dip Following New Policy Launch Despite Strong Start; Investor Sentiments Divided Online as Future Outcomes Remain Unclear - Analysis by YL Computing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mp4-aus-mkv-bequem-konvertieren-schnell-effizient-und-qualitat-bewahrt/"><u>MP4 Aus MKV Bequem Konvertieren – Schnell, Effizient Und Qualität Bewahrt!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/no-third-party-signs-detected-on-inf-data/"><u>No Third-Party Signs Detected on Inf Data</u></a></li>
-<li><a href="https://win-online.techidaily.com/premium-bmw-7-series-hd-wraps-photos-and-graphics-collection-for-desktops-curated-by-yl-computing/"><u>Premium BMW 7 Series HD Wraps, Photos & Graphics Collection for Desktops - Curated by YL Computing</u></a></li>
-<li><a href="https://win-popular.techidaily.com/resolving-active-partition-missing-errors-on-windows-10-proven-strategies-guaranteed/"><u>Resolving 'Active Partition Missing' Errors on Windows 10: Proven Strategies (Guaranteed)</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-performing-battery-booster-in-depth-analysis-of-the-600a-peak-series-with-18k-mah/"><u>Top-Performing Battery Booster: In-Depth Analysis of the 600A Peak Series with 18K mAh</u></a></li>
-<li><a href="https://win-online.techidaily.com/yl-software-unveils-strategies-to-spot-and-dodge-digital-coin-deception-scams/"><u>YL Software Unveils Strategies to Spot and Dodge Digital Coin Deception Scams</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-eliminate-quiet-vids-tweet-audio-revival/"><u>[New] 2024 Approved Eliminate Quiet Vids Tweet Audio Revival</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ownload-premium-video-covers-free-fast-and-easy-for-2024/"><u>[New] Download Premium Video Covers - Free, Fast & Easy for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-instantly-professional-masterful-thumbnails-created-fast/"><u>[New] In 2024, Instantly Professional Masterful Thumbnails Created Fast</u></a></li>
+<li><a href="https://win-online.techidaily.com/1-how-safe-is-your-data-during-an-iphone-factory-reset-complete-wipe-or-partial-cleanup/"><u>1. How Safe Is Your Data During an iPhone Factory Reset: Complete Wipe or Partial Cleanup?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-expertly-enhance-photos-with-free-technology/"><u>2024 Approved Expertly Enhance Photos with Free Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acer-expands-3d-display-options-with-latest-range-of-affordable-monitors-and-laptops/"><u>Acer Expands 3D Display Options with Latest Range of Affordable Monitors & Laptops</u></a></li>
+<li><a href="https://win-online.techidaily.com/doubling-your-space-how-to-seamlessly-upgrade-2tb-mbr-disk-to-full-capacity-3tb-gpt-drive/"><u>Doubling Your Space: How to Seamlessly Upgrade 2TB MBR Disk to Full-Capacity 3TB GPT Drive</u></a></li>
+<li><a href="https://fox-place.techidaily.com/download-with-showcase-pro-secure-your-favorite-shows-from-showcaseca-for-pcs-and-macs/"><u>Download with Showcase Pro: Secure Your Favorite Shows From Showcase.ca for PCs & Macs</u></a></li>
+<li><a href="https://win-online.techidaily.com/file-restoration-techniques-for-external-drives-on-windows-11macos-platforms/"><u>File Restoration Techniques for External Drives on Windows 11/macOS Platforms</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus Passcode Screen?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/live-rotating-soccer-match-high-definition-wallpaper-plus-full-hd-looped-videos-create-immersive-experience-with-yl-tech/"><u>Live Rotating Soccer Match High-Definition Wallpaper + Full HD Looped Videos - Create Immersive Experience with YL Tech</u></a></li>
+<li><a href="https://win-online.techidaily.com/sessions-auf-windows-and-macos/"><u>Sessions Auf Windows & macOS</u></a></li>
+<li><a href="https://win-online.techidaily.com/step-by-step-guide-transforming-your-physical-hard-drive-into-a-virtual-system-with-disk2vhd/"><u>Step-by-Step Guide: Transforming Your Physical Hard Drive Into a Virtual System with Disk2VHD</u></a></li>
 </ul></div>
 
