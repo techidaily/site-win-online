@@ -1,7 +1,7 @@
 ---
 title: "Revive Dormant Email Lists: Four Proven Strategies From 2010 with MassMail Software"
-date: 2024-12-25T23:58:45.724Z
-updated: 2024-12-30T03:02:49.937Z
+date: 2025-01-06T06:27:56.563Z
+updated: 2025-01-09T03:21:35.700Z
 tags:
   - product
 categories:
@@ -18,17 +18,9 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -44,10 +36,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -56,15 +44,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,6 +66,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -90,10 +82,6 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -102,12 +90,16 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -122,6 +114,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-a-successful-mukbang-video-journey-for-2024/"><u>[Updated] Crafting a Successful Mukbang Video Journey for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-cutting-edge-engines-the-quintessential-qxp-motors-guide/"><u>[Updated] In 2024, Cutting-Edge Engines The Quintessential QXP Motors Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-essential-guide-sync-your-screen-to-facebook-streams/"><u>[Updated] In 2024, Essential Guide Sync Your Screen to Facebook Streams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-syncing-sounds-to-visuals-online/"><u>[Updated] Syncing Sounds to Visuals Online</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728492080383-aomei-backupper/"><u>AOMEI Backupperのバックアップタスクにコメント・チューニング方法</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nce-expansion-strategies-that-honor-youtube-standards-for-2024/"><u>Audience Expansion Strategies That Honor YouTube Standards for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/comment-creer-une-image-disque-de-demarrage-pour-une-cle-usb-sous-windows-7/"><u>Comment Créer Une Image Disque De Démarrage Pour Une Clé USB Sous Windows 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gadget-gags-laptops-tale-and-the-rise-of-protected-browsing/"><u>Gadget Gags: Laptops' Tale and the Rise of Protected Browsing</u></a></li>
-<li><a href="https://win-online.techidaily.com/grandement-efficace-recuperation-des-fichiers-html-elimines-strategies-modernes-pour-20234/"><u>Grandement Efficace : Récupération Des Fichiers HTML Éliminés – Stratégies Modernes Pour 202^3/4</u></a></li>
-<li><a href="https://win-online.techidaily.com/how-to-enhance-your-hp-omen-15-ce0x-with-ram-and-ssd-full-instructional-tutorial/"><u>How to Enhance Your HP Omen 15-Ce0x with RAM and SSD - Full Instructional Tutorial</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-y27s-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo Y27s to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/micro-sd/"><u>Micro SD卡上删除视频的恢复方法：详解</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-top-6-free-talking-stock-photo-sites-for-2024/"><u>New Top 6 Free Talking Stock Photo Sites for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/resurrect-your-windows-11-photos-and-pics-with-our-expert-recovery-guide/"><u>Resurrect Your Windows 11 Photos & Pics with Our Expert Recovery Guide</u></a></li>
-<li><a href="https://win-online.techidaily.com/titre-decouvrez-lalternative-la-plus-performante-et-gratuite-a-synctoy-pour-gerer-efficacement-vos-fichiers-sous-windows-111087/"><u>Titre : Découvrez L’alternative La Plus Performante Et Gratuite À SyncToy Pour Gérer Efficacement Vos Fichiers Sous Windows 11/10/8/7</u></a></li>
-<li><a href="https://fox-access.techidaily.com/top-8-best-tripods-for-4k-camera-for-2024/"><u>Top 8 Best Tripods for 4K Camera for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unleashing-the-power-of-your-instagram-vids-appeal-for-2024/"><u>Unleashing the Power of Your Instagram Vids' Appeal for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728477506575-windows-11/"><u>Windows 11でのオフラインファイル利用可能か?有効/無効化手順詳細</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728467035097-windows-114/"><u>コマンドラインでWindows 11を再構築するための4つの効果的なステップ</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-mastering-modern-photography-editing-with-polarr-insights/"><u>[New] In 2024, Mastering Modern Photography Editing with Polarr Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-master-controls-navigating-the-world-of-switch-pro-and-steam-gaming-for-2024/"><u>[New] Master Controls Navigating the World of Switch Pro and Steam Gaming for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-charting-financial-horizons-the-threefold-technique-for-analyzing-youtube-earning-data-for-2024/"><u>[Updated] Charting Financial Horizons The Threefold Technique for Analyzing YouTube Earning Data for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/7-to-esxi-8-with-three-proven-strategies/"><u>7 to ESXi 8 with Three Proven Strategies</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728507770797-aomei-backupper/"><u>AOMEI Backupperによるパーティションのバックアップ手順ガイド</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-nokia-g22-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nokia G22 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/ist-unserer-bewertung-zufolge-das-iphone-heimlich-uberwacht/"><u>Ist Unserer Bewertung Zufolge Das iPhone Heimlich Überwacht?</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photoshop-wizardry-for-bending-photos-for-2024/"><u>Photoshop Wizardry for Bending Photos for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/securitas-boot-verfahren-befolgt-anleitung-fur-das-klonen-von-m2-ssds-auf-sata-ssds/"><u>Securitas-Boot-Verfahren Befolgt - Anleitung Für Das Klonen Von M2 SSDs Auf SATA SSDs</u></a></li>
+<li><a href="https://win-online.techidaily.com/troubleshooting-unrecognized-cd-drive-problems-in-windows-11-systems/"><u>Troubleshooting Unrecognized CD Drive Problems in Windows 11 Systems</u></a></li>
+<li><a href="https://win-online.techidaily.com/troubleshooting-unresolved-files-on-external-hard-drives-occupying-storage/"><u>Troubleshooting: Unresolved Files on External Hard Drives Occupying Storage</u></a></li>
+<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-6s-plus-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 6s Plus files after scanning? | Stellar</u></a></li>
 </ul></div>
 

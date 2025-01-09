@@ -1,7 +1,7 @@
 ---
 title: Excitatory Neurotransmitters, Like Glutamate, Make Postsynaptic Neurons More Likely to Fire an Action Potential; Inhibitory Ones, Like GABA, Do the Opposite.
-date: 2024-12-27T02:41:27.634Z
-updated: 2024-12-29T17:14:02.028Z
+date: 2025-01-04T09:28:06.264Z
+updated: 2025-01-09T10:01:01.719Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,19 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-eliminate-quiet-vids-tweet-audio-revival/"><u>[New] 2024 Approved Eliminate Quiet Vids Tweet Audio Revival</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ownload-premium-video-covers-free-fast-and-easy-for-2024/"><u>[New] Download Premium Video Covers - Free, Fast & Easy for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-instantly-professional-masterful-thumbnails-created-fast/"><u>[New] In 2024, Instantly Professional Masterful Thumbnails Created Fast</u></a></li>
-<li><a href="https://win-online.techidaily.com/1-how-safe-is-your-data-during-an-iphone-factory-reset-complete-wipe-or-partial-cleanup/"><u>1. How Safe Is Your Data During an iPhone Factory Reset: Complete Wipe or Partial Cleanup?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-expertly-enhance-photos-with-free-technology/"><u>2024 Approved Expertly Enhance Photos with Free Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/acer-expands-3d-display-options-with-latest-range-of-affordable-monitors-and-laptops/"><u>Acer Expands 3D Display Options with Latest Range of Affordable Monitors & Laptops</u></a></li>
-<li><a href="https://win-online.techidaily.com/doubling-your-space-how-to-seamlessly-upgrade-2tb-mbr-disk-to-full-capacity-3tb-gpt-drive/"><u>Doubling Your Space: How to Seamlessly Upgrade 2TB MBR Disk to Full-Capacity 3TB GPT Drive</u></a></li>
-<li><a href="https://fox-place.techidaily.com/download-with-showcase-pro-secure-your-favorite-shows-from-showcaseca-for-pcs-and-macs/"><u>Download with Showcase Pro: Secure Your Favorite Shows From Showcase.ca for PCs & Macs</u></a></li>
-<li><a href="https://win-online.techidaily.com/file-restoration-techniques-for-external-drives-on-windows-11macos-platforms/"><u>File Restoration Techniques for External Drives on Windows 11/macOS Platforms</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus Passcode Screen?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/live-rotating-soccer-match-high-definition-wallpaper-plus-full-hd-looped-videos-create-immersive-experience-with-yl-tech/"><u>Live Rotating Soccer Match High-Definition Wallpaper + Full HD Looped Videos - Create Immersive Experience with YL Tech</u></a></li>
-<li><a href="https://win-online.techidaily.com/sessions-auf-windows-and-macos/"><u>Sessions Auf Windows & macOS</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-guide-transforming-your-physical-hard-drive-into-a-virtual-system-with-disk2vhd/"><u>Step-by-Step Guide: Transforming Your Physical Hard Drive Into a Virtual System with Disk2VHD</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-9-must-play-screen-free-apps-for-offline-android-enthusiasts/"><u>[Updated] In 2024, 9 Must-Play Screen-Free Apps for Offline Android Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-step-up-to-professionalism-navigating-dslr-and-facebook-live-with-your-computer/"><u>[Updated] Step Up to Professionalism Navigating DSLR & Facebook LIVE with Your Computer</u></a></li>
+<li><a href="https://win-online.techidaily.com/1-effective-guide-restoring-graphics-cards-after-drivers-update-myrecovery/"><u>1. Effective Guide: Restoring Graphics Cards After Drivers Update - MyRecovery</u></a></li>
+<li><a href="https://win-online.techidaily.com/1-excel-file-recovery-a-comprehensive-guide-with-6-effective-methods/"><u>1. Excel File Recovery: A Comprehensive Guide with 6 Effective Methods</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/come-spostare-windows-11-tra-due-dispositivi-ssd-con-un-avvio-sicuro/"><u>Come Spostare Windows 11 Tra Due Dispositivi SSD Con Un Avvio Sicuro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/echoai-creatives-harmonizing-image-edits/"><u>EchoAI Creatives Harmonizing Image Edits</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-15-plus-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the Apple iPhone 15 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-songcutter-pro-turning-tamil-tracks-into-call-alerts/"><u>In 2024, SongCutter Pro Turning Tamil Tracks Into Call Alerts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-blueprint-for-successful-individual-podcasts/"><u>In 2024, The Blueprint for Successful Individual Podcasts</u></a></li>
+<li><a href="https://win-online.techidaily.com/mastering-file-safety-on-windows-10-a-guide-to-easy-two-method-backups-for-peace-of-mind/"><u>Mastering File Safety on Windows 10: A Guide to Easy Two-Method Backups for Peace of Mind</u></a></li>
+<li><a href="https://win-online.techidaily.com/retrieve-lost-images-from-your-samsung-camera-easy-steps/"><u>Retrieve Lost Images From Your Samsung Camera - Easy Steps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/strategies-to-find-the-perfect-power-source-for-drones/"><u>Strategies to Find the Perfect Power Source for Drones</u></a></li>
+<li><a href="https://win-online.techidaily.com/transferencia-eficaz-de-archivos-entre-computadoras-mac-5-metodos-rapidos-para-usuarios/"><u>Transferencia Eficaz De Archivos Entre Computadoras Mac - 5 Métodos Rápidos Para Usuarios</u></a></li>
+<li><a href="https://win-online.techidaily.com/ultimate-tutorial-on-successfully-navigating-bios-changes-in-a-windows-environment/"><u>Ultimate Tutorial on Successfully Navigating BIOS Changes in a Windows Environment</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728487749065-windows-server-2008-r2/"><u>Windows Server 2008 R2 へのダウングレードと新ハードウェアへの移行手順</u></a></li>
 </ul></div>
 

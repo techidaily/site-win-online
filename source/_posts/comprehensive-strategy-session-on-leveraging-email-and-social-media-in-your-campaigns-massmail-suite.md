@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Strategy Session on Leveraging Email & Social Media in Your Campaigns (MassMail Suite)
-date: 2024-12-24T20:20:53.882Z
-updated: 2024-12-29T16:36:31.597Z
+date: 2025-01-02T19:57:16.541Z
+updated: 2025-01-09T09:58:04.727Z
 tags:
   - product
 categories:
@@ -18,16 +18,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -43,10 +39,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -78,33 +70,41 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -115,7 +115,7 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -149,16 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-facebook-security-breach-regain-account-with-ease/"><u>[Updated] In 2024, Facebook Security Breach? Regain Account with Ease</u></a></li>
-<li><a href="https://win-online.techidaily.com/1-ultimate-guide-seamless-photo-transfer-from-computer-to-ipad-pro/"><u>1. [Ultimate Guide]: Seamless Photo Transfer From Computer to iPad Pro</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-audio-interpretation-software-zero-cost-version/"><u>2024 Approved Audio Interpretation Software – Zero Cost Version</u></a></li>
-<li><a href="https://win-online.techidaily.com/easy-upgrade-guide-moving-to-windows-11-from-windows-7881-with-no-data-lost/"><u>Easy Upgrade Guide: Moving to Windows 11 From Windows 7/8/8.1 with No Data Lost</u></a></li>
-<li><a href="https://win-online.techidaily.com/effiziente-systemabbild-rucksetzung-fur-die-wiederherstellung-der-festplatte-unter-windows-7/"><u>Effiziente Systemabbild-Rücksetzung Für Die Wiederherstellung Der Festplatte Unter Windows 7</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-meta-to-omni-a-new-age-digital-odyssey-guide/"><u>In 2024, From Meta to Omni A New Age Digital Odyssey Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Lava Blaze 2? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-final-cut-pro-vs-lumafusion-which-suits-you-best/"><u>New 2024 Approved Final Cut Pro Vs Lumafusion Which Suits You Best</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-hd-video-editing-software-for-2024/"><u>The Ultimate Guide to HD Video Editing Software for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/troubleshooting-tips-for-ios-downloads-fixing-persistent-time-left-to-complete-errors/"><u>Troubleshooting Tips for iOs Downloads: Fixing Persistent 'Time Left to Complete' Errors</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-and-youtube-analyzing-their-unique-features/"><u>Vimeo and YouTube Analyzing Their Unique Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixing-non-appearing-thumbnails-in-youtube-shorts/"><u>[New] In 2024, Fixing Non-Appearing Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-luminous-clips-discover-5-apps-that-shine-online/"><u>[New] Luminous Clips Discover 5 Apps That Shine Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlimited-editing-discover-these-9-free-cloud-tools-for-2024/"><u>[Updated] Unlimited Editing Discover These 9 Free Cloud Tools for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-an-easy-guide-to-embedding-mp3-files-into-presentations/"><u>2024 Approved An Easy Guide to Embedding MP3 Files Into Presentations</u></a></li>
+<li><a href="https://win-online.techidaily.com/mac-aomei-backupper/"><u>如何在 Mac上用 AOMEi Backupper进行定时备份与任务同步</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728507777996-windows-11/"><u>順利復原 Windows 11畫面凍結：專家提出的高效排除方法</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-repair-techniques-for-dealing-with-code-28-error-on-microsoft-windows/"><u>DIY Repair Techniques for Dealing with Code 28 Error on Microsoft Windows</u></a></li>
+<li><a href="https://win-online.techidaily.com/dji-drone-footage-revival-a-step-by-step-guide-to-recovering-captured-videos/"><u>DJI Drone Footage Revival: A Step-by-Step Guide to Recovering Captured Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicate-the-bluescreen-in-windows-11-expert-fixes-summarized/"><u>Eradicate the Bluescreen in Windows 11: Expert Fixes Summarized</u></a></li>
+<li><a href="https://win-online.techidaily.com/fixed-problem-computer-cant-identify-storage-device/"><u>Fixed Problem: Computer Can't Identify Storage Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capture-the-chuckles-a-guide-to-using-snapchats-laughing-lenses/"><u>In 2024, Capture the Chuckles A Guide to Using Snapchat’s Laughing Lenses</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-honor-v-purse-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Honor V Purse Phone Now with These Tips</u></a></li>
+<li><a href="https://win-online.techidaily.com/prosedur-gratis-untuk-memulai-file-yang-kembali-di-windows-11/"><u>Prosedur Gratis Untuk Memulai File Yang Kembali Di Windows 11</u></a></li>
+<li><a href="https://win-online.techidaily.com/resolving-a-frozen-pc-on-windows-7-5-simple-methods-to-successfully-perform-a-system-restore/"><u>Resolving a Frozen PC on Windows 7: 5 Simple Methods to Successfully Perform a System Restore</u></a></li>
+<li><a href="https://win-online.techidaily.com/solutions-libres-de-poche-pour-recuperation-lenovo-ideapad-le-meilleur-choix/"><u>Solutions Libres De Poche Pour Récupération Lenovo IdeaPad - Le Meilleur Choix</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-creating-your-own-dvd-backup-in-iso-format-with-winx-dvd-copy-software/"><u>Step-by-Step Guide: Creating Your Own DVD Backup in ISO Format with WinX DVD Copy Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-xiaomi-civi-3-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Xiaomi Civi 3? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728504180041-windows-server-2022/"><u>Windows Server 2022のセットアップにおける最新ガイド: ダウンロードからインストールまで</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728495245137-windows-10usb/"><u>セキュリティ強化バックアップ: Windows 10データをUSBへ簡単移行方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Upsells and Complementary Products: Drive Your Business Forward with Effective Tactics From MassMail Software Solutions"
-date: 2024-12-27T03:45:34.150Z
-updated: 2024-12-29T21:55:35.678Z
+date: 2025-01-03T16:41:30.828Z
+updated: 2025-01-08T22:15:13.831Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -40,6 +36,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -48,15 +48,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,45 +70,41 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -130,6 +126,10 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Emily Bronte
 
  Back to blog
@@ -149,21 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-multimedia-production-a-guide-to-editing-videos-on-windows-10/"><u>[Updated] 2024 Approved Mastering Multimedia Production A Guide to Editing Videos on Windows 10</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-memorable-moments-made-easy-download-and-save-gif-from-social-media/"><u>[Updated] 2024 Approved Memorable Moments Made Easy Download and Save GIF From Social Media</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/como-recuperar-archivos-eliminados-de-un-disco-duro-externo-que-no-estan-en-la-papelera-de-reciclaje/"><u>Cómo Recuperar Archivos Eliminados De Un Disco Duro Externo Que No Están en La Papelera De Reciclaje</u></a></li>
-<li><a href="https://win-online.techidaily.com/dreh-dich-nicht-herum-wissen-sie-was-in-ios-portiert-werden-kann/"><u>Dreh Dich Nicht Herum! Wissen Sie, Was in iOS Portiert Werden Kann?</u></a></li>
-<li><a href="https://win-online.techidaily.com/guida-passo-passo-come-recuperare-i-tuoi-file-con-windows-11-da-microsoft-file-recovery/"><u>Guida Passo-Passo: Come Recuperare I Tuoi File Con Windows 11 Da Microsoft File Recovery</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-edge-40-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Edge 40 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-zte-nubia-z60-ultra-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On ZTE Nubia Z60 Ultra?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo K11 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-tecno-camon-30-pro-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Tecno Camon 30 Pro 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/kernel-troubles-heres-how-to-solve-inpage-error-issues-efficiently/"><u>Kernel Troubles? Here's How to Solve Inpage Error Issues Efficiently</u></a></li>
-<li><a href="https://win-online.techidaily.com/quick-fix-how-to-seamlessly-revert-or-remove-windows-11-system-updates/"><u>Quick Fix: How to Seamlessly Revert or Remove Windows 11 System Updates</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-guide-restoring-your-lenovo-ideapad-g50-with-the-recovery-password/"><u>Step-by-Step Guide: Restoring Your Lenovo IdeaPad G50 with the Recovery Password</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-tutorial-on-converting-office-365-archives-into-pst-format-with-ediscovery/"><u>Step-by-Step Tutorial on Converting Office 365 Archives Into PST Format with eDiscovery</u></a></li>
-<li><a href="https://win-online.techidaily.com/troubleshooting-guide-for-fixing-windows-11-update-error-code-0x80070422/"><u>Troubleshooting Guide for Fixing Windows 11 Update Error Code 0X80070422</u></a></li>
-<li><a href="https://win-online.techidaily.com/wenn-wort-wiederherstellt-wird-wie-offnet-man-die-gespeicherten-dokumente/"><u>Wenn Wort Wiederherstellt Wird, Wie Öffnet Man Die Gespeicherten Dokumente?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-deciphering-highlighted-discussion-threads/"><u>[New] 2024 Approved Deciphering Highlighted Discussion Threads</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-ultimate-audio-and-video-showcase-excellent-webcams-for-podcasts/"><u>[New] In 2024, Ultimate Audio & Video Showcase Excellent Webcams for Podcasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-advanced-hue-adjustment-strategies-for-professionals/"><u>[Updated] Advanced Hue Adjustment Strategies for Professionals</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-messenger-video-guide-dimensions-file-type-elapsed-for-2024/"><u>[Updated] Messenger Video Guide Dimensions, File Type, Elapsed for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/6ieq5yuv55qe44gr5ymk6zmk44gv44km44kl44ov44kh44kk44or44ks5q2i44kb44cb5ywd6yca44kk44gr44gz44kl44gf44kb44gu44og44kv44ol44od44kv6kej6kqs/"><u>自動的に削除されるファイルを止め、元通りにするためのテクニック解説</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-review-of-the-dji-mavic-2-pro-why-its-a-must-have-for-drone-veterans/"><u>A Comprehensive Review of the DJI Mavic 2 Pro: Why It's a Must-Have for Drone Veterans</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-to-safeguard-your-memories-top-3-methods-for-transferring-iphone-data-to-an-external-hard-drive-on-a-mac/"><u>How to Safeguard Your Memories: Top 3 Methods for Transferring iPhone Data to an External Hard Drive on a Mac</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-motorola-moto-g84-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Motorola Moto G84 5G FRP</u></a></li>
+<li><a href="https://article-tips.techidaily.com/masterclass-enhancing-live-streams-with-360-cameras/"><u>Masterclass Enhancing Live Streams with 360° Cameras</u></a></li>
+<li><a href="https://win-online.techidaily.com/qnap-naswindowsos-onedrive/"><u>QNAP NAS機器をWindowsOSであなたの重要データを保護: OneDriveに簡単同期方法</u></a></li>
+<li><a href="https://win-online.techidaily.com/resolved-fixing-download-errors-overcoming-the-0x800f0806-issue-in-windows-update/"><u>Resolved: Fixing Download Errors - Overcoming the 0X800F0806 Issue in Windows Update</u></a></li>
+<li><a href="https://win-online.techidaily.com/windows-11-dwm-optimization-reduce-memory-usage-for-enhanced-performance/"><u>Windows 11 DWM Optimization: Reduce Memory Usage for Enhanced Performance</u></a></li>
 </ul></div>
 

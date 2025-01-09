@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Text Messaging Tools for Enhanced Business Communication: A Guide with MassMail (2009)"
-date: 2024-12-28T17:31:05.212Z
-updated: 2024-12-29T19:56:03.543Z
+date: 2025-01-04T20:13:45.708Z
+updated: 2025-01-08T18:14:16.069Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -40,6 +36,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -48,15 +48,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,16 +70,12 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -90,13 +86,13 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -109,6 +105,10 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,17 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-transforming-fb-videos-into-mp3-files/"><u>[New] Transforming Fb Videos Into MP3 Files</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-from-zero-to-hero-funimates-apk-unleashed-playbook-for-2024/"><u>[Updated] From Zero to Hero Funimate's APK Unleashed Playbook for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-legends-unite-battle-for-midgard/"><u>[Updated] Legends Unite Battle for Midgard</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-crafting-made-easy-with-free-templates/"><u>[Updated] YouTube Crafting Made Easy with FREE Templates</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728493951767-5/"><u>「完全抹消後もパソコンから重要な情報を取り戻せる驚くべきテクニック5点！」</u></a></li>
-<li><a href="https://win-news.techidaily.com/adjust-your-profile-settings-on-windows-with-ease-expert-tips-from-yl-softwares-user-account-management-feature/"><u>Adjust Your Profile Settings on Windows with Ease - Expert Tips From YL Software's User Account Management Feature</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/bridge-the-gap-between-viewers-and-wide-angles-posting-on-facebook/"><u>Bridge the Gap Between Viewers and Wide Angles Posting on Facebook</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-complete-picture-guide-to-vsco-app/"><u>In 2024, Complete Picture Guide to VSCO App</u></a></li>
-<li><a href="https://win-online.techidaily.com/protection-de-fichiers-pourquoi-les-sauvegardes-sous-windows-echouent-a-ajouter-des-repertoires/"><u>Protection De Fichiers: Pourquoi Les Sauvegardes Sous Windows Échouent À Ajouter Des Répertoires</u></a></li>
-<li><a href="https://win-online.techidaily.com/solving-usb-30s-slow-data-transfer-issue-a-comprehensive-guide-with-7-effective-methods/"><u>Solving USB 3.0'S Slow Data Transfer Issue - A Comprehensive Guide with 7 Effective Methods</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-assessment-of-dell-xps-13s-impressive-2-in-1-functionality-and-power/"><u>The Ultimate Assessment of Dell XPS 13'S Impressive 2-in-1 Functionality and Power</u></a></li>
-<li><a href="https://win-online.techidaily.com/windowsvhd/"><u>Windowsサーバー向けのVHDファイル回復手順</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-smooth-operation-file-transfer-between-different-os-phones/"><u>[New] In 2024, Smooth Operation File Transfer Between Different OS Phones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-streamline-your-content-upload-instagram-videos-from-desktop/"><u>[Updated] Streamline Your Content Upload Instagram Videos From Desktop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-selecting-and-utilizing-top-6-gopro-attachments/"><u>[Updated] The Ultimate Guide to Selecting & Utilizing Top 6 GOPRO Attachments</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-delving-into-the-world-of-video-grading-styles/"><u>2024 Approved Delving Into the World of Video Grading Styles</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728509247598-usb/"><u>六大解決手段：如何即時修正磁碑與USB硬碟連接器錯誤</u></a></li>
+<li><a href="https://win-online.techidaily.com/complete-guide-to-samsung-ssd-upgrade-mastering-mbr-to-gpt-conversion-and-disk-cloning-techniques/"><u>Complete Guide to Samsung SSD Upgrade: Mastering MBR to GPT Conversion & Disk Cloning Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determining-the-version-of-powershell-in-windows-11-with-ease/"><u>Determining the Version of PowerShell in Windows 11 with Ease</u></a></li>
+<li><a href="https://win-online.techidaily.com/easy-solutions-for-overcoming-the-format-unavailable-problem-with-your-sandisk-memory-card/"><u>Easy Solutions for Overcoming the 'Format Unavailable' Problem with Your Sandisk Memory Card</u></a></li>
+<li><a href="https://win-online.techidaily.com/goal-setting-is-an-ongoing-process-requiring-regular-review-and-adaptation/"><u>Goal Setting Is an Ongoing Process Requiring Regular Review and Adaptation.</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-to-copy-an-assignment-schedule-file-from-network-drive-to-local-storage-on-windows-11/"><u>How to Copy an Assignment Schedule File From Network Drive to Local Storage on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-excellent-online-destinations-for-budget-friendly-vectr-creations/"><u>In 2024, Excellent Online Destinations for Budget-Friendly Vectr Creations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-find-x7-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo Find X7 Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-pfr-rate-for-easy-going-footage-for-2024/"><u>Premium PFR Rate for Easy-Going Footage for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-error-code-0x0000005c-a-step-by-step-hal-initialization-failure-guide/"><u>Resolving Error Code 0X0000005C: A Step-by-Step HAL Initialization Failure Guide</u></a></li>
+<li><a href="https://win-online.techidaily.com/selectionner-la-solution-parfaite-aomei-mx-backunlocker-multiplateforme-le-meilleur-choix-de-sauvegarde-et-dassistance-pour-tous-vos-appareils-globalement.m1/"><u>Sélectionner La Solution Parfaite: AOMEI MX BackUnlocker Multiplateforme – Le Meilleur Choix De Sauvegarde Et D'Assistance Pour Tous Vos Appareils Globalement</u></a></li>
+<li><a href="https://win-online.techidaily.com/step-by-step-tutorial-for-fixing-corrupt-drives-and-recovering-data-in-windows-10-and-11-systems/"><u>Step-by-Step Tutorial for Fixing Corrupt Drives and Recovering Data in Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://win-online.techidaily.com/troubleshooting-guide-how-to-resolve-usb-file-transfer-issues-on-windows-11-top-5-solutions/"><u>Troubleshooting Guide: How to Resolve USB File Transfer Issues on Windows 11 (Top 5 Solutions)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-powered-by-updated-nvidia-geforce-210-drivers/"><u>Win11 Powered by Updated NVIDIA GeForce 210 Drivers</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728478031966-windows-11-0xc00000e/"><u>Windows 11 0xC00000E错误修复指南 - 有效解决方法</u></a></li>
 </ul></div>
 

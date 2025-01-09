@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Revenue During the 2020 Black Friday Rush with MassMail's Powerful Strategies
-date: 2024-12-23T18:46:03.973Z
-updated: 2024-12-29T20:31:52.559Z
+date: 2025-01-02T21:08:03.361Z
+updated: 2025-01-09T01:10:23.220Z
 tags:
   - product
 categories:
@@ -17,6 +17,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -45,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -67,16 +71,24 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -94,29 +106,21 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,18 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-anime-inspired-dance-routines-top-20-tiktok-trends/"><u>[New] 2024 Approved Anime-Inspired Dance Routines Top 20 TikTok Trends</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-divine-clash-thors-return-date/"><u>[New] In 2024, Divine Clash Thor's Return Date</u></a></li>
-<li><a href="https://win-online.techidaily.com/best-seo-solutions-for-businesses-in-ankara-expert-agencies-you-can-trust-seo-powersuite-insights/"><u>Best SEO Solutions for Businesses in Ankara - Expert Agencies You Can Trust | SEO PowerSuite Insights</u></a></li>
-<li><a href="https://win-online.techidaily.com/how-to-restore-deleted-or-corrupted-dll-files-in-windows-11-using-proven-techniques-guide/"><u>How to Restore Deleted or Corrupted DLL Files in Windows 11 Using Proven Techniques (Guide)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-find-x7-ultra-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo Find X7 Ultra Phone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/lost-in-terraria-reconnect-with-these-proven-techniques-inside-the-blocky-world/"><u>Lost in Terraria? Reconnect with These Proven Techniques Inside the Blocky World</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-uninterrupted-media-playback-post-win11-update/"><u>Mastering Uninterrupted Media Playback Post Win11 Update</u></a></li>
-<li><a href="https://win-online.techidaily.com/resolving-windows-10-backup-failure-fast-solutions/"><u>Resolving Windows 10 Backup Failure: Fast Solutions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rt-of-framing-making-an-effective-youtube-introductory-vids/"><u>The Art of Framing Making an Effective YouTube Introductory Vids</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-roadmap-to-selecting-top-tier-visual-storytellers/"><u>The Roadmap to Selecting Top-Tier Visual Storytellers</u></a></li>
-<li><a href="https://win-online.techidaily.com/transfert-rapide-des-donnees-de-windows-10-a-un-ssd-sans-utiliser-la-methode-traditionnelle-du-clonage/"><u>Transfert Rapide Des Données De Windows 10 À Un SSD, Sans Utiliser La Méthode Traditionnelle Du Clonage</u></a></li>
-<li><a href="https://win-online.techidaily.com/weitere-automatisierte-onedrive-backuplosung-zu-externen-festplatten-in-den-neuesten-windows-versionen-w11w10w8w7-erklart/"><u>Weitere Automatisierte OneDrive-Backuplösung Zu Externen Festplatten in Den Neuesten Windows-Versionen (W11/W10/W8/W7) Erklärt</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728467981028-windows-pc/"><u>Windows PC保存工具：最適家庭及商業使用</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ultimate-websites-easy-alarm-ringtone-downloads-for-2024/"><u>[New] Ultimate Websites Easy Alarm Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-immersive-viewing-microsoft-edges-pip/"><u>[Updated] 2024 Approved Immersive Viewing Microsoft Edge's PIP</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-inverted-playback-the-hidden-technique-for-a-reversed-youtube-list/"><u>2024 Approved Inverted Playback The Hidden Technique for a Reversed YouTube List</u></a></li>
+<li><a href="https://win-online.techidaily.com/windows-server-which-translates-to-best-windows-server-cloud-backup-software/"><u>最高のWindows Serverクラウドバックアップソフトウェア Which Translates to Best Windows Server Cloud Backup Software.</u></a></li>
+<li><a href="https://win-online.techidaily.com/automate-your-files-seamlessly-integrating-a-local-folder-with-google-drive/"><u>Automate Your Files: Seamlessly Integrating a Local Folder with Google Drive</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/find-your-favorite-download-free-slide-show-patterns-today/"><u>Find Your Favorite, Download-Free Slide Show Patterns Today</u></a></li>
+<li><a href="https://win-online.techidaily.com/mastering-digital-engagement-the-revived-social-media-strategies-summit-in-chicago-powered-by-massmail/"><u>Mastering Digital Engagement: The Revived Social Media Strategies Summit in Chicago, Powered by MassMail</u></a></li>
+<li><a href="https://win-online.techidaily.com/maximizing-your-profit-a-guide-to-finding-top-quality-resellable-items-with-massmail-software/"><u>Maximizing Your Profit: A Guide to Finding Top-Quality Resellable Items with MassMail Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimieren-sie-ihre-mkv-reproduktionsverzogerungen-und-storungen-unter-windows-and-macos/"><u>Optimieren Sie Ihre MKV-Reproduktionsverzögerungen Und Störungen Unter Windows & macOS</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-galaxy-f34-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Galaxy F34 5G on Windows</u></a></li>
+<li><a href="https://win-online.techidaily.com/step-by-step-solutions-to-resolve-the-0xc1900205-system-recovery-error-on-windows/"><u>Step-by-Step Solutions to Resolve the 0xC1900205 System Recovery Error on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-corsair-icue-connectivity-issues-in-windows-10-and-11/"><u>Troubleshooting Steps: Resolving Corsair iCUE Connectivity Issues in Windows 10 & 11</u></a></li>
+<li><a href="https://win-online.techidaily.com/imavarasalshana-para-anapalbthha-iphone-ma-tata-haaa-data-kasa-panaraparapata-kaya-jae/"><u>इमोवेर्सिलेशन पर अनुपलब्ध, iPhone में टूटा हुआ डेटा कैसे पुनर्प्राप्त किया जाए</u></a></li>
 </ul></div>
 
