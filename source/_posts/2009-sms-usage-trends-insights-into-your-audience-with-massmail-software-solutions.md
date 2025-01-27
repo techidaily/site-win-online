@@ -1,7 +1,7 @@
 ---
 title: "2009 SMS Usage Trends: Insights Into Your Audience with MassMail Software Solutions"
-date: 2025-01-18T21:30:39.493Z
-updated: 2025-01-20T21:04:35.496Z
+date: 2025-01-26T11:18:59.071Z
+updated: 2025-01-27T08:33:50.566Z
 tags:
   - product
 categories:
@@ -44,11 +44,19 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -66,25 +74,25 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -94,25 +102,17 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,21 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-video-conferencing-skills-google-meet-aesthetics-guide/"><u>[New] Elevate Video Conferencing Skills Google Meet Aesthetics Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-cutting-down-curated-content-how-to-delete-fb-story-pc-and-phone/"><u>[Updated] Cutting Down Curated Content How to Delete FB Story (PC & Phone)</u></a></li>
-<li><a href="https://win-online.techidaily.com/44cm5zwp6agm44gq44gp44oq44ol44od44kv44k144od44kv44ot44oh44kq44ks6ksh5yaz44gz44kl57ch5y2y44ks44kk44oj44cn/"><u>「問題なくリュックサックビデオを複写する簡単ガイド」</u></a></li>
-<li><a href="https://win-online.techidaily.com/44cm5pya6ygp44gq44oe44o844or44oq44k544oi77ya5qiq5oqv5b2x44ot44oh44kq44gu5z6c55u05asj5oplusb5pa55rov44cn/"><u>「最適なツールリスト：横投影ビデオの垂直変換方法」</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-crafting-visual-impact-a-guide-to-color-balancing-mastery/"><u>2024 Approved Crafting Visual Impact A Guide to Color Balancing Mastery</u></a></li>
-<li><a href="https://win-online.techidaily.com/1726028685451-wonderfox-dvd/"><u>簡単にビデオ変換！WonderFox DVDコンバーターの使い方</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-evolution-understanding-job-security-in-an-era-of-generative-models-like-chatgpt/"><u>AI Evolution: Understanding Job Security in an Era of Generative Models Like ChatGPT</u></a></li>
-<li><a href="https://win-online.techidaily.com/digamp4/"><u>DIGAプラットフォーム上でMP4形式動画が再生できない問題：原因分析と解消方法</u></a></li>
-<li><a href="https://win-online.techidaily.com/effortless-format-changing-convert-arf-to-widely-supported-videoaudio-types-without-limits/"><u>Effortless Format Changing: Convert ARF to Widely-Supported Video/Audio Types without Limits</u></a></li>
-<li><a href="https://win-online.techidaily.com/expert-tips-on-using-factory-pro-for-effortless-mp4-file-transformation/"><u>Expert Tips on Using Factory Pro for Effortless MP4 File Transformation</u></a></li>
-<li><a href="https://win-online.techidaily.com/focus-t25-dvd/"><u>FOCUS T25エクササイズ DVD リッピングテクニック - 詳しい手順とヒント</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-s23pluswithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel S23+with/without a PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-corsair-k70-mouse-firmware-download-guide-and-steps/"><u>How to Install Corsair K70 Mouse Firmware: Download Guide and Steps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-10-best-apps-for-editing-igtv-vertical-videos/"><u>In 2024, 10 Best Apps for Editing IGTV Vertical Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-basic-ps-color-correction/"><u>In 2024, Step-by-Step Guide to Basic PS Color Correction</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/resolving-file-vanishing-acts-a-guide-to-recovering-deleted-documents-in-windows-10/"><u>Resolving File Vanishing Acts: A Guide to Recovering Deleted Documents in Windows 10</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-photographs-dancing-to-musical-rhythms-for-2024/"><u>[New] Photographs Dancing to Musical Rhythms for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-beginners-guide-to-youtube-image-sharing-for-2024/"><u>[Updated] The Beginner's Guide to YouTube Image Sharing for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-to-pcs-and-macs-best-recorders/"><u>[Updated] Ultimate Guide to PC's and Mac's Best Recorders</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728493426516-404/"><u>「サイト上のページを探す: なぜこのコンテンツは404エラーで表示されるのか」</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-classic-stop-motion-animations-ranking-the-best-15/"><u>2024 Approved Classic Stop-Motion Animations Ranking the Best 15</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-steps-to-permanently-delete-your-instagram-profile-the-complete-guide/"><u>2024 Approved Steps to Permanently Delete Your Instagram Profile The Complete Guide</u></a></li>
+<li><a href="https://win-online.techidaily.com/3-mit-2011-flexibel-tipps-und-tricks-fur-professionelle-datensicherung/"><u>3 Mit 2011 Flexibel? Tipps Und Tricks Für Professionelle Datensicherung</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ace-titles-our-picks-for-the-very-best-adventurous-players-for-2024/"><u>Ace Titles Our Picks for the Very Best Adventurous Players for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/come-recuperare-le-foto-cancellate-da-un-disco-rigido-esterno/"><u>Come Recuperare Le Foto Cancellate Da Un Disco Rigido Esterno</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-bingchatgpt-token-hoaxes-a-step-by-step-guide-to-spotting-and-preventing-cryptocurrency-scams-online/"><u>Decoding BingChatGPT Token Hoaxes: A Step-by-Step Guide to Spotting & Preventing Cryptocurrency Scams Online</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/step-by-step-guide-setting-up-mirror-synchronization-using-aomei-backupper-on-macos/"><u>Step-by-Step Guide: Setting Up Mirror Synchronization Using AOMEI Backupper on macOS</u></a></li>
+<li><a href="https://win-online.techidaily.com/step-by-step-guide-transferring-data-between-two-synology-nas-devices/"><u>Step-by-Step Guide: Transferring Data Between Two Synology NAS Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-fixes-when-your-pc-wont-play-battlefield-4-a-comprehensive-walkthrough/"><u>The Ultimate Fixes When Your PC Won’t Play Battlefield 4 – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-online.techidaily.com/ultimate-guide-to-optimal-data-duplication-top-ranking-m2-nvme-ssd-cloning-software-by-aomei-backupper/"><u>Ultimate Guide to Optimal Data Duplication: Top-Ranking M.2 NVMe SSD Cloning Software by AOMEI Backupper</u></a></li>
+<li><a href="https://win-online.techidaily.com/understanding-the-incompatibility-of-wd-smartware-with-windows-11-systems/"><u>Understanding the Incompatibility of WD Smartware with Windows 11 Systems</u></a></li>
 </ul></div>
 

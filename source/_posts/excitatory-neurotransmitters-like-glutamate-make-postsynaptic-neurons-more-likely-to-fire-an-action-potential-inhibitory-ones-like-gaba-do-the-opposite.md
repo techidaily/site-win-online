@@ -1,7 +1,7 @@
 ---
 title: Excitatory Neurotransmitters, Like Glutamate, Make Postsynaptic Neurons More Likely to Fire an Action Potential; Inhibitory Ones, Like GABA, Do the Opposite.
-date: 2025-01-20T00:41:48.421Z
-updated: 2025-01-21T01:19:16.867Z
+date: 2025-01-20T03:07:24.446Z
+updated: 2025-01-27T10:56:57.100Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,21 +56,16 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-detailed-breakdown-chilled-delights-on-your-screen-for-2024/"><u>[New] Detailed Breakdown Chilled Delights on Your Screen for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-top-8-trending-facebook-video-hits-for-2024/"><u>[New] Top 8 Trending Facebook Video Hits for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-sculpt-personalized-digital-laughs-now-for-2024/"><u>[Updated] Sculpt Personalized Digital Laughs Now for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-prepared-for-macos-11-big-sur-upgrade/"><u>2024 Approved Getting Prepared for MacOS 11 Big Sur Upgrade</u></a></li>
-<li><a href="https://win-online.techidaily.com/beheben-sie-den-fehlercode-0x80070643-beim-aktualisierungsprozess-von-windows-updates-version-kb5034441/"><u>Beheben Sie Den Fehlercode 0X80070643 Beim Aktualisierungsprozess Von Windows-Updates, Version KB5034441</u></a></li>
-<li><a href="https://win-online.techidaily.com/beschleunigen-sie-ihren-windows-server-2022-erfolgreich-umgang-mit-extremer-leistungsverlangsamung-3-ansatze/"><u>Beschleunigen Sie Ihren Windows Server 2022: Erfolgreich Umgang Mit Extremer Leistungsverlangsamung (3 Ansätze)</u></a></li>
-<li><a href="https://win-online.techidaily.com/effiziente-strategien-zur-wiederherstellung-von-dateien-fur-samsung-portable-ssd-modelle-t3t5x5t-7/"><u>Effiziente Strategien Zur Wiederherstellung Von Dateien Für Samsung Portable SSD - Modelle T3/T5/X5/T 7</u></a></li>
-<li><a href="https://win-online.techidaily.com/equivalent-de-robocopy-pour-les-utilisateurs-de-mac-decouvrez-le-logiciel-approprie/"><u>Equivalent De Robocopy Pour Les Utilisateurs De Mac : Découvrez Le Logiciel Approprié</u></a></li>
-<li><a href="https://win-online.techidaily.com/erkennen-und-beheben-von-drohenden-festplattenproblemen-in-windows-losungen-fur-windows-1087-benutzer/"><u>Erkennen Und Beheben Von Drohenden Festplattenproblemen in Windows: Lösungen Für Windows 10/8/7 Benutzer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-math-problem-solving-with-chatgpt/"><u>Exploring Math Problem-Solving with ChatGPT</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fast-and-easy-way-to-change-flv-files-into-wma-the-ultimate-conversion-tool/"><u>Fast and Easy Way to Change Flv Files Into Wma - The Ultimate Conversion Tool</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-14-pro-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 14 Pro When You Forget the Passcode?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sky-high-security-for-your-photos-explore-free-and-paid-options-for-2024/"><u>Sky-High Security for Your Photos Explore Free and Paid Options for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-photo-repair-suite-enhance-your-images-with-the-windows-compatible-standard-version/"><u>Stellar Photo Repair Suite: Enhance Your Images with the Windows-Compatible Standard Version</u></a></li>
-<li><a href="https://win-online.techidaily.com/top-empfohlene-portable-cloning-programme-fur-windows-bestenlisten-update-fur-win11-win10-win8-and-win7/"><u>Top-Empfohlene Portable Cloning Programme Für Windows: Bestenlisten Update Für Win11, Win10, Win8 & Win7</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728482256076-windows-11-ssd/"><u>Windows 11 搬移方法：如何将系统从一个 SSD 转移到另一个安全引导</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/bookworm-essentials-an-in-depth-assessment-of-the-amazon-kindle-paperwhite-7-generation/"><u>Bookworm Essentials: An In-Depth Assessment of the Amazon Kindle Paperwhite 7 Generation</u></a></li>
+<li><a href="https://win-premium.techidaily.com/camera-raw-file-restoration-expert-guide-with-ifind-recovery/"><u>Camera RAW File Restoration: Expert Guide with iFinD Recovery</u></a></li>
+<li><a href="https://win-online.techidaily.com/decouvrir-les-principes-pour-inversement-modifier-un-enregistrement-video/"><u>Découvrir Les Principes Pour Inversement Modifier Un Enregistrement Video</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-tecno-spark-20-proplus-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Tecno Spark 20 Pro+ Phone?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/kostenloze-conversie-van-ts-naar-wav-files-onderstaakbaar-helemaal/"><u>Kostenloze Conversie Van Ts Naar Wav Files - Onderstaakbaar Helemaal!</u></a></li>
+<li><a href="https://win-online.techidaily.com/movavis-collection-of-no-cost-graphics-illustrations-and-photographs-your-ultimate-resource-for-creative-assets/"><u>Movavi's Collection of No-Cost Graphics, Illustrations & Photographs: Your Ultimate Resource for Creative Assets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-perfect-match-for-corporate-needs-diving-into-lenovos-new-ai-enhanced-thinkpads-as-revealed/"><u>The Perfect Match for Corporate Needs? Diving Into Lenovo’s New AI-Enhanced ThinkPads, as Revealed</u></a></li>
+<li><a href="https://win-online.techidaily.com/transformez-votre-fichier-cr2-en-tiff-sans-frais-aidez-vous-avec-movavi/"><u>Transformez Votre Fichier CR2 en TIFF Sans Frais - Aidez-Vous Avec Movavi</u></a></li>
+<li><a href="https://win-online.techidaily.com/1726220789068-mp3-movavi/"><u>오픈 소스에서 비용 없이 MP3로 음성을 바꾸기: Movavi의 도구</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44oh44k444k44or44ox44op44kk44oq44k344o85lplusd6k2377ya44ot44oh44kq57eo6zug44oe44o844or44ks5l244gj44gf5yq55p6c55qe44gq44oi44k244kk44kv5oqa6kgt/"><u>デジタルプライバシー保護：ビデオ編集ツールを使った効果的なモザイク技術</u></a></li>
 </ul></div>
 

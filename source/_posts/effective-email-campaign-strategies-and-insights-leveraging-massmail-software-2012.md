@@ -1,7 +1,7 @@
 ---
 title: "Effective Email Campaign Strategies & Insights: Leveraging MassMail Software (2012)"
-date: 2025-01-14T03:42:14.115Z
-updated: 2025-01-20T21:27:41.926Z
+date: 2025-01-23T05:44:08.011Z
+updated: 2025-01-27T12:05:37.779Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -54,10 +54,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -70,25 +66,25 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -98,13 +94,13 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -114,13 +110,13 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-inspire-creativity-brainstorming-for-channels-names/"><u>[New] 2024 Approved Inspire Creativity Brainstorming for Channels' Names</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-step-by-step-creating-a-skype-group-on-both-systems/"><u>[New] Step-by-Step Creating a Skype Group on Both Systems</u></a></li>
-<li><a href="https://win-online.techidaily.com/1-sollten-alte-backups-auf-einer-externen-festplatte-geloscht-werden/"><u>1. Sollten Alte Backups Auf Einer Externen Festplatte Gelöscht Werden?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/broadcasting-in-the-olympics-how-and-where-to-find-unlisted-live-streams/"><u>Broadcasting in the Olympics: How and Where to Find Unlisted Live Streams</u></a></li>
-<li><a href="https://win-online.techidaily.com/comprehensive-strategy-session-on-leveraging-email-and-social-media-in-your-campaigns-massmail-suite/"><u>Comprehensive Strategy Session on Leveraging Email & Social Media in Your Campaigns (MassMail Suite)</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-realme-gt-5-240w-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-expert-recommendations-the-finest-fee-free-streamers-and-tools/"><u>In 2024, Expert Recommendations The Finest, Fee-Free Streamers and Tools</u></a></li>
-<li><a href="https://win-online.techidaily.com/issue-resolved-troubleshooting-and-repairing-shadow-copies-feature-errors-in-windows-10-7-and-8/"><u>Issue Resolved: Troubleshooting and Repairing 'Shadow Copies' Feature Errors in Windows 10, 7 & 8</u></a></li>
-<li><a href="https://win-online.techidaily.com/mastering-the-surge-in-email-advertising-key-metrics-best-practices-and-timing-analytics-via-massmail-software/"><u>Mastering the Surge in Email Advertising: Key Metrics, Best Practices, and Timing Analytics via MassMail Software</u></a></li>
-<li><a href="https://win-online.techidaily.com/revolutionary-profit-boosting-strategy-with-massmail-elevate-your-business-sales/"><u>Revolutionary Profit-Boosting Strategy with MassMail: Elevate Your Business Sales</u></a></li>
-<li><a href="https://win-online.techidaily.com/the-art-of-brevity-in-communication-leveraging-massmail-for-effective-short-email-strategies/"><u>The Art of Brevity in Communication: Leveraging MassMail for Effective Short Email Strategies</u></a></li>
-<li><a href="https://win-online.techidaily.com/the-science-of-shopping-exploring-consumer-motivations-with-massmail-software-techniques/"><u>The Science of Shopping: Exploring Consumer Motivations with Massmail Software Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transforming-your-dvd-library-into-an-iphone-6-6-plus-collection-with-ease/"><u>Transforming Your DVD Library Into an iPhone 6 / 6 Plus Collection with Ease</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-google-pixel-7a-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Google Pixel 7a? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-expert-strategies-in-nvidia-screen-capturing/"><u>[Updated] 2024 Approved Expert Strategies in NVIDIA Screen Capturing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-srt-to-sub-transforming-playback-sequences/"><u>[Updated] From SRT to SUB Transforming Playback Sequences</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-thriving-as-a-novice-youtuber-sidestep-these-8-crucial-pitfalls/"><u>2024 Approved Thriving as a Novice YouTuber? Sidestep These 8 Crucial Pitfalls</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chorus-of-services-integrating-your-musical-library/"><u>Chorus of Services Integrating Your Musical Library</u></a></li>
+<li><a href="https://win-online.techidaily.com/complete-guide-to-samsung-ssd-upgrade-mastering-mbr-to-gpt-conversion-and-disk-cloning-techniques/"><u>Complete Guide to Samsung SSD Upgrade: Mastering MBR to GPT Conversion & Disk Cloning Techniques</u></a></li>
+<li><a href="https://win-online.techidaily.com/completez-le-processus-de-restauration-a-partir-dune-sauvegarde-sur-votre-serveur-windows-guide-etape-par-etape/"><u>Complétez Le Processus De Restauration À Partir D'une Sauvegarde Sur Votre Serveur Windows - Guide Étape Par Étape</u></a></li>
+<li><a href="https://win-online.techidaily.com/comprehensive-guide-understanding-and-utilizing-windows/"><u>Comprehensive Guide: Understanding and Utilizing Windows</u></a></li>
+<li><a href="https://win-online.techidaily.com/gmail-importiert-ihre-gesamten-outlook-kontaktdaten-schritt-fur-schritt-guide-zum-exportierenimportieren-von-kontakten/"><u>Gmail Importiert Ihre Gesamten Outlook-Kontaktdaten: Schritt-Für-Schritt-Guide Zum Exportieren/Importieren Von Kontakten</u></a></li>
+<li><a href="https://win-data.techidaily.com/microsoft-365-suffers-outage-amidst-ddos-assault-the-complete-report-by-zdnet/"><u>Microsoft 365 Suffers Outage Amidst DDoS Assault - The Complete Report by ZDNet</u></a></li>
+<li><a href="https://win-online.techidaily.com/rescate-sin-coste-archivos-desaparecidos-en-tarjeta-sd-recuperados-con-las-4-formulas-efectivas/"><u>Rescate Sin Coste: Archivos Desaparecidos en Tarjeta SD Recuperados Con Las 4 Fórmulas Efectivas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-unrecoverable-error-in-directx-a-complete-guide/"><u>Resolving the 'Unrecoverable Error' In DirectX: A Complete Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unleash-your-creativity-the-best-video-editing-apps/"><u>Updated In 2024, Unleash Your Creativity The Best Video Editing Apps</u></a></li>
 </ul></div>
 

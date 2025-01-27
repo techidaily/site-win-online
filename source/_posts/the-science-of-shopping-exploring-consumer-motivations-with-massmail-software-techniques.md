@@ -1,7 +1,7 @@
 ---
 title: "The Science of Shopping: Exploring Consumer Motivations with Massmail Software Techniques"
-date: 2025-01-19T21:53:30.473Z
-updated: 2025-01-21T03:29:04.333Z
+date: 2025-01-22T06:40:59.641Z
+updated: 2025-01-27T07:29:01.009Z
 tags:
   - product
 categories:
@@ -44,10 +44,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -66,25 +62,29 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -94,12 +94,16 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -110,13 +114,13 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,19 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-achieving-vibrant-colors-srgb-techniques/"><u>[New] Achieving Vibrant Colors Srgb Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-comparing-sharex-with-industry-leaders/"><u>[Updated] Comparing ShareX with Industry Leaders</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effortless-troubleshooting-for-apex-legends-loading-difficulties/"><u>Effortless Troubleshooting for Apex Legends Loading Difficulties</u></a></li>
-<li><a href="https://win-online.techidaily.com/excitatory-neurotransmitters-like-glutamate-make-postsynaptic-neurons-more-likely-to-fire-an-action-potential-inhibitory-ones-like-gaba-do-the-opposite/"><u>Excitatory Neurotransmitters, Like Glutamate, Make Postsynaptic Neurons More Likely to Fire an Action Potential; Inhibitory Ones, Like GABA, Do the Opposite.</u></a></li>
-<li><a href="https://win-online.techidaily.com/exploring-philosophical-roots-identifying-laozi-as-the-author-of-tao-te-ching-with-guidance-from-yl-software-experts/"><u>Exploring Philosophical Roots: Identifying Laozi as the Author of 'Tao Te Ching' With Guidance From YL Software Experts</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/guide-streaming-spotify-tunes-via-your-smart-tv-with-roku/"><u>Guide: Streaming Spotify Tunes via Your Smart TV with Roku</u></a></li>
-<li><a href="https://win-online.techidaily.com/impact-of-chinas-one-child-rule-on-social-dynamics-insights-by-yl-computing/"><u>Impact of China's One-Child Rule on Social Dynamics - Insights by YL Computing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-more-video-glitches-on-upgraded-windows-10/"><u>No More Video Glitches on Upgraded Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-restore-functionality-of-the-print-screen-button-in-win-11-win-10/"><u>Resolved! How To Restore Functionality Of The Print Screen Button In Win 11 / Win 10</u></a></li>
-<li><a href="https://win-hot.techidaily.com/seamless-guide-on-moving-iphone-notes-to-your-windows-or-mac-computer/"><u>Seamless Guide on Moving iPhone Notes to Your Windows or Mac Computer</u></a></li>
-<li><a href="https://win-online.techidaily.com/setting-up-fresh-user-profiles-with-ease-a-guide-by-yl-computing/"><u>Setting Up Fresh User Profiles with Ease: A Guide by YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-when-your-corsair-keyboard-stops-working-correctly/"><u>Solution Steps for When Your Corsair Keyboard Stops Working Correctly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamlined-aid-crafting-unleash-creativity-with-these-online-helpers/"><u>Streamlined Aid Crafting: Unleash Creativity with These Online Helpers</u></a></li>
-<li><a href="https://win-online.techidaily.com/troubleshooting-your-gpu-issues-step-by-step-guide-by-yl-software-experts/"><u>Troubleshooting Your GPU Issues: Step-by-Step Guide by YL Software Experts</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-coordinated-duet-clips-with-tiktok-twist/"><u>[New] Coordinated Duet Clips with TikTok Twist</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-endless-viewing-with-iphone-writes-of-video/"><u>[Updated] 2024 Approved Endless Viewing with iPhone' Writes of Video</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-the-12-step-youtube-seo-guide-for-beginners-who-want-more-views/"><u>[Updated] The 12-Step YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-blueprint-of-an-engaging-podcast-blurb/"><u>[Updated] The Blueprint of an Engaging Podcast Blurb</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-guide-to-cleaning-up-figma-canvases/"><u>2024 Approved Complete Guide to Cleaning Up Figma Canvases</u></a></li>
+<li><a href="https://win-online.techidaily.com/3-mit-2011-flexibel-tipps-und-tricks-fur-professionelle-datensicherung/"><u>3 Mit 2011 Flexibel? Tipps Und Tricks Für Professionelle Datensicherung</u></a></li>
+<li><a href="https://win-online.techidaily.com/chrome6/"><u>如何在Chrome中重新发现丢失的书签？6个轻松的修复技巧</u></a></li>
+<li><a href="https://win-online.techidaily.com/gardez-vos-informations-en-securite-maitrisez-lhistorique-des-fichiers-sur-windows-11-pour-une-protection-avancee/"><u>Gardez Vos Informations en Sécurité: Maîtrisez L'Historique Des Fichiers Sur Windows 11 Pour Une Protection Avancée</u></a></li>
+<li><a href="https://win-online.techidaily.com/lokale-externe-datensicherung-wie-man-seine-daten-erfolgreich-in-die-dropbox-ubertragen-kann-anleitung-fur-nutzer/"><u>Lokale Externe Datensicherung: Wie Man Seine Daten Erfolgreich in Die Dropbox Übertragen Kann - Anleitung Für Nutzer</u></a></li>
+<li><a href="https://article-posts.techidaily.com/reinstate-windows-photo-viewer-quickly-on-your-windows-10-pc/"><u>Reinstate Windows Photo Viewer Quickly on Your Windows 10 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sound-quality-assessment-for-your-windows-pc/"><u>Sound Quality Assessment for Your Windows PC</u></a></li>
+<li><a href="https://win-online.techidaily.com/step-by-step-guide-setting-up-mirror-synchronization-using-aomei-backupper-on-macos/"><u>Step-by-Step Guide: Setting Up Mirror Synchronization Using AOMEI Backupper on macOS</u></a></li>
+<li><a href="https://win-online.techidaily.com/step-by-step-guide-transferring-data-between-two-synology-nas-devices/"><u>Step-by-Step Guide: Transferring Data Between Two Synology NAS Devices</u></a></li>
+<li><a href="https://win-online.techidaily.com/tecnicas-efectivas-para-la-reparacion-y-restauracion-del-tabla-de-particiones-mbr/"><u>Técnicas Efectivas Para La Reparación Y Restauración Del Tabla De Particiones MBR</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/transformation-guide-converting-azw-files-into-epub-format-for-universal-reading-on-tablets-and-e-readers/"><u>Transformation Guide: Converting AZW Files Into ePub Format for Universal Reading on Tablets and E-Readers</u></a></li>
 </ul></div>
 
