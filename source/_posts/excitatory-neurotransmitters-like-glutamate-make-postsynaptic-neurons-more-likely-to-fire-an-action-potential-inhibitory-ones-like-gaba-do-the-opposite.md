@@ -1,7 +1,7 @@
 ---
 title: Excitatory Neurotransmitters, Like Glutamate, Make Postsynaptic Neurons More Likely to Fire an Action Potential; Inhibitory Ones, Like GABA, Do the Opposite.
-date: 2025-02-04T00:12:31.396Z
-updated: 2025-02-09T02:05:47.969Z
+date: 2025-02-16T06:29:15.972Z
+updated: 2025-02-18T21:57:49.433Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,17 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-how-to-use-zoom-in-your-daily-gmail-routine/"><u>[New] 2024 Approved How to Use Zoom in Your Daily Gmail Routine</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-masterpiece-makers-editing-images-with-invisible-text/"><u>[New] Masterpiece Makers Editing Images with Invisible Text</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-in-selecting-premium-hdr-cameras/"><u>2024 Approved Best Practices in Selecting Premium HDR Cameras</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/correcting-excessive-encoding-in-obs/"><u>Correcting Excessive Encoding in OBS</u></a></li>
-<li><a href="https://win-online.techidaily.com/expert-strategies-for-converting-virtual-machines-to-bare-metal-systems-unlock-the-top-methods/"><u>Expert Strategies for Converting Virtual Machines to Bare Metal Systems - Unlock the Top Methods</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-creative-components-free-youtube-visual-resources/"><u>In 2024, Creative Components FREE YouTube Visual Resources</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y27s-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y27s Through Google Earth?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/mejora-la-copia-de-seguridad-con-herramientas-gratuitas-para-sustituir-synology-data-replicator-en-windows-10/"><u>Mejora La Copia De Seguridad Con Herramientas Gratuitas Para Sustituir Synology Data Replicator en Windows 10</u></a></li>
-<li><a href="https://win-online.techidaily.com/quick-save-your-system-easy-steps-to-protect-windows-111087-with-a-compact-external-usb-flash-drive/"><u>Quick Save Your System: Easy Steps to Protect Windows 11/10/8/7 with a Compact External USB Flash Drive</u></a></li>
-<li><a href="https://win-online.techidaily.com/top-5-alternatives-to-novabackup-discovering-reliable-windows-data-protection-with-aomei-backupper/"><u>Top 5 Alternatives to NovaBACKUP: Discovering Reliable Windows Data Protection with AOMEI Backupper</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-top-5-free-mpeg-video-combining-tools/"><u>Updated In 2024, The Top 5 Free MPEG Video Combining Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-audiovisual-standards-for-success-on-youtube-top-format-choices/"><u>[New] Audiovisual Standards for Success on YouTube – Top Format Choices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-basics-of-aspect-ratio-compliance-on-twitter/"><u>[New] In 2024, The Basics of Aspect Ratio Compliance on Twitter</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhance-your-footage-reducing-size-for-instagram-on-a-mac/"><u>[Updated] 2024 Approved Enhance Your Footage Reducing Size for Instagram on a Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-10-affordable-game-recording-solutions/"><u>[Updated] In 2024, Top 10 Affordable Game Recording Solutions</u></a></li>
+<li><a href="https://win-online.techidaily.com/1-ultimate-guide-seamless-photo-transfer-from-computer-to-ipad-pro/"><u>1. [Ultimate Guide]: Seamless Photo Transfer From Computer to iPad Pro</u></a></li>
+<li><a href="https://win-online.techidaily.com/6kej5rg65pa55rov77ya5lplusd5a2y5aw95b6m77ym5a6m5oiq6loh5rqq5zue5ps255qe6ygo56ilic0g5y676zmk6zqo6lqr56k85pyq5yiq6zmk5qqu5qgi/"><u>解決方法：保存好後，完成資源回收的過程 - 去除隨身碼未刪除檔案</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acer-predator-triton-300-se-review-small-laptop-big-value/"><u>Acer Predator Triton 300 SE Review: Small Laptop, Big Value</u></a></li>
+<li><a href="https://win-online.techidaily.com/come-fare-un-backup-totale-su-windows-section-1-the-theme-question/"><u>Come Fare Un Backup Totale Su Windows # Section 1: The Theme Question</u></a></li>
+<li><a href="https://win-online.techidaily.com/easy-upgrade-guide-moving-to-windows-11-from-windows-7881-with-no-data-lost/"><u>Easy Upgrade Guide: Moving to Windows 11 From Windows 7/8/8.1 with No Data Lost</u></a></li>
+<li><a href="https://win-online.techidaily.com/effiziente-systemabbild-rucksetzung-fur-die-wiederherstellung-der-festplatte-unter-windows-7/"><u>Effiziente Systemabbild-Rücksetzung Für Die Wiederherstellung Der Festplatte Unter Windows 7</u></a></li>
+<li><a href="https://win-online.techidaily.com/keine-mehr-warum-ihr-iphone-keine-benachrichtigungen-mehr-anzeigt/"><u>Keine Mehr: Warum Ihr iPhone Keine Benachrichtigungen Mehr Anzeigt</u></a></li>
+<li><a href="https://win-online.techidaily.com/losungen-fur-den-verlust-von-dateien-wahrend-der-migration-zum-betriebssystem-windows-11-expertenantworten-und-tipps/"><u>Lösungen Für Den Verlust Von Dateien Während Der Migration Zum Betriebssystem Windows 11: Expertenantworten Und Tipps.</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/roku-vs-amazon-fire-tv-stick-choosing-the-right-streaming-device/"><u>Roku vs Amazon Fire TV Stick - Choosing the Right Streaming Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/strategies-for-fixing-the-persistent-error-code-108-in-steam-virtual-reality/"><u>Strategies for Fixing the Persistent Error Code 지108 in Steam Virtual Reality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-32-open-source-backup-solutions-comprehensive-rating-and-reviews/"><u>Top 32 Open-Source Backup Solutions - Comprehensive Rating & Reviews</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723003150000-troubleshoot-steams-remote-play-issues-with-easy-solutions/"><u>Troubleshoot Steam's Remote Play Issues with Easy Solutions</u></a></li>
+<li><a href="https://win-online.techidaily.com/troubleshooting-tips-for-ios-downloads-fixing-persistent-time-left-to-complete-errors/"><u>Troubleshooting Tips for iOs Downloads: Fixing Persistent 'Time Left to Complete' Errors</u></a></li>
 </ul></div>
 

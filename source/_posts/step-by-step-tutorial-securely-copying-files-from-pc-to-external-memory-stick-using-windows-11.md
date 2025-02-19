@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Securely Copying Files From PC to External Memory Stick Using Windows 11"
-date: 2025-02-04T02:02:54.878Z
-updated: 2025-02-09T03:49:04.957Z
+date: 2025-02-11T19:50:00.170Z
+updated: 2025-02-19T03:58:29.841Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db6e3204484fdd608537b1478.png
@@ -24,10 +24,6 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -48,7 +44,7 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -56,6 +52,10 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
@@ -73,9 +73,17 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -94,10 +102,6 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -149,6 +153,10 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -195,10 +203,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -214,7 +218,7 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
@@ -226,7 +230,7 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusione
@@ -240,10 +244,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
@@ -280,18 +280,17 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-ai-powered-youtube-title-designer-toolkit/"><u>[New] In 2024, AI-Powered YouTube Title Designer Toolkit</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-tailoring-a-streamlined-download-process-for-youtubes-srt/"><u>[New] In 2024, Tailoring a Streamlined Download Process for YouTube's SRT</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-crafting-a-combined-video-narrative-on-iphone/"><u>[Updated] Crafting a Combined Video Narrative on iPhone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-syma-s1n11g-drone-experience-ideal-for-indoor-enjoyment/"><u>Affordable Syma S1n11G Drone Experience: Ideal for Indoor Enjoyment</u></a></li>
-<li><a href="https://win-online.techidaily.com/compresion-de-videos-optimizada-para-usuarios-de-mac-top-softwares-recomendados/"><u>Compresión De Vídeos Optimizada Para Usuarios De Mac: Top Softwares Recomendados</u></a></li>
-<li><a href="https://win-online.techidaily.com/descargar-y-convertir-archivos-rmvb-a-formato-mp3-sin-coste-adicional-con-herramientas-online/"><u>Descargar Y Convertir Archivos RMVB a Formato MP3 Sin Coste Adicional Con Herramientas Online</u></a></li>
-<li><a href="https://win-online.techidaily.com/gratuite-online-converseret-videos-asf-vers-mov-utiliser-movavi-sans-frais/"><u>Gratuite Online Converseret Vidéos ASF Vers MOV - Utiliser Movavi Sans Frais</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/interactive-guide-to-chatgpts-shared-link-system/"><u>Interactive Guide to ChatGPT's Shared Link System</u></a></li>
-<li><a href="https://win-online.techidaily.com/movavi-webservice-kostenlose-umwandlung-von-wma-in-wav-dateien-direkt-im-browser-nutzbar/"><u>Movavi Webservice: Kostenlose Umwandlung Von WMA in WAV Dateien – Direkt Im Browser Nutzbar</u></a></li>
-<li><a href="https://fox-that.techidaily.com/retrieving-disappeared-iphone-apps-expert-tips-and-methods-for-users/"><u>Retrieving Disappeared iPhone Apps: Expert Tips and Methods for Users</u></a></li>
-<li><a href="https://win-online.techidaily.com/top-11-methods-to-transform-ts-files-into-mp4-on-any-platform/"><u>Top 11 Methods to Transform .TS Files Into MP4 on Any Platform</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tough-tech-reviewed-the-premier-resilient-laptops/"><u>Tough Tech Reviewed: The Premier Resilient Laptops</u></a></li>
-<li><a href="https://win-online.techidaily.com/trasforma-i-tuoi-file-flv-in-formato-asf-gratuitamente-online-utilizzando-il-servizio-di-movavi/"><u>Trasforma I Tuoi File FLV in Formato ASF Gratuitamente Online Utilizzando Il Servizio Di Movavi</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-the-vr-lingo-core-terminology-guide/"><u>[New] 2024 Approved Mastering the VR Lingo Core Terminology Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-errors-to-dodge-beginner-youtubers-guide/"><u>[New] In 2024, Essential Errors to Dodge Beginner YouTuber's Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-crafting-captivating-thumbnails-a-comprehensive-guide-for-youtube-creators-for-2024/"><u>[Updated] Crafting Captivating Thumbnails A Comprehensive Guide for YouTube Creators for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-exploring-best-hexadrone-innovations-10/"><u>2024 Approved Exploring Best HexaDrone Innovations #10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cure-for-windows-steam-clients-dll-error/"><u>Cure for Windows Steam Client's Dll Error</u></a></li>
+<li><a href="https://win-online.techidaily.com/free-online-3gpp-wav-format-converter-by-movavi-no-cost-effortless-audio-file-transformation/"><u>Free Online 3GPP WAV Format Converter by Movavi - No Cost, Effortless Audio File Transformation</u></a></li>
+<li><a href="https://win-online.techidaily.com/gratuita-online-convertidor-de-archivo-mp3-a-mp4-con-movavi/"><u>Gratuita Online: Convertidor De Archivo MP3 a MP4 Con Movavi</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/green-filmmaking-made-simple-with-smart-tech/"><u>Green Filmmaking Made Simple with Smart Tech</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-it-when-iphone-call-volume-is-low/"><u>How to Fix It When iPhone Call Volume Is Low</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/softening-system-sounds-a-comprehensive-guide/"><u>Softening System Sounds A Comprehensive Guide</u></a></li>
+<li><a href="https://win-online.techidaily.com/transforma-mp2-al-formato-mpg-gratuito-guia-paso-a-paso-por-la-plataforma-de-movavi/"><u>Transforma MP2 Al Formato MPG Gratuito - Guía Paso a Paso Por La Plataforma De Movavi</u></a></li>
+<li><a href="https://win-online.techidaily.com/trasforma-file-ogm-in-formato-wmv-senza-costi-con-movavi-convertitore-online/"><u>Trasforma File OGM in Formato WMV Senza Costi Con Movavi - Convertitore Online</u></a></li>
 </ul></div>
 
