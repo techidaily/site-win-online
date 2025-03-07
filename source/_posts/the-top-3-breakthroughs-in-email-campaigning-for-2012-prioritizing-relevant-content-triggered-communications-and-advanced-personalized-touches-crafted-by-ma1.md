@@ -1,7 +1,7 @@
 ---
 title: "The Top 3 Breakthroughs in Email Campaigning for 2012: Prioritizing Relevant Content, Triggered Communications & Advanced Personalized Touches | Crafted by Massmail Solutions"
-date: 2025-02-14T19:17:17.274Z
-updated: 2025-02-18T23:16:25.730Z
+date: 2025-03-03T22:50:58.030Z
+updated: 2025-03-07T22:21:39.583Z
 tags:
   - product
 categories:
@@ -36,10 +36,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -48,19 +44,11 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -73,10 +61,6 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -114,10 +98,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +105,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,14 +125,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-streaming-masterpieces-best-movie-directories-on-yt/"><u>[New] 2024 Approved Streaming Masterpieces Best Movie Directories on YT</u></a></li>
-<li><a href="https://win-online.techidaily.com/checking-device-compatibility-can-your-pc-work-with-any-scanner-insights-by-yl-computing/"><u>Checking Device Compatibility: Can Your PC Work With Any Scanner? - Insights by YL Computing</u></a></li>
-<li><a href="https://win-online.techidaily.com/enhancing-pc-protection-how-often-to-refresh-windows-defender-according-to-industry-pros-at-yl-software/"><u>Enhancing PC Protection: How Often to Refresh Windows Defender According to Industry Pros at YL Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/how-to-fix-a-non-responsive-scanner-solutions-and-tips-yl-computing-guide/"><u>How to Fix a Non-Responsive Scanner: Solutions and Tips - YL Computing Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-poco-f5-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Poco F5 5G Phone that is Locked?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-mic-a-guide-to-restoring-lost-sounds-in-fortnite/"><u>Mastering the Mic: A Guide to Restoring Lost Sounds in Fortnite</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>The Best iSpoofer Alternative to Try On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/understanding-frequent-pc-hardware-issues-on-windows-expert-analysis-by-yl-software/"><u>Understanding Frequent PC Hardware Issues on Windows - Expert Analysis by YL Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-exploring-options-when-facebook-takes-down-my-content/"><u>[New] 2024 Approved Exploring Options When Facebook Takes Down My Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-picturing-laughter-building-memes-with-text-tool-for-2024/"><u>[New] Picturing Laughter Building Memes with Text Tool for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unveiling-hidden-gems-facebooks-video-treasures/"><u>[Updated] 2024 Approved Unveiling Hidden Gems Facebook's Video Treasures</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-teachers-channel-blueprint-10-essential-tips-for-youtube-educators/"><u>[Updated] In 2024, Teachers’ Channel Blueprint 10 Essential Tips for YouTube Educators</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-roadmap-to-youtube-stardom-with-1000plus-followers/"><u>[Updated] In 2024, The Roadmap to YouTube Stardom with 1000+ Followers</u></a></li>
+<li><a href="https://win-online.techidaily.com/7-to-esxi-8-with-three-proven-strategies/"><u>7 to ESXi 8 with Three Proven Strategies</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728507770797-aomei-backupper/"><u>AOMEI Backupperによるパーティションのバックアップ手順ガイド</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-se-2022-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone SE (2022) to Computer? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-zte-nubia-z60-ultra-frp-by-drfone-android/"><u>In 2024, How Can We Bypass ZTE Nubia Z60 Ultra FRP?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-best-video-editing-apps-for-vloggers-top-picks-for-ios-and-android-for-2024/"><u>New The Best Video Editing Apps for Vloggers Top Picks for iOS & Android for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-phone-stores-where-to-purchase-the-latest-smartphones/"><u>Top Phone Stores: Where to Purchase the Latest Smartphones</u></a></li>
+<li><a href="https://win-online.techidaily.com/troubleshooting-unrecognized-cd-drive-problems-in-windows-11-systems/"><u>Troubleshooting Unrecognized CD Drive Problems in Windows 11 Systems</u></a></li>
+<li><a href="https://win-online.techidaily.com/ultimate-step-by-step-tutorial-top-2-free-tools-for-secure-data-retrieval-from-microsd-cards/"><u>Ultimate Step-by-Step Tutorial: Top 2 Free Tools for Secure Data Retrieval From MicroSD Cards</u></a></li>
+<li><a href="https://win-online.techidaily.com/verschieben-sie-ihre-kontakte-von-icloud-direkt-auf-den-iphone-speicher-einfache-methoden-detailliert-erlautern/"><u>Verschieben Sie Ihre Kontakte Von iCloud Direkt Auf Den iPhone-Speicher: Einfache Methoden Detailliert Erläutern</u></a></li>
 </ul></div>
 

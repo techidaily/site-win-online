@@ -1,7 +1,7 @@
 ---
 title: Understanding the Incompatibility of WD Smartware with Windows 11 Systems
-date: 2025-01-25T22:45:20.140Z
-updated: 2025-01-26T19:20:54.737Z
+date: 2025-03-05T18:20:49.521Z
+updated: 2025-03-07T21:50:58.095Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f9ba460d1a5d5ea60dfb5a94.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
@@ -76,10 +72,6 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
@@ -92,14 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -110,17 +94,9 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
@@ -133,10 +109,6 @@ If you have used File History to save a copy of your precious data, you can foll
 Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File History**.
 
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
@@ -183,10 +155,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Ransomware can't be prevented. Though there are multiple ways for you to accomplish how to recover files from ransomware, prevention is easier than rescue. We highly recommend you backup your important data periodically.
@@ -202,10 +170,6 @@ Was the provided information useful? Your vote is important to us!
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -226,10 +190,6 @@ Help Us Improve This Article
 Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free Get MyRecover Now
 
@@ -256,24 +216,17 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-crafting-your-path-to-optimal-hdr-camera-selection-for-2024/"><u>[New] Crafting Your Path to Optimal HDR Camera Selection for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/1-resolving-computer-hardware-problems-on-a-windows-machine-a-comprehensive-guide-yl-computing/"><u>1. Resolving Computer Hardware Problems on a Windows Machine: A Comprehensive Guide - YL Computing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-lightrooms-top-grading-tools-a-curated-list-of-best-rated-luts/"><u>2024 Approved Lightroom's Top Grading Tools – A Curated List of Best-Rated LUTs</u></a></li>
-<li><a href="https://win-online.techidaily.com/15yl/"><u>从硬性烟15年到完全清醒，老约定人们如何用YL优化戒烟方式——幸福脱离吸毁</u></a></li>
-<li><a href="https://win-online.techidaily.com/assessing-the-safety-of-your-digital-fortune-a-guide-to-crypto-wallets-security-with-yl-computing/"><u>Assessing the Safety of Your Digital Fortune: A Guide to Crypto Wallets Security with YL Computing</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/chatgpt-plus-reviewed-are-these-5-features-enough-to-justify-the-cost/"><u>ChatGPT Plus Reviewed - Are These 5 Features Enough to Justify the Cost?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-apples-enhanced-faceid-with-new-spatial-recognition-in-vision-pro-a-comprehensive-guide/"><u>Discovering Apple's Enhanced FaceID with New Spatial Recognition in Vision Pro - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-online.techidaily.com/exclusion-techniques-for-targeted-folder-protection-from-windows-defender-powered-by-yl-systems/"><u>Exclusion Techniques for Targeted Folder Protection From Windows Defender, Powered by YL Systems</u></a></li>
-<li><a href="https://win-online.techidaily.com/exploring-the-tech-stack-an-insight-into-the-tools-powering-cryptocurrency-a-guide-by-yl-computing/"><u>Exploring the Tech Stack: An Insight Into the Tools Powering Cryptocurrency - A Guide by YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nokia-g42-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nokia G42 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/identifying-hard-drive-malfunctions-a-comprehensive-guide-for-tech-enthusiasts/"><u>Identifying Hard Drive Malfunctions: A Comprehensive Guide for Tech Enthusiasts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-upgrade-your-photo-presence-best-border-selection-tips-for-instagram/"><u>In 2024, Upgrade Your Photo Presence Best Border Selection Tips for Instagram</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-the-issue-origin-gaming-platform-configuration-troubleshooting/"><u>Resolve the Issue: Origin Gaming Platform Configuration Troubleshooting</u></a></li>
-<li><a href="https://games-able.techidaily.com/smarter-system-control-with-corsair-icue-link-top-4-reasons-to-purchase/"><u>Smarter System Control with Corsair iCUE Link - Top 4 Reasons to Purchase</u></a></li>
-<li><a href="https://win-online.techidaily.com/solving-unresponsive-mouse-issues-expert-advice-from-yl-computings-guide/"><u>Solving Unresponsive Mouse Issues: Expert Advice From YL Computing's Guide</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/step-by-step-guide-converting-and-uploading-your-mov-video-to-youtube/"><u>Step-by-Step Guide: Converting & Uploading Your MOV Video to YouTube</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-guide-removing-directories-on-your-pc-with-windows-tech-solutions-by-yl/"><u>Step-by-Step Guide: Removing Directories on Your PC with Windows - Tech Solutions by YL</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-strategies-for-free-texting-save-on-data-and-stay-connected/"><u>Top Strategies for Free Texting: Save on Data & Stay Connected</u></a></li>
-<li><a href="https://win-online.techidaily.com/yl-computings-collection-of-breathtaking-maldivian-imagery-premium-backgrounds-and-wallpapers-to-transform-your-digital-space/"><u>YL Computing's Collection of Breathtaking Maldivian Imagery: Premium Backgrounds and Wallpapers to Transform Your Digital Space</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-accessible-quality-sunglasses-to-enhance-vr-experience/"><u>[New] In 2024, Accessible, Quality Sunglasses to Enhance VR Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-stay-on-top-the-essential-guide-to-fbs-latest-video-tracks-for-2024/"><u>[New] Stay on Top The Essential Guide to FB's Latest Video Tracks for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-a-complete-guide-to-utilizing-zoom-in-windows-10/"><u>[Updated] 2024 Approved A Complete Guide to Utilizing Zoom in Windows 10</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-vimeo-id-picture-guide-width-depth-moment-for-2024/"><u>[Updated] Vimeo ID Picture Guide Width, Depth, Moment for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-operational-obs-cam-after-fix/"><u>2024 Approved Operational OBS Cam After Fix</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728496180288-windows-server/"><u>安全性向上: Windows Serverの最先端データ暗号化・ダブルセキュリティ手法</u></a></li>
+<li><a href="https://win-online.techidaily.com/hddwindows-1110os/"><u>完全なHDDクリーンアップ：Windows 11/10でOS情報を安全に削除・管理手順</u></a></li>
+<li><a href="https://win-online.techidaily.com/comment-transferer-correctement-une-partition-de-recuperation-a-un-nouveau-disque-dur/"><u>Comment Transférer Correctement Une Partition De Récupération À Un Nouveau Disque Dur</u></a></li>
+<li><a href="https://win-online.techidaily.com/como-mover-su-sistema-operativo-de-windows-7-8-10-o-11-entre-dos-computadores/"><u>Cómo Mover Su Sistema Operativo De Windows (7, 8, 10 O 11) Entre Dos Computadores</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/geforce-rtx-3080-ti-drivers-new-release-for-windows-11-8-and-7-download-free-today/"><u>GeForce RTX 3080 Ti Drivers: New Release for Windows 11, 8, and 7 – Download Free Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-process-integrating-emulated-games-in-windows-playnite/"><u>Step-by-Step Process: Integrating Emulated Games in Windows' Playnite</u></a></li>
+<li><a href="https://win-online.techidaily.com/uitleggen-voor-het-terugbeantwoorden-op-hoe-herstellen-van-verwijderde-gegevens-van-usb/"><u>Uitleggen Voor Het Terugbeantwoorden Op 'Hoe Herstellen Van Verwijderde Gegevens Van USB?'</u></a></li>
 </ul></div>
 

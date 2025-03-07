@@ -1,7 +1,7 @@
 ---
 title: 1. Schritt-Für-Schritt-Anleitung Zum Erstellen Eines Windows 11 UEFI Bootfähigen USB Flashdrives Mit Rufus Und Alternativen Methoden
-date: 2025-02-15T00:54:56.349Z
-updated: 2025-02-18T16:15:10.525Z
+date: 2025-03-02T16:59:41.288Z
+updated: 2025-03-07T23:01:37.548Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d44f30246bb809e8ce4eedda.jpg
@@ -45,10 +45,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
 AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 11/10/8/7/XP/Vista qui prend en charge la sauvegarde de fichiers, de systèmes, de disques et de partitions en seulement quelques étapes simples. Vous pouvez profiter des avantages suivants :
@@ -64,10 +60,6 @@ AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 1
 Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet à la majorité des utilisateurs de comprendre rapidement le logiciel et de l'utiliser facilement. Veuillez le télécharger et l'installer sur votre ordinateur.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
@@ -93,10 +85,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -116,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -141,10 +125,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -178,10 +154,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,24 +170,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-understanding-the-impact-of-igtv-videos-through-analysis/"><u>[New] 2024 Approved Understanding the Impact of IGTV Videos Through Analysis</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-bandicam-navigating-its-full-potential/"><u>[Updated] In 2024, The Ultimate Guide to Bandicam Navigating Its Full Potential</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-hd-technology-showcased-by-best-screen-recorders-for-2024/"><u>[Updated] Innovative HD Technology Showcased by Best Screen Recorders for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>2024 Approved Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-itel-p55-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Itel P55 5G Phone</u></a></li>
-<li><a href="https://win-online.techidaily.com/best-free-videa-archivni-software-v-roce-202n4-20-podrubenych-vyhodnych-moznosti/"><u>Best Free Videa Archivní Software v Roce 202N4: 20 Podrůbených Výhodných Možností</u></a></li>
-<li><a href="https://win-online.techidaily.com/compresion-de-videos-optimizada-para-usuarios-de-mac-top-softwares-recomendados/"><u>Compresión De Vídeos Optimizada Para Usuarios De Mac: Top Softwares Recomendados</u></a></li>
-<li><a href="https://win-online.techidaily.com/decouvrez-les-plus-performants-outils-sans-frais-pour-la-videoscopie-top-10-logiciels-votre-solution/"><u>Découvrez Les Plus Performants Outils Sans Frais Pour La Vidéoscopie - Top 10 Logiciels Votre Solution!</u></a></li>
-<li><a href="https://win-online.techidaily.com/descargar-y-convertir-archivos-rmvb-a-formato-mp3-sin-coste-adicional-con-herramientas-online/"><u>Descargar Y Convertir Archivos RMVB a Formato MP3 Sin Coste Adicional Con Herramientas Online</u></a></li>
-<li><a href="https://win-online.techidaily.com/free-online-converter-change-mkv-files-to-aac-format-with-ease/"><u>Free Online Converter: Change MKV Files to AAC Format with Ease</u></a></li>
-<li><a href="https://win-online.techidaily.com/gratuite-online-converseret-videos-asf-vers-mov-utiliser-movavi-sans-frais/"><u>Gratuite Online Converseret Vidéos ASF Vers MOV - Utiliser Movavi Sans Frais</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Motorola Moto G84 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/is-minimizing-unstable-movement-in-photoshop-beneficial/"><u>Is Minimizing Unstable Movement in Photoshop Beneficial?</u></a></li>
-<li><a href="https://win-online.techidaily.com/movavi-webservice-kostenlose-umwandlung-von-wma-in-wav-dateien-direkt-im-browser-nutzbar/"><u>Movavi Webservice: Kostenlose Umwandlung Von WMA in WAV Dateien – Direkt Im Browser Nutzbar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-gadget-guide-your-go-to-source-for-hardware-reviews-and-comparisons/"><u>Tom's Gadget Guide: Your Go-To Source for Hardware Reviews and Comparisons</u></a></li>
-<li><a href="https://win-online.techidaily.com/top-11-methods-to-transform-ts-files-into-mp4-on-any-platform/"><u>Top 11 Methods to Transform .TS Files Into MP4 on Any Platform</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-5-alternative-editors-beyond-youtubes-limits/"><u>Top 5 Alternative Editors Beyond Youtube's Limits</u></a></li>
-<li><a href="https://win-online.techidaily.com/trasforma-i-tuoi-file-flv-in-formato-asf-gratuitamente-online-utilizzando-il-servizio-di-movavi/"><u>Trasforma I Tuoi File FLV in Formato ASF Gratuitamente Online Utilizzando Il Servizio Di Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-apple-vision-pro-offers-the-best-in-store-experience-insights-and-reservation-tips/"><u>Why Apple Vision Pro Offers the Best In-Store Experience: Insights & Reservation Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-prime-old-school-techniques-elevating-edits/"><u>[Updated] In 2024, Prime Old-School Techniques Elevating Edits</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-is-av1-the-new-video-codec-front-runner-in-2024/"><u>[Updated] Is AV1 The New Video Codec Front-Runner, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-storage-solutions-the-20-finest-free-online-spaces/"><u>[Updated] Streamline Storage Solutions The 20 Finest FREE Online Spaces</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skillful-shortcuts-quick-background-elimination-tactics/"><u>2024 Approved Skillful Shortcuts Quick Background Elimination Tactics</u></a></li>
+<li><a href="https://win-online.techidaily.com/comment-resoudre-limpossibilite-de-restaurer-ou-dextraire-des-fichiers-lors-du-demarrage-sous-windows-10/"><u>Comment Résoudre L'impossibilité De Restaurer Ou D'extraire Des Fichiers Lors Du Démarrage Sous Windows 10 ?</u></a></li>
+<li><a href="https://win-online.techidaily.com/erstellen-sie-ihren-eigenen-wiederherstellungs-disk-im-system-reparationsmodus-mit-windows-11-81-8-und-7-ein-umfassender-leitfaden/"><u>Erstellen Sie Ihren Eigenen Wiederherstellungs-Disk Im System Reparationsmodus Mit Windows 11, 8.1, 8 Und 7: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-to-transfer-phone-information-to-your-laptop-via-usb-in-case-of-handset-failure/"><u>How to Transfer Phone Information to Your Laptop via USB in Case of Handset Failure</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-freelancers-corner-yearly-best-free-text-files/"><u>In 2024, Freelancers’ Corner Yearly Best FREE Text Files</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-v29-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo V29 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722959123693-maximize-your-graphics-card-potential-with-newly-available-nvidia-rtx-2n80-super-driver-software-optimal-for-win10win11/"><u>Maximize Your Graphics Card Potential with Newly Available NVIDIA RTX 2N80 Super Driver Software - Optimal for Win10/Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/recovering-lost-data-a-comprehensive-guide-to-accessing-your-old-laptop-after-forgetting-the-passcode-expert-tips/"><u>Recovering Lost Data: A Comprehensive Guide to Accessing Your Old Laptop After Forgetting the Passcode - Expert Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-connectivity-overcoming-wireless-hurdles-in-windows/"><u>Seamless Connectivity: Overcoming Wireless Hurdles in Windows</u></a></li>
+<li><a href="https://win-online.techidaily.com/secure-your-windows-10-c-drive-top-3-protection-techniques/"><u>Secure Your Windows 10 C Drive: Top 3 Protection Techniques</u></a></li>
+<li><a href="https://win-online.techidaily.com/werkben-ik-met-schijfbeelden-in-windows-1011-drie-kostenloze-methoden-voor-professionele-resultaten/"><u>Werkben Ik Met Schijfbeelden In Windows 10/11: Drie Kostenloze Methoden Voor Professionele Resultaten</u></a></li>
 </ul></div>
 

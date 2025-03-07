@@ -1,7 +1,7 @@
 ---
 title: Excitatory Neurotransmitters, Like Glutamate, Make Postsynaptic Neurons More Likely to Fire an Action Potential; Inhibitory Ones, Like GABA, Do the Opposite.
-date: 2025-02-16T06:29:15.972Z
-updated: 2025-02-18T21:57:49.433Z
+date: 2025-03-02T17:00:00.659Z
+updated: 2025-03-07T16:49:28.129Z
 tags:
   - product
 categories:
@@ -31,10 +31,6 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Post navigation
 
 [What type of maintenance tasks should I be performing on my PC to keep it running efficiently?](https://tools.techidaily.com/pcclean/products/)
@@ -56,22 +52,18 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-audiovisual-standards-for-success-on-youtube-top-format-choices/"><u>[New] Audiovisual Standards for Success on YouTube – Top Format Choices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-basics-of-aspect-ratio-compliance-on-twitter/"><u>[New] In 2024, The Basics of Aspect Ratio Compliance on Twitter</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhance-your-footage-reducing-size-for-instagram-on-a-mac/"><u>[Updated] 2024 Approved Enhance Your Footage Reducing Size for Instagram on a Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-10-affordable-game-recording-solutions/"><u>[Updated] In 2024, Top 10 Affordable Game Recording Solutions</u></a></li>
-<li><a href="https://win-online.techidaily.com/1-ultimate-guide-seamless-photo-transfer-from-computer-to-ipad-pro/"><u>1. [Ultimate Guide]: Seamless Photo Transfer From Computer to iPad Pro</u></a></li>
-<li><a href="https://win-online.techidaily.com/6kej5rg65pa55rov77ya5lplusd5a2y5aw95b6m77ym5a6m5oiq6loh5rqq5zue5ps255qe6ygo56ilic0g5y676zmk6zqo6lqr56k85pyq5yiq6zmk5qqu5qgi/"><u>解決方法：保存好後，完成資源回收的過程 - 去除隨身碼未刪除檔案</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/acer-predator-triton-300-se-review-small-laptop-big-value/"><u>Acer Predator Triton 300 SE Review: Small Laptop, Big Value</u></a></li>
-<li><a href="https://win-online.techidaily.com/come-fare-un-backup-totale-su-windows-section-1-the-theme-question/"><u>Come Fare Un Backup Totale Su Windows # Section 1: The Theme Question</u></a></li>
-<li><a href="https://win-online.techidaily.com/easy-upgrade-guide-moving-to-windows-11-from-windows-7881-with-no-data-lost/"><u>Easy Upgrade Guide: Moving to Windows 11 From Windows 7/8/8.1 with No Data Lost</u></a></li>
-<li><a href="https://win-online.techidaily.com/effiziente-systemabbild-rucksetzung-fur-die-wiederherstellung-der-festplatte-unter-windows-7/"><u>Effiziente Systemabbild-Rücksetzung Für Die Wiederherstellung Der Festplatte Unter Windows 7</u></a></li>
-<li><a href="https://win-online.techidaily.com/keine-mehr-warum-ihr-iphone-keine-benachrichtigungen-mehr-anzeigt/"><u>Keine Mehr: Warum Ihr iPhone Keine Benachrichtigungen Mehr Anzeigt</u></a></li>
-<li><a href="https://win-online.techidaily.com/losungen-fur-den-verlust-von-dateien-wahrend-der-migration-zum-betriebssystem-windows-11-expertenantworten-und-tipps/"><u>Lösungen Für Den Verlust Von Dateien Während Der Migration Zum Betriebssystem Windows 11: Expertenantworten Und Tipps.</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/roku-vs-amazon-fire-tv-stick-choosing-the-right-streaming-device/"><u>Roku vs Amazon Fire TV Stick - Choosing the Right Streaming Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/strategies-for-fixing-the-persistent-error-code-108-in-steam-virtual-reality/"><u>Strategies for Fixing the Persistent Error Code 지108 in Steam Virtual Reality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-32-open-source-backup-solutions-comprehensive-rating-and-reviews/"><u>Top 32 Open-Source Backup Solutions - Comprehensive Rating & Reviews</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723003150000-troubleshoot-steams-remote-play-issues-with-easy-solutions/"><u>Troubleshoot Steam's Remote Play Issues with Easy Solutions</u></a></li>
-<li><a href="https://win-online.techidaily.com/troubleshooting-tips-for-ios-downloads-fixing-persistent-time-left-to-complete-errors/"><u>Troubleshooting Tips for iOs Downloads: Fixing Persistent 'Time Left to Complete' Errors</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-essential-tools-for-mobile-movie-making/"><u>[New] Essential Tools for Mobile Movie Making</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quick-guide-to-mac-screen-taking-techniques/"><u>[New] Quick Guide to MAC Screen Taking Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pioneering-top-vr-movies-for-enjoyment/"><u>[Updated] 2024 Approved Pioneering Top VR Movies for Enjoyment</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-game-ahead-the-ultimate-list-of-premier-gba-emulator-programs/"><u>2024 Approved Game Ahead The Ultimate List of Premier GBA Emulator Programs</u></a></li>
+<li><a href="https://win-online.techidaily.com/effective-strategies-for-accumulating-prospects-2012s-top-techniques-and-comprehensive-guide-to-lead-generation-tools/"><u>Effective Strategies for Accumulating Prospects: 2012'S Top Techniques & Comprehensive Guide to Lead Generation Tools</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-to-resolve-boot-configuration-data-bcd-error-98-in-windows-10/"><u>How to Resolve Boot Configuration Data (BCD) Error 98 in Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nubia-red-magic-8s-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-nubia-red-magic-8s-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nubia Red Magic 8S Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-f5-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco F5 Pro 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-x1-carbon-driver-installation-for-windows-10-and-7-quick-guide/"><u>Lenovo X1 Carbon Driver Installation for Windows 10 & 7 - Quick Guide</u></a></li>
+<li><a href="https://win-online.techidaily.com/master-higher-open-rates-proven-classic-approaches-to-subject-lines-plus-a-special-offer-from-massmail/"><u>Master Higher Open Rates: Proven Classic Approaches to Subject Lines - Plus a Special Offer From Massmail!</u></a></li>
+<li><a href="https://win-online.techidaily.com/sicherung-von-installationsprogrammen-auf-windows-111087-entdecken-sie-die-drei-effizientesten-methoden/"><u>Sicherung Von Installationsprogrammen Auf Windows 11/10/8/7 - Entdecken Sie Die Drei Effizientesten Methoden</u></a></li>
+<li><a href="https://win-online.techidaily.com/top-5-seo-agentstv-v-birmingeme-angliya-rukovodstvo-po-vyboram-v-2024-godu-s-pomoshyu-seo-powersuite/"><u>Топ-5 SEO Агентств В Бирмингеме, Англия: Руководство По Выборам В 2024 Году С Помощью SEO PowerSuite</u></a></li>
 </ul></div>
 

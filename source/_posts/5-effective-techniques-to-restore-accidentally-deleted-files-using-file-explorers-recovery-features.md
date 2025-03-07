@@ -1,7 +1,7 @@
 ---
 title: 5 Effective Techniques to Restore Accidentally Deleted Files Using File Explorer's Recovery Features
-date: 2025-01-21T01:29:12.876Z
-updated: 2025-01-26T16:25:11.365Z
+date: 2025-03-01T16:52:02.601Z
+updated: 2025-03-07T21:45:14.524Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892d0c27222e3c559cd653e7a3.png
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
@@ -72,20 +68,12 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
 * Or you can click **Custom...** to create a backup according to your needs.
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4\. Finally, click **OK** to confirm.
 
@@ -109,15 +97,7 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -126,10 +106,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -165,10 +141,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
@@ -241,10 +213,6 @@ Was the provided information useful? Your vote is important to us!
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Create Image Backup with Ghost Disk Utility](https://tools.techidaily.com/ubackup/products/)
@@ -265,10 +233,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -276,10 +240,6 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -298,24 +258,15 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-macsnap-gallery-builder/"><u>[New] 2024 Approved MacSnap Gallery Builder</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ips-to-develop-engaging-lifestyle-enlightenment-vids-for-2024/"><u>[New] Tips to Develop Engaging Lifestyle Enlightenment Vids for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/orlds-highest-paying-streamer-for-2024/"><u>[New] World's Highest Paying Streamer for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728510231522-windows/"><u>「快速复制私人数据：在不启动Windows的情况下进行操作方法（详解）」</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/csv3/"><u>「CSVデータ失われるのを防ぐ無料ツールトップ3」</u></a></li>
-<li><a href="https://win-online.techidaily.com/iuwkueaenoeahoobquodkeodvoodhuocoplusoctplusodpplusodsplusobqoodnoodquodpeodvoodooobqplusocioociplusodhplusodvoocvplussneittzrjg5djg4pjgqjgqljg4pjg5fmiyvpoi364/"><u>効果的なパーティションとボリュームによるデータ保護:バックアップ手順ガイド</u></a></li>
-<li><a href="https://win-online.techidaily.com/comment-annuler-avec-ease-la-suppression-de-la-corbeille-sous-windows-un-guide-detaille/"><u>Comment Annuler Avec Ease La Suppression De La Corbeille Sous Windows : Un Guide Détaillé</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/create-professional-discs-with-no-cost-using-winx-dvd-burner-made-for-windows-1110-enthusiasts/"><u>Create Professional Discs with No Cost Using WinX DVD Burner Made For Windows 11/10 Enthusiasts</u></a></li>
-<li><a href="https://win-online.techidaily.com/das-handbuch-fur-die-rekonstruktion-von-csv-datenbankdateien-erfolgreiches-datenwiederherstellungsprotokoll-myrecover/"><u>Das Handbuch Für Die Rekonstruktion Von .CSV-Datenbankdateien: Erfolgreiches Datenwiederherstellungsprotokoll | MyRecover</u></a></li>
-<li><a href="https://win-online.techidaily.com/guide-rapide-pour-deplacer-windows-10-sur-ssd-m2-pas-de-reinstallation-necessaire/"><u>Guide Rapide Pour Déplacer Windows 10 Sur SSD M.2 : Pas De Reinstallation Nécessaire !</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-civi-3-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi Civi 3 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unveiling-youtubes-finest-story-sages-and-weavers-in-23/"><u>In 2024, Unveiling YouTube's Finest Story Sages and Weavers in '23</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/mastering-file-retrieval-expert-tips-for-restoring-deleted-word-documents-using-ifinds-recovery-suite/"><u>Mastering File Retrieval: Expert Tips for Restoring Deleted Word Documents Using iFinD's Recovery Suite</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728505018062-onedrive/"><u>OneDrive上のデスクトップファイルを回復するためのガイド</u></a></li>
-<li><a href="https://win-online.techidaily.com/perfektes-kopieren-ihrer-windows-10-festplatte-auf-einen-ssd-mithilfe-von-gparted-profi-tipps-und-andere-losungen/"><u>Perfektes Kopieren Ihrer Windows 10 Festplatte Auf Einen SSD Mithilfe Von GParted - Profi-Tipps Und Andere Lösungen</u></a></li>
-<li><a href="https://win-online.techidaily.com/ripristina-la-tua-scheda-sd-formattata-in-modo-facile-passaggi-dettagliati-sia-da-pc-con-windows-che-dal-tuo-telefono-android/"><u>Ripristina La Tua Scheda SD Formattata in Modo Facile: Passaggi Dettagliati Sia Da PC Con Windows Che Dal Tuo Telefono Android</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-tutorial-for-implementing-norton-ghost-across-various-windows-versions-windows-11-10-8-and/"><u>Step-by-Step Tutorial for Implementing Norton Ghost Across Various Windows Versions (Windows 11, 10, 8 &)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveil-the-quickest-ways-to-transform-your-game-characters-speech-in-pubg-for-2024/"><u>Unveil the Quickest Ways to Transform Your Game Characters' Speech in PUBG for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upgrade-your-ar-experience-economically-why-i-chose-these-affordable-xr-glasses-over-the-pricey-apple-and-meta-models-recommends/"><u>Upgrade Your AR Experience Economically: Why I Chose These Affordable XR Glasses Over the Pricey Apple and Meta Models Recommends</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-prime-audio-pads-for-the-web/"><u>[New] 2024 Approved Prime Audio Pads for the Web</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-11-list-streaming-audio-recorders-uncovered/"><u>[Updated] Ultimate #11 List Streaming Audio Recorders Uncovered</u></a></li>
+<li><a href="https://win-online.techidaily.com/a-step-by-step-guide-to-crafting-your-marketing-content-using-quality-stock-visuals/"><u>A Step-by-Step Guide to Crafting Your Marketing Content Using Quality Stock Visuals</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/breaking-the-rules-10-innovative-glitch-art-video-editing-apps-for-mobile/"><u>Breaking the Rules 10 Innovative Glitch Art Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://win-online.techidaily.com/free-online-3gpp-wav-format-converter-by-movavi-no-cost-effortless-audio-file-transformation/"><u>Free Online 3GPP WAV Format Converter by Movavi - No Cost, Effortless Audio File Transformation</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-roku-tv-facebook-live-broadcasting-tips-for-2024/"><u>Navigating Roku TV Facebook Live Broadcasting Tips for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/transforma-mp2-al-formato-mpg-gratuito-guia-paso-a-paso-por-la-plataforma-de-movavi/"><u>Transforma MP2 Al Formato MPG Gratuito - Guía Paso a Paso Por La Plataforma De Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformez-vos-films-mkv-en-chansons-mp3-sans-complications-la-solution-gratuite-et-rapide-expliquee/"><u>Transformez Vos Films MKV en Chansons MP3 Sans Complications : La Solution Gratuite Et Rapide Expliquée</u></a></li>
+<li><a href="https://win-online.techidaily.com/trasforma-file-ogm-in-formato-wmv-senza-costi-con-movavi-convertitore-online/"><u>Trasforma File OGM in Formato WMV Senza Costi Con Movavi - Convertitore Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Transferring and Storing Your Gmail Emails Onto a USB Drive"
-date: 2025-01-25T00:42:10.348Z
-updated: 2025-01-26T16:18:53.944Z
+date: 2025-03-02T18:09:27.262Z
+updated: 2025-03-07T16:24:24.455Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e7891f6b783242dd563fe50d.jpg
@@ -65,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -76,10 +72,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -113,14 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -137,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -168,10 +144,6 @@ Aidez-nous à améliorer cet article
 Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour nous !
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
 
@@ -198,22 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-find-the-perfect-video-collaboration-app-our-choice-of-10-free-tools/"><u>[New] 2024 Approved Find the Perfect Video Collaboration App Our Choice of 10 Free Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-fundamental-blueprints-to-enhance-facebook-ad-engagement/"><u>[New] Fundamental Blueprints to Enhance Facebook Ad Engagement</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-ideal-video-snapper-for-your-chromebook-for-2024/"><u>[New] Ideal Video Snapper For Your Chromebook for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-authoritative-list-affordable-visuals-online-for-2024/"><u>[Updated] Authoritative List Affordable Visuals Online for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-zoomjoint-reporting/"><u>2024 Approved ZoomJoint Reporting</u></a></li>
-<li><a href="https://win-online.techidaily.com/6-proven-strategies-to-restore-access-to-grayed-out-tracks-in-your-apple-music-library/"><u>6 Proven Strategies to Restore Access to Grayed-Out Tracks in Your Apple Music Library</u></a></li>
-<li><a href="https://win-online.techidaily.com/como-administrar-sus-copias-de-seguridad-con-aomei-backupper-pro-en-tus-pcs-con-diversas-versiones-de-windows/"><u>Cómo Administrar Sus Copias De Seguridad Con AOMEI Backupper Pro en Tus PCs Con Diversas Versiones De Windows</u></a></li>
-<li><a href="https://win-online.techidaily.com/fixez-votre-planificateur-de-taches-dysfonctionnel-sur-windows-lks-strategies-efficaces-pour-la-resolution-des-problemes/"><u>Fixez Votre Planificateur De Tâches Dysfonctionnel Sur Windows ˈlɛŋks - Stratégies Efficaces Pour La Résolution Des Problèmes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/gaining-unauthorized-control-through-ghostwrite-bug-in-the-design-of-risc-v-cpus/"><u>Gaining Unauthorized Control Through GhostWrite Bug in the Design of RISC-V CPUs</u></a></li>
-<li><a href="https://win-online.techidaily.com/how-to-exit-recovery-mode-on-iphone-without-a-computer/"><u>How to Exit Recovery Mode on iPhone Without a Computer</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://win-online.techidaily.com/mastering-data-integrity-expert-strategies-for-fixing-crc-issues/"><u>Mastering Data Integrity: Expert Strategies for Fixing CRC Issues</u></a></li>
-<li><a href="https://win-online.techidaily.com/schritt-fur-schritt-tutorial-zum-sicheren-installieren-von-windows-10-fur-eine-neugestaltung/"><u>Schritt-Für-Schritt-Tutorial Zum Sicheren Installieren Von Windows 10 Für Eine Neugestaltung</u></a></li>
-<li><a href="https://win-online.techidaily.com/simple-steps-to-clear-storage-on-microsoft-onedrive-when-full/"><u>Simple Steps to Clear Storage on Microsoft OneDrive When Full</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728467981028-windows-pc/"><u>Windows PC保存工具：最適家庭及商業使用</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gopro-match-made-in-heaven-camera-showdowns/"><u>[Updated] GoPro Match Made in Heaven Camera Showdowns</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-your-guide-to-the-most-hilarious-tear-jerking-ig-memes/"><u>[Updated] In 2024, Your Guide to The Most Hilarious, Tear-Jerking IG Memes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-springs-screen-recorder-unveiled-a-users-perspective-for-2024/"><u>[Updated] Spring's Screen Recorder Unveiled A User's Perspective for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/constructing-an-intriguing-trailer-blueprint-for-2024/"><u>Constructing an Intriguing Trailer Blueprint for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ideal-ai-note-capturing-tools-the-ultimate-6-picks-for-improved-organization/"><u>Discover the Ideal AI Note-Capturing Tools: The Ultimate 6 Picks for Improved Organization</u></a></li>
+<li><a href="https://win-online.techidaily.com/erfolgreiches-kopieren-von-datentragern-mit-fehlerhaften-sektoreneinheiten-einrichten-fur-das-starten/"><u>Erfolgreiches Kopieren Von Datenträgern Mit Fehlerhaften Sektoreneinheiten - Einrichten Für Das Starten</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-to-easily-resolve-the-windows-11-version-22h2-update-issue-learn-4-effective-solutions/"><u>How to Easily Resolve the Windows 11 Version 22H2 Update Issue - Learn 4 Effective Solutions!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-innovative-scripting-for-advanced-typography-in-after-effects/"><u>In 2024, Innovative Scripting for Advanced Typography in After Effects</u></a></li>
+<li><a href="https://win-online.techidaily.com/les-5-strategies-les-plus-performantes-de-secours-des-donnees-dans-windows-10/"><u>Les 5 Stratégies Les Plus Performantes De Secours Des Données Dans Windows 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pinnacle-peak-tracker-your-highest-youtube-rankings-for-2024/"><u>Pinnacle Peak Tracker Your Highest YouTube Rankings for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/schritt-fur-schritt-anleitung-wie-man-fruhere-versionen-wiederherstellt/"><u>Schritt-Für-Schritt Anleitung: Wie Man Frühere Versionen Wiederherstellt</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-preserving-clarity-during-mp4-file-compression-techniques/"><u>Ultimate Guide to Preserving Clarity During MP4 File Compression Techniques</u></a></li>
+<li><a href="https://win-online.techidaily.com/windows-7-wbadmin-mastering-command-line-and-gui-versions/"><u>Windows 7 WBAdmin: Mastering Command Line and GUI Versions</u></a></li>
 </ul></div>
 

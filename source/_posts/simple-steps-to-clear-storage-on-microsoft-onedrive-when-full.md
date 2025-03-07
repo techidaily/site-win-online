@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Clear Storage on Microsoft OneDrive When Full
-date: 2025-02-14T04:33:21.327Z
-updated: 2025-02-19T03:14:47.629Z
+date: 2025-03-03T18:57:33.234Z
+updated: 2025-03-07T18:11:02.123Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5f93c49b1c440b80d1268f9b261207858efb549976695493b8cd986466735cf6.jpg
@@ -38,10 +38,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is it possible to recover data from ransomware?
 
 I'm looking at a computer after it's been hit by some ransomware. The files have been encrypted. I am trying some guides in removal and recovery, but they don't seem to be of much help. If you have suggestions on how to recover files from ransomware, I would appreciate it.
@@ -55,10 +51,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -86,10 +78,6 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
@@ -110,17 +98,9 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -133,10 +113,6 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
@@ -179,10 +155,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Ransomware can't be prevented. Though there are multiple ways for you to accomplish how to recover files from ransomware, prevention is easier than rescue. We highly recommend you backup your important data periodically.
@@ -194,10 +166,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -223,10 +191,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get MyRecover Now
 
 Recover deleted & lost data from any disasters in Windows.
@@ -234,10 +198,6 @@ Recover deleted & lost data from any disasters in Windows.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
@@ -256,21 +216,15 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-optimize-customize-and-enhance-with-these-win11-tips/"><u>[New] In 2024, Optimize, Customize & Enhance with These Win11 Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-full-time-employees-guide-to-video-content-success-for-2024/"><u>[Updated] The Full-Time Employee's Guide to Video Content Success for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/2024iphonewhatsapp/"><u>【2024最新情報】iPhone向けWhatsAppダウンロードから始めるスムーズなバックアップと移行・クローニング法</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-capturing-magic-in-motion-a-guide-to-hero5-timelapses/"><u>2024 Approved Capturing Magic in Motion A Guide to Hero5 Timelapses</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728479586079-windows-11/"><u>初期化の問題: Windows 11で途中で止まってしまう - トラブルシューティングガイド</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728463846657-mac/"><u>頂級Mac檔案分享應用: 最高效能的快速通信技巧</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-epson-es-400-scandriver-on-windows-complete-guide/"><u>Download & Install Epson ES-400 ScanDriver on Windows: Complete Guide</u></a></li>
-<li><a href="https://win-online.techidaily.com/download-gratuitamente-guida-passo-passo-per-creare-un-backup-completo-del-tuo-pc-con-windows-11-in-due-modi/"><u>Download Gratuitamente - Guida Passo-Passo per Creare Un Backup Completo Del Tuo PC Con Windows 11 in Due Modi</u></a></li>
-<li><a href="https://win-blog.techidaily.com/eliminating-pc-hiccups-a-guide-to-stop-no-rest-for-the-wicked-game-from-crashing/"><u>Eliminating PC Hiccups: A Guide to Stop 'No Rest for the Wicked' Game From Crashing</u></a></li>
-<li><a href="https://win-online.techidaily.com/guia-efectiva-para-la-restauracion-de-archivos-mp4-borrados/"><u>Guía Efectiva Para La Restauración De Archivos MP4 Borrados</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-realme-narzo-n53-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Realme Narzo N53</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus with/without SIM Card</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quickening-media-display-on-ppt/"><u>In 2024, Quickening Media Display on PPT</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/reel-of-excellence-ice-artistry-in-22-summary-for-2024/"><u>Reel of Excellence - Ice Artistry in '22 Summary for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/schritt-fur-schritt-leitfaden-zum-sicheren-upgrade-des-ssd-auf-das-razer-blade-15-202n/"><u>Schritt-Für-Schritt-Leitfaden Zum Sicheren Upgrade Des SSD Auf Das Razer Blade 15 (202N)</u></a></li>
-<li><a href="https://win-online.techidaily.com/understanding-the-acer-bios-steps-to-access-and-customize-your-system-settings/"><u>Understanding the Acer BIOS: Steps to Access and Customize Your System Settings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-detailed-review-the-ultimate-5-low-frame-rate-gear-for-2024/"><u>[New] Detailed Review The Ultimate 5 Low Frame Rate Gear for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-12-premier-video-game-entrances-by-top-youtubers-free-and-paid-analysis/"><u>[Updated] 2024 Approved 12 Premier Video Game Entrances by Top Youtubers Free & Paid Analysis</u></a></li>
+<li><a href="https://win-online.techidaily.com/1-schritt-fur-schritt-anleitung-zum-erstellen-eines-windows-11-uefi-bootfahigen-usb-flashdrives-mit-rufus-und-alternativen-methoden/"><u>1. Schritt-Für-Schritt-Anleitung Zum Erstellen Eines Windows 11 UEFI Bootfähigen USB Flashdrives Mit Rufus Und Alternativen Methoden</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-to-share-your-iphone-pictures-via-bluetooth-connectivity-with-another-iphone/"><u>How To Share Your iPhone Pictures via Bluetooth Connectivity with Another iPhone</u></a></li>
+<li><a href="https://win-online.techidaily.com/maximizing-your-profit-a-guide-to-finding-top-quality-resellable-items-with-massmail-software/"><u>Maximizing Your Profit: A Guide to Finding Top-Quality Resellable Items with MassMail Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/prepping-hard-drives-for-second-life-effective-clean-up-techniques-explored/"><u>Prepping Hard Drives for Second Life: Effective Clean-Up Techniques Explored</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solutions-for-when-lost-ark-cant-connect-with-its-servers-online/"><u>Solutions for When Lost Ark Can't Connect with Its Servers Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-troubleshooting-manual-for-resolving-chromes-monochrome-mode/"><u>The Ultimate Troubleshooting Manual for Resolving Chrome's Monochrome Mode</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-lava-yuva-2-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Lava Yuva 2 Pro without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
 

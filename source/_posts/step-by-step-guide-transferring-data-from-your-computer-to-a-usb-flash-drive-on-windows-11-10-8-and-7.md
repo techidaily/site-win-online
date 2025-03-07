@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Transferring Data From Your Computer to a USB Flash Drive on Windows 11, 10, 8 & 7"
-date: 2025-02-16T16:33:09.639Z
-updated: 2025-02-18T23:48:22.794Z
+date: 2025-03-01T18:10:55.402Z
+updated: 2025-03-07T22:12:16.906Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a1551bf0ada3f1e75697ff38.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/4a8a85a143c0d3d9775ca5a0e81916a22ae62d07a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
@@ -42,10 +38,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is it possible to recover data from ransomware?
 
 I'm looking at a computer after it's been hit by some ransomware. The files have been encrypted. I am trying some guides in removal and recovery, but they don't seem to be of much help. If you have suggestions on how to recover files from ransomware, I would appreciate it.
@@ -55,10 +47,6 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -84,10 +72,6 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
@@ -110,25 +94,13 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -146,14 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -163,10 +127,6 @@ Next, let’s have a look at how to recover files infected by ransomware from a 
 Step 1\. Press **Win + S** to open the Windows search box, type **Create a restore point**, and click **Open** from the list of results.
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Click on **System Restore** \> **Next**.
 
@@ -256,17 +216,19 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unleash-the-power-of-branded-icons-and-gifs-in-instagram-stories/"><u>[New] Unleash the Power of Branded Icons & GIFs in Instagram Stories</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-secrets-to-successful-twitpicingvideos-included/"><u>[Updated] In 2024, Secrets to Successful Twitpicing—Videos Included</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-memory-device-for-sony-a7s-cameras/"><u>2024 Approved Premium Memory Device for Sony A7S Cameras</u></a></li>
-<li><a href="https://win-online.techidaily.com/acer-system-restore-windows-10/"><u>熊貓軟體 - Acer System Restore 功能介紹及如何在 Windows 10 上使用</u></a></li>
-<li><a href="https://win-online.techidaily.com/backup-e-ripristino-software-di-aomei-soluzione-unica-per-la-manutenzione-su-diversi-tipi-di-hardware/"><u>Backup E Ripristino Software Di AOMEI: Soluzione Unica per La Manutenzione Su Diversi Tipi Di Hardware</u></a></li>
-<li><a href="https://win-online.techidaily.com/efficient-strategies-for-moving-outlook-mailbox-to-gmail-while-ensuring-robust-email-safety-measures/"><u>Efficient Strategies for Moving Outlook Mailbox to Gmail While Ensuring Robust Email Safety Measures</u></a></li>
-<li><a href="https://techtrends.techidaily.com/impact-of-memory-speeds-and-latencies-on-pc-performance/"><u>Impact of Memory Speeds & Latencies on PC Performance</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-magic-6-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/melhor-ferramenta-de-backup-gratuita-para-clonar-hdd-ou-ssd-em-sistemas-windows-xp-vista-7/"><u>Melhor Ferramenta De Backup Gratuita Para Clonar HDD Ou SSD Em Sistemas Windows (XP, Vista, 7)</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-your-go-to-guide-10-best-public-domain-image-resources/"><u>New Your Go-To Guide 10 Best Public Domain Image Resources</u></a></li>
-<li><a href="https://win-blog.techidaily.com/revive-skyrims-immersive-experience-solving-the-no-sound-dilemma/"><u>Revive Skyrim's Immersive Experience: Solving the No Sound Dilemma</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-solving-forza-horizon-5-pc-crashes/"><u>Troubleshooting: Solving Forza Horizon 5 PC Crashes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-ultimate-tutorial-mastering-twitter-video-responses/"><u>[Updated] In 2024, Ultimate Tutorial Mastering Twitter Video Responses</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-textual-enhancements-in-visual-media/"><u>2024 Approved Textual Enhancements in Visual Media</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/choosing-frame-rate-wisely-is-30-or-60-fps-better-for-2024/"><u>Choosing Frame Rate Wisely Is 30 or 60 FPS Better for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-the-evolving-meanings-of-facebooks-page-names/"><u>Decoding the Evolving Meanings of Facebook's Page Names</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-hdmi-connectivity-issues-on-your-windows-11-pc-with-a-tv/"><u>Diagnosing and Fixing HDMI Connectivity Issues on Your Windows 11 PC with a TV</u></a></li>
+<li><a href="https://win-online.techidaily.com/enhancing-your-pcs-efficiency-essential-tips-from-yl-software-and-expertise/"><u>Enhancing Your PC's Efficiency: Essential Tips From YL Software and Expertise</u></a></li>
+<li><a href="https://win-online.techidaily.com/exploring-your-computers-specs-through-windows-settings-tips-and-tricks-digital-explorer-guides/"><u>Exploring Your Computer's Specs Through Windows Settings: Tips & Tricks - Digital Explorer Guides</u></a></li>
+<li><a href="https://win-online.techidaily.com/high-definition-christian-cross-live-wallpaper-loop-yl-computings-exclusive-design/"><u>High Definition Christian Cross Live Wallpaper Loop - YL Computing's Exclusive Design</u></a></li>
+<li><a href="https://win-online.techidaily.com/high-definition-danbo-wallpaper-collection-elegant-and-vibrant-hd-backgrounds-by-yl-computing/"><u>High-Definition Danbo Wallpaper Collection: Elegant & Vibrant HD Backgrounds by YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/understanding-the-significance-the-great-wall-of-china-explained-by-yl-computing/"><u>Understanding the Significance: The Great Wall of China Explained by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-power-commands-with-sudo-on-windows/"><u>Unlocking Power Commands with Sudo on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/user-experience-insights-for-snappy-driver-installer-v113/"><u>User Experience Insights for Snappy Driver Installer V1.13</u></a></li>
+<li><a href="https://win-unique.techidaily.com/wordrecente-dokumenten-ontsnappen-van-zicht-beslissingen-foutoplossession/"><u>WordRecente Dokumenten Ontsnappen Van Zicht - Beslissingen Foutoplossession</u></a></li>
 </ul></div>
 

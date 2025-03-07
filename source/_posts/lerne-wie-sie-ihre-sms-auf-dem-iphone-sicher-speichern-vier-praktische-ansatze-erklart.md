@@ -1,7 +1,7 @@
 ---
 title: Lerne, Wie Sie Ihre SMS Auf Dem iPhone Sicher Speichern – Vier Praktische Ansätze Erklärt
-date: 2025-02-14T21:23:50.914Z
-updated: 2025-02-19T08:28:03.530Z
+date: 2025-03-03T16:07:44.047Z
+updated: 2025-03-07T22:10:43.716Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e737fa90087cc4940fcb0139c.jpg
@@ -78,19 +78,11 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
@@ -102,17 +94,9 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
@@ -134,10 +118,6 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4\. Recover from ransomware through system restore
 
 If you have created a restore point for your system, the system restore can bring your PC back to a previous point in time. This means that you can get back files on your computer that have been encrypted by ransomware through a system restore point.
@@ -152,10 +132,6 @@ Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
@@ -165,10 +141,6 @@ Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -199,10 +171,6 @@ Was the provided information useful? Your vote is important to us!
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Recover Files from Hard Drive Using CMD? Easy & Free!](https://tools.techidaily.com/ubackup/products/)
@@ -223,10 +191,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get MyRecover Now
 
 Recover deleted & lost data from any disasters in Windows.
@@ -234,10 +198,6 @@ Recover deleted & lost data from any disasters in Windows.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
@@ -256,22 +216,21 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-streamlined-processes-for-video-recording-on-youtube/"><u>[New] In 2024, Streamlined Processes for Video Recording on YouTube</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-guide-to-reinventing-facebook-video-coverages-step-by-step/"><u>[Updated] In 2024, Guide to Reinventing Facebook Video Coverages Step-by-Step</u></a></li>
-<li><a href="https://win-online.techidaily.com/44cm5zwp6agm44gq44gp44oq44ol44od44kv44k144od44kv44ot44oh44kq44ks6ksh5yaz44gz44kl57ch5y2y44ks44kk44oj44cn/"><u>「問題なくリュックサックビデオを複写する簡単ガイド」</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-narzo-n55-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme Narzo N55 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/digamp4/"><u>DIGAプラットフォーム上でMP4形式動画が再生できない問題：原因分析と解消方法</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-strategies-to-address-video-schedulers-internal-error-in-windows-10-systems/"><u>Effective Strategies to Address Video Scheduler's Internal Error in Windows 10 Systems</u></a></li>
-<li><a href="https://win-online.techidaily.com/effortless-format-changing-convert-arf-to-widely-supported-videoaudio-types-without-limits/"><u>Effortless Format Changing: Convert ARF to Widely-Supported Video/Audio Types without Limits</u></a></li>
-<li><a href="https://win-online.techidaily.com/expert-tips-on-using-factory-pro-for-effortless-mp4-file-transformation/"><u>Expert Tips on Using Factory Pro for Effortless MP4 File Transformation</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/finding-files-on-your-pc-with-windows-a-comprehensive-guide-by-yl-computing/"><u>Finding Files on Your PC with Windows - A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-online.techidaily.com/focus-t25-dvd/"><u>FOCUS T25エクササイズ DVD リッピングテクニック - 詳しい手順とヒント</u></a></li>
-<li><a href="https://win-online.techidaily.com/guide-accessing-and-sharing-webex-content-across-mobile-devices/"><u>Guide: Accessing & Sharing WebEx Content Across Mobile Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a23-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy A23 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/mpeg-video-compression-techniques/"><u>MPEG Video Compression Techniques</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-rock-solid-footage-8-best-free-online-video-stabilizers/"><u>New Rock-Solid Footage 8 Best Free Online Video Stabilizers</u></a></li>
-<li><a href="https://win-online.techidaily.com/pcmp4jpeg/"><u>PC上でMP4ファイルを効率的にJPEG画像に変換するための究極ガイド</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-fixes-to-prevent-your-airpods-from-dropping-connection-with-iphone-discover-11-tips/"><u>Ultimate Fixes to Prevent Your AirPods From Dropping Connection with iPhone - Discover 11 Tips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-viral-visions-behind-the-meme-for-2024/"><u>[New] Viral Visions Behind the Meme for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-dual-domain-delight-posting-videos-across-social-platforms/"><u>[Updated] 2024 Approved Dual-Domain Delight Posting Videos Across Social Platforms</u></a></li>
+<li><a href="https://win-online.techidaily.com/2-problemlosungsguide-fur-die-windows-8-update-fehlermeldung-80072efe-schritt-fur-schritt-losungen-und-reparaturtipps/"><u>2. Problemlösungsguide Für Die Windows 8 Update-Fehlermeldung 80072Efe: Schritt-Für-Schritt-Lösungen Und Reparaturtipps</u></a></li>
+<li><a href="https://win-online.techidaily.com/5-pc/"><u>易行的 5 技巧：達成優秀PC間快速數據交換</u></a></li>
+<li><a href="https://win-online.techidaily.com/autopsy-software-nutzen-fur-die-rekonstruktion-geloschter-dateien-durch-myrecover-experten/"><u>Autopsy-Software Nutzen Für Die Rekonstruktion Gelöschter Dateien Durch MyRecover Experten</u></a></li>
+<li><a href="https://win-online.techidaily.com/comment-acceder-et-extraire-des-informations-dune-cles-usb-chiffree/"><u>Comment Accéder Et Extraire Des Informations D'une Clés USB Chiffrée</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/computex-2023s-most-impressive-computer-case-creations-featuring-sci-fi-speed-and-spectacle/"><u>Computex 2023'S Most Impressive Computer Case Creations Featuring Sci-Fi, Speed and Spectacle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-steps-for-setting-up-your-new-ipad-a-comprehensive-guide/"><u>Essential Steps for Setting Up Your New iPad: A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-honor-70-lite-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Honor 70 Lite 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-online.techidaily.com/real-time-streaming-of-tweets-mentioning-bitcoin-or-ethereum/"><u>Real-Time Streaming of Tweets Mentioning Bitcoin or Ethereum.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-changing-your-windows-10-taskbar-color/"><u>Step-by-Step Guide: Changing Your Windows 10 Taskbar Color</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-oneplus-11-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent OnePlus 11 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-nubia-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nubia Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win-online.techidaily.com/top-rangige-gratis-spiegelbild-sicherungswerkzeuge-fur-windows-111087-lassen-sie-sich-uberzeugen/"><u>Top-Rangige Gratis Spiegelbild Sicherungswerkzeuge Für Windows 11/10/8/7 - Lassen Sie Sich Überzeugen!</u></a></li>
+<li><a href="https://win-online.techidaily.com/unexpected-disappearance-of-win10-drawer-urgent-rescue-guide-revealed/"><u>Unexpected Disappearance of Win10 Drawer - Urgent Rescue Guide Revealed!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-14-pro-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 14 Pro</u></a></li>
 </ul></div>
 

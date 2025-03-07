@@ -1,7 +1,7 @@
 ---
 title: Advanced Tools for Success in Branding, Advertising & Communication - Discover MassMail
-date: 2025-02-16T16:14:45.890Z
-updated: 2025-02-19T01:59:38.111Z
+date: 2025-02-28T21:21:28.023Z
+updated: 2025-03-07T20:41:25.184Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -40,10 +36,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -51,10 +43,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -82,10 +70,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -93,10 +77,6 @@ If you use several types of media to promote your campaign, use a different keyw
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -126,10 +106,6 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Emily Bronte
 
  Back to blog
@@ -149,20 +125,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-iron-out-glitches-restore-missing-facebook-watch-icons/"><u>[Updated] 2024 Approved Iron Out Glitches - Restore Missing Facebook Watch Icons</u></a></li>
-<li><a href="https://win-online.techidaily.com/10-parental-controls-a-step-by-step-guide-insights-from-yl-software/"><u>10 Parental Controls: A Step-by-Step Guide - Insights From YL Software</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-view-facebook-content-on-your-home-theater/"><u>2024 Approved How To View Facebook Content On Your Home Theater?</u></a></li>
-<li><a href="https://win-online.techidaily.com/boost-your-computers-speed-by-freeing-disk-space-a-comprehensive-guide-yl-software-solutions/"><u>Boost Your Computer's Speed by Freeing Disk Space: A Comprehensive Guide – YL Software Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-the-best-30-no-cost-sites-bringing-high-end-illustration-to-life-for-2024/"><u>Explore the Best 30 No-Cost Sites Bringing High-End Illustration to Life for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/first-unification-of-china-achieved-under-qin-shi-huangs-rule-explored-by-yl-computing-and-yl-software/"><u>First Unification of China Achieved Under Qin Shi Huang's Rule, Explored by YL Computing and YL Software</u></a></li>
-<li><a href="https://win-online.techidaily.com/how-to-resolve-undetected-scanner-issues-on-windows-solutions-from-yl-software-experts/"><u>How to Resolve Undetected Scanner Issues on Windows: Solutions From YL Software Experts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-enhancing-visual-flow-effortless-fade-tricks/"><u>In 2024, Enhancing Visual Flow Effortless Fade Tricks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-masterclass-in-webp-to-jpeg-conversion/"><u>In 2024, Masterclass in WebP to JPEG Conversion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-newest-hp-scanjet-software-compatible-with-win11win8win7-get-it-here/"><u>Install the Newest HP Scanjet Software: Compatible with Win11/Win8/Win7 - Get It Here!</u></a></li>
-<li><a href="https://win-online.techidaily.com/mastering-the-art-of-cryptocurrency-investment-with-yl-softwares-strategic-approach/"><u>Mastering the Art of Cryptocurrency Investment with YL Software's Strategic Approach</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/start-speaking-filipino-today-with-easy-10-minute-lessons/"><u>Start Speaking Filipino Today with Easy 10-Minute Lessons</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-best-webcam-recorders-for-windows-10-for-2024/"><u>The Best Webcam Recorders for Windows 10 for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>The Magnificent Art of Pokemon Go Streaming On Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/1732513539354-yl/"><u>YL软件解码量化降低：持续合同网格技术入门教程 | 坚定不移学习路径</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterful-makeovers-picarts-backdrop-banishment-guide/"><u>[New] Masterful Makeovers PicArt’s Backdrop Banishment Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-high-definition-screens-selecting-your-optimal-4k-display-for-2024/"><u>[Updated] High Definition Screens Selecting Your Optimal 4K Display for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-guide-for-webp-to-jpg-conversion/"><u>[Updated] Precision Guide for WebP to JPG Conversion</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-your-go-to-list-of-best-free-game-apps-on-android/"><u>2024 Approved Your Go-To List of Best Free Game Apps on Android</u></a></li>
+<li><a href="https://win-online.techidaily.com/amvwmvmovavi/"><u>在线无价格转换AMV成WMV：如何使用Movavi工具</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-lines-the-art-of-anonymizing-youtube-content/"><u>Blurred Lines The Art of Anonymizing YouTube Content</u></a></li>
+<li><a href="https://win-online.techidaily.com/comprehensive-overview-the-role-of-vmware-vcenter-agent-and-steps-for-its-efficient-restart/"><u>Comprehensive Overview: The Role of VMware vCenter Agent & Steps for Its Efficient Restart</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converting-your-ebook-from-epub-format-to-amazons-kindle-version/"><u>Converting Your Ebook From EPUB Format to Amazon's Kindle Version</u></a></li>
+<li><a href="https://win-online.techidaily.com/discover-how-to-reveal-hidden-files-tutorial-for-accessing-secrets-on-a-flash-drive-or-pendrive/"><u>Discover How to Reveal Hidden Files: Tutorial for Accessing Secrets on a Flash Drive or Pendrive</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728488065450-error-404-webpage-unavailable-what-to-do-when-you-hit-a-dead-end-online/"><u>Error 404: Webpage Unavailable – What To Do When You Hit a Dead End Online</u></a></li>
+<li><a href="https://win-online.techidaily.com/esplora-le-strategie-di-pulizia-piu-efficienti-in-windows/"><u>Esplora Le Strategie Di Pulizia Più Efficienti in Windows</u></a></li>
+<li><a href="https://win-online.techidaily.com/expert-tutorial-how-to-configure-and-run-windows-10-virtual-machine-using-microsofts-hyper-v-technology/"><u>Expert Tutorial: How to Configure and Run Windows 10 Virtual Machine Using Microsoft's Hyper-V Technology</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-above-and-beyond-uavs-for-gopro-recording-excellence/"><u>In 2024, Above and Beyond UAVs for GoPro Recording Excellence</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ios-18-on-the-horizon-download-for-free-key-characteristics-and-fresh-developments-revealed/"><u>IOS 18 on the Horizon: Download for Free - Key Characteristics and Fresh Developments Revealed</u></a></li>
+<li><a href="https://win-online.techidaily.com/soluciones-para-problemas-de-windows-update-guia-paso-a-paso-en-windows-10-y-11/"><u>Soluciones Para Problemas De Windows Update: Guía Paso a Paso en Windows 10 Y 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-reducing-svchostexe-cpu-impact-on-your-windows-10-pc/"><u>Step-by-Step Tutorial: Reducing svchost.exe CPU Impact on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-online.techidaily.com/top-5-strategien-um-notizen-vom-alten-zum-neuen-iphone-zu-ubertragen/"><u>Top 5 Strategien, Um Notizen Vom Alten Zum Neuen iPhone Zu Übertragen</u></a></li>
+<li><a href="https://win-online.techidaily.com/uitleggen-van-wav-files-een-geinspireerde-bespreking-van-het-wav-onderdeel-in-nederlandstalig/"><u>Uitleggen Van WAV Files: Een Geïnspireerde Bespreking Van Het .wav Onderdeel in Nederlandstalig</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-dji-inspire-2s-features-for-2024/"><u>Unveiling DJI Inspire 2'S Features for 2024</u></a></li>
 </ul></div>
 

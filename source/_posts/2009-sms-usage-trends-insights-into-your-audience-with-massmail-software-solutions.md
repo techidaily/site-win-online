@@ -1,7 +1,7 @@
 ---
 title: "2009 SMS Usage Trends: Insights Into Your Audience with MassMail Software Solutions"
-date: 2025-01-26T11:18:59.071Z
-updated: 2025-01-27T08:33:50.566Z
+date: 2025-03-05T18:02:15.369Z
+updated: 2025-03-07T20:49:08.107Z
 tags:
   - product
 categories:
@@ -44,19 +44,11 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -82,17 +74,9 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -105,10 +89,6 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -125,10 +105,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +125,15 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-photographs-dancing-to-musical-rhythms-for-2024/"><u>[New] Photographs Dancing to Musical Rhythms for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-beginners-guide-to-youtube-image-sharing-for-2024/"><u>[Updated] The Beginner's Guide to YouTube Image Sharing for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-to-pcs-and-macs-best-recorders/"><u>[Updated] Ultimate Guide to PC's and Mac's Best Recorders</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728493426516-404/"><u>「サイト上のページを探す: なぜこのコンテンツは404エラーで表示されるのか」</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-classic-stop-motion-animations-ranking-the-best-15/"><u>2024 Approved Classic Stop-Motion Animations Ranking the Best 15</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-steps-to-permanently-delete-your-instagram-profile-the-complete-guide/"><u>2024 Approved Steps to Permanently Delete Your Instagram Profile The Complete Guide</u></a></li>
-<li><a href="https://win-online.techidaily.com/3-mit-2011-flexibel-tipps-und-tricks-fur-professionelle-datensicherung/"><u>3 Mit 2011 Flexibel? Tipps Und Tricks Für Professionelle Datensicherung</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/ace-titles-our-picks-for-the-very-best-adventurous-players-for-2024/"><u>Ace Titles Our Picks for the Very Best Adventurous Players for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/come-recuperare-le-foto-cancellate-da-un-disco-rigido-esterno/"><u>Come Recuperare Le Foto Cancellate Da Un Disco Rigido Esterno</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-bingchatgpt-token-hoaxes-a-step-by-step-guide-to-spotting-and-preventing-cryptocurrency-scams-online/"><u>Decoding BingChatGPT Token Hoaxes: A Step-by-Step Guide to Spotting & Preventing Cryptocurrency Scams Online</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-guide-setting-up-mirror-synchronization-using-aomei-backupper-on-macos/"><u>Step-by-Step Guide: Setting Up Mirror Synchronization Using AOMEI Backupper on macOS</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-guide-transferring-data-between-two-synology-nas-devices/"><u>Step-by-Step Guide: Transferring Data Between Two Synology NAS Devices</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-ultimate-fixes-when-your-pc-wont-play-battlefield-4-a-comprehensive-walkthrough/"><u>The Ultimate Fixes When Your PC Won’t Play Battlefield 4 – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-online.techidaily.com/ultimate-guide-to-optimal-data-duplication-top-ranking-m2-nvme-ssd-cloning-software-by-aomei-backupper/"><u>Ultimate Guide to Optimal Data Duplication: Top-Ranking M.2 NVMe SSD Cloning Software by AOMEI Backupper</u></a></li>
-<li><a href="https://win-online.techidaily.com/understanding-the-incompatibility-of-wd-smartware-with-windows-11-systems/"><u>Understanding the Incompatibility of WD Smartware with Windows 11 Systems</u></a></li>
+<li><a href="https://win-online.techidaily.com/gif-ogv-movavi/"><u>網路直接 GIF到 OGV免費轉換 - 利用Movavi的優化工具</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discerning-genuine-from-phony-social-links-how-to-recognize-fake-friends-online/"><u>Discerning Genuine From Phony Social Links: How to Recognize Fake Friends Online</u></a></li>
+<li><a href="https://win-online.techidaily.com/dvd-a-avi-e-ritorno-la-guida-completa-per-facili-scambi-con-movie-vault/"><u>DVD a AVI E Ritorno: La Guida Completa per Facili Scambi Con Movie Vault</u></a></li>
+<li><a href="https://win-online.techidaily.com/free-transformation-how-to-change-a-gif-into-a-jpeg-using-the-movavi-image-tool/"><u>Free Transformation: How to Change a GIF Into a JPEG Using the Movavi Image Tool</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-motorola-moto-g23-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Motorola Moto G23 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-apple-watch-discounts-and-offers-save-big-in-month/"><u>Top Apple Watch Discounts & Offers - Save Big in [Month]</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-zombies-into-a-gameplay-delight-in-depth-analysis-of-7-days-to-die-on-sandbox-platforms/"><u>Transforming Zombies Into a Gameplay Delight: In-Depth Analysis of '7 Days to Die' On Sandbox Platforms</u></a></li>
+<li><a href="https://win-superb.techidaily.com/troubleshooting-and-repairing-computer-startup-failures-from-cd-or-dvd-with-windows-11-top-4-methods-explored/"><u>Troubleshooting and Repairing Computer Startup Failures From CD or DVD with Windows 11 - Top 4 Methods Explored</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/tutorial-reset-fotografik-lepas-dari-sistem-puspa-belanja-hasil-positif/"><u>Tutorial Reset Fotografik Lepas Dari Sistem Puspa Belanja - Hasil Positif!</u></a></li>
+<li><a href="https://win-online.techidaily.com/mpgwmv-wmf-movavi/"><u>영구인 MPG/WMV를 전자보감 WMF로 대체 - Movavi 솔루션</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: どのようにして自動バックアップを設定するか？ - SEO最適化ツイート
-date: 2025-02-13T17:08:07.823Z
-updated: 2025-02-18T23:59:24.828Z
+date: 2025-03-06T18:38:15.044Z
+updated: 2025-03-07T16:53:38.835Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211072cf38379ccece2b069d93.jpg
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
 Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finden Sie auf dieser Seite. Sie können auch erfahren, wie Sie gelöschte Dateien aus dem Papierkorb wiederherstellen können, nachdem dieser geleert wurde, und Sie erhalten entsprechende Tipps zur Wiederherstellung des Papierkorbs.
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14.09.2024
 
@@ -74,17 +66,9 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
@@ -122,10 +106,6 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
@@ -157,10 +137,6 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
@@ -180,10 +156,6 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -206,10 +178,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -247,10 +215,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -268,24 +232,24 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-accelerating-livestreams-on-periscope-made-easy-for-2024/"><u>[Updated] Accelerating Livestreams on Periscope Made Easy for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-alternatives-to-xsplit-for-digital-media-masters/"><u>2024 Approved Alternatives to Xsplit for Digital Media Masters</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/5l2v6zya5a2y5qqu5l2g55qe6loh5paz77ya5lia5yih5y6f5zug6kej5p6q/"><u>何需存檔你的資料：一切原因解析</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-bifunctional-tech-of-the-year-the-overlooked-workplace-asset-revealed/"><u>Best Bifunctional Tech of the Year: The Overlooked Workplace Asset Revealed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boost-your-frame-rate-and-eliminate-stutters-optimize-performance-in-the-ascent/"><u>Boost Your Frame Rate & Eliminate Stutters: Optimize Performance in 'The Ascent'</u></a></li>
-<li><a href="https://win-online.techidaily.com/effortless-guide-transferring-and-storing-your-gmail-emails-onto-a-usb-drive/"><u>Effortless Guide: Transferring and Storing Your Gmail Emails Onto a USB Drive</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-strategies-to-recover-lost-connections-in-the-world-of-terraria/"><u>Expert Strategies to Recover Lost Connections in the World of Terraria</u></a></li>
-<li><a href="https://win-online.techidaily.com/expert-tips-for-executing-a-dell-factory-reset-through-the-windows-7-terminal/"><u>Expert Tips for Executing a Dell Factory Reset Through the Windows 7 Terminal</u></a></li>
-<li><a href="https://win-online.techidaily.com/guaranteeing-full-file-safety-during-windows-noraing-updates-a-comprehensive-guide/"><u>Guaranteeing Full File Safety During Windows Noraing Updates: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-dark-patterns-mislead-you-into-making-bad-privacy-choices/"><u>How Dark Patterns Mislead You Into Making Bad Privacy Choices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-honor-magic-6-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Honor Magic 6 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/how-to-make-a-gif-from-vimeo-video/"><u>How to Make a GIF From Vimeo Video</u></a></li>
-<li><a href="https://win-online.techidaily.com/il-metodo-ottimale-per-il-backup-delle-e-mail-soprattutto-piu-di-una-guida-passo-passo/"><u>Il Metodo Ottimale per Il Backup Delle E-Mail: Soprattutto Più Di Una Guida Passo-Passo</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-a60s-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel A60s Phone FRP Lock</u></a></li>
-<li><a href="https://win-online.techidaily.com/qnap-naswindowsos-onedrive/"><u>QNAP NAS機器をWindowsOSであなたの重要データを保護: OneDriveに簡単同期方法</u></a></li>
-<li><a href="https://win-online.techidaily.com/resolved-fixing-download-errors-overcoming-the-0x800f0806-issue-in-windows-update/"><u>Resolved: Fixing Download Errors - Overcoming the 0X800F0806 Issue in Windows Update</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-solution-resolving-the-whatsapp-freeze-problem/"><u>Step-by-Step Solution: Resolving the WhatsApp Freeze Problem</u></a></li>
-<li><a href="https://win-online.techidaily.com/troubleshooting-guide-how-to-successfully-transfer-pictures-from-your-iphone-to-a-mac/"><u>Troubleshooting Guide: How to Successfully Transfer Pictures From Your iPhone to a Mac</u></a></li>
-<li><a href="https://win-online.techidaily.com/aapaka-hata-gaii-downloads-vapasa-windows-1011-ma-cal-karana-ka-nayamata-thashhatakanae/"><u>आपकी हटी गई Downloads वापस Windows 10/11 में चालू करने का नियमित दृष्टिकोण</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-boosting-earnings-in-cosmetic-videography-for-2024/"><u>[Updated] Boosting Earnings in Cosmetic Videography for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-boosting-revenue-with-youtube-short-videos-a-complete-plan/"><u>[Updated] Boosting Revenue with YouTube Short Videos – A Complete Plan</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-playback-issues-resolving-video-not-showing-sony-a6400/"><u>[Updated] Playback Issues Resolving Video Not Showing Sony A6400</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-quiet-curtains-the-pp-approach-to-invisible-sound-endings/"><u>2024 Approved Crafting Quiet Curtains The PP Approach to Invisible Sound Endings</u></a></li>
+<li><a href="https://win-online.techidaily.com/enhancing-pc-protection-how-often-to-refresh-windows-defender-according-to-industry-pros-at-yl-software/"><u>Enhancing PC Protection: How Often to Refresh Windows Defender According to Industry Pros at YL Software</u></a></li>
+<li><a href="https://win-online.techidaily.com/exploring-the-use-of-digital-assets-in-trade-a-look-into-cryptocurrencies-by-yl-computing/"><u>Exploring the Use of Digital Assets in Trade: A Look Into Cryptocurrencies by YL Computing</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-does-cryptocurrency-elevate-your-financial-game-discover-the-perks-at-yl-computing-yl-software/"><u>How Does Cryptocurrency Elevate Your Financial Game? Discover the Perks at YL Computing | YL Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/managing-your-pc-settings-a-step-by-step-guide-to-addingremoving-applications-via-the-control-panel-tips-from-yl-software/"><u>Managing Your PC Settings: A Step-by-Step Guide to Adding/Removing Applications via the Control Panel - Tips From YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-mystery-of-failed-usb-recognition-in-windows-fixed-now/"><u>Overcoming the Mystery of Failed USB Recognition in Windows - Fixed Now</u></a></li>
+<li><a href="https://win-online.techidaily.com/personalizing-your-input-devices-step-by-step-guide-to-configuring-mouse-and-keyboard-in-yl-software/"><u>Personalizing Your Input Devices: Step-by-Step Guide to Configuring Mouse & Keyboard in YL Software</u></a></li>
+<li><a href="https://win-online.techidaily.com/professional-dodge-cummings-series-hd-image-collection-premium-wallpapers-desktop-backgrounds-photos-curated-by-yl-software-solutions/"><u>Professional Dodge Cummings Series HD Image Collection | Premium Wallpapers, Desktop Backgrounds, Photos – Curated by YL Software Solutions</u></a></li>
+<li><a href="https://win-online.techidaily.com/solving-common-printer-mistakes-expert-tips-from-yl-computing/"><u>Solving Common Printer Mistakes: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://article-files.techidaily.com/timing-duration-for-a-20mb-high-definition-video-for-2024/"><u>Timing Duration for a 20Mb High-Definition Video for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/troubleshooting-tips-repairing-your-scanner-when-it-fails-to-recognize-paperwork-expert-advice-from-yl-software-solutions/"><u>Troubleshooting Tips: Repairing Your Scanner When It Fails to Recognize Paperwork - Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://win-online.techidaily.com/understanding-the-frequent-crashes-of-your-scanning-software-with-yl-solutions/"><u>Understanding the Frequent Crashes of Your Scanning Software with YL Solutions</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-send-unforgettable-invites-with-these-best-video-apps-for-ios-and-android/"><u>Updated In 2024, Send Unforgettable Invites with These Best Video Apps for iOS & Android</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-osprores/"><u>Windows OS上で動画をProResで表示する方法 -対処ガイド</u></a></li>
 </ul></div>
 
